@@ -1,0 +1,22 @@
+[
+ {
+  "Description": "Generic API Key",
+  "StartLine": 31,
+  "EndLine": 31,
+  "StartColumn": 3,
+  "EndColumn": 49,
+  "Match": "AuthToken  = \"2ecaf0108548e09a74387cbb28456aa2\"",
+  "Secret": "2ecaf0108548e09a74387cbb28456aa2",
+  "File": "README.md",
+  "SymlinkFile": "",
+  "Commit": "e8714b2acaa25775de5376c449aa224db29e91fd",
+  "Entropy": 3.7417293,
+  "Author": "domwong",
+  "Email": "domwongemail@googlemail.com",
+  "Date": "2016-08-30T17:05:42Z",
+  "Message": "Params for /Messages should be query string params not body",
+  "Tags": [],
+  "RuleID": "generic-api-key",
+  "Fingerprint": "e8714b2acaa25775de5376c449aa224db29e91fd:README.md:generic-api-key:31"
+ }
+]

@@ -1,0 +1,124 @@
+Found unverified result 🐷🔑❓
+Detector Type: Parseur
+Decoder Type: PLAIN
+Raw result: 9da19e7bee8d12dff0513ed5b76957793bc2e8d4
+File: results/h3-js/yarn.lock
+Line: 12
+
+Found unverified result 🐷🔑❓
+Detector Type: Parseur
+Decoder Type: PLAIN
+Raw result: 9da19e7bee8d12dff0513ed5b76957793bc2e8d4
+File: results/h3-js/yarn.lock
+Line: 247
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: uCBC00XBtAykoMHwTh8Q
+File: results/h3-js/yarn.lock
+Line: 229
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: EMSCRIPTEN_START_ASM
+File: results/h3-js/out/libh3.js
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: 5Lr085X7naowMwKHDG1A
+File: results/h3-js/yarn.lock
+Line: 63
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: property-descriptors
+File: results/h3-js/yarn.lock
+Line: 118
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: property-descriptors
+File: results/h3-js/yarn.lock
+Line: 5
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: update-browserslist-
+File: results/h3-js/yarn.lock
+Line: 71
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: MD0m3sferOkwWtp98bv+
+File: results/h3-js/yarn.lock
+Line: 70
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: update-browserslist-
+File: results/h3-js/yarn.lock
+Line: 73
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: 5Lr085X7naowMwKHDG1A
+File: results/h3-js/yarn.lock
+Line: 62
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: property-descriptors
+File: results/h3-js/yarn.lock
+Line: 235
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: property-descriptors
+File: results/h3-js/yarn.lock
+Line: 221
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: 5Lr085X7naowMwKHDG1A
+File: results/h3-js/yarn.lock
+Line: 296
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: EMSCRIPTEN_START_ASM
+File: results/h3-js/out/libh3.js
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: _cellsToDirectedEdge
+File: results/h3-js/out/libh3.js
+Line: 3
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: _cellsToDirectedEdge
+File: results/h3-js/out/libh3.js
+Line: 3
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: uCBC00XBtAykoMHwTh8Q
+File: results/h3-js/yarn.lock
+Line: 5
+

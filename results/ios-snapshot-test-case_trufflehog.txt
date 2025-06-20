@@ -1,0 +1,14 @@
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: ci_demo_preprocessor
+File: results/ios-snapshot-test-case/build.sh
+Line: 19
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: ci_demo_preprocessor
+File: results/ios-snapshot-test-case/build.sh
+Line: 33
+

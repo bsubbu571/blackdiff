@@ -1,0 +1,22 @@
+[
+ {
+  "Description": "Generic API Key",
+  "StartLine": 9,
+  "EndLine": 9,
+  "StartColumn": 7,
+  "EndColumn": 51,
+  "Match": "auth_token = 'MLth87eHvSAaCQ1vn7jTd0xA9Kapo5'",
+  "Secret": "MLth87eHvSAaCQ1vn7jTd0xA9Kapo5",
+  "File": "test/test_endpoints.py",
+  "SymlinkFile": "",
+  "Commit": "cfb2ca24b48dbe76a473cf135fbd0065e026907b",
+  "Entropy": 4.640224,
+  "Author": "Aiden Scandella",
+  "Email": "sc@ndella.com",
+  "Date": "2015-03-09T18:07:09Z",
+  "Message": "Merge pull request #24 from shubs/patch-1\n\nLittle \u003c/p\u003e missing",
+  "Tags": [],
+  "RuleID": "generic-api-key",
+  "Fingerprint": "cfb2ca24b48dbe76a473cf135fbd0065e026907b:test/test_endpoints.py:generic-api-key:9"
+ }
+]

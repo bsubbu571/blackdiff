@@ -1,0 +1,28 @@
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: use-staging-git-tags
+File: results/arcanist/src/workflow/ArcanistPatchWorkflow.php
+Line: 121
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: use-staging-git-tags
+File: results/arcanist/src/workflow/ArcanistPatchWorkflow.php
+Line: 100
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: uberHasGitSubmodules
+File: results/arcanist/src/repository/api/ArcanistGitAPI.php
+Line: 218
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: forceStagingGitDiffs
+File: results/arcanist/src/workflow/ArcanistBulkPatchWorkflow.php
+Line: 14
+

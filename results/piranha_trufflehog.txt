@@ -1,0 +1,94 @@
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: Pm+vwAAAAAJl4O4tYl7+
+File: results/piranha/images/piranha_architecture.svg
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: +30CAAAAAPSBluSbycK3
+File: results/piranha/images/piranha_architecture.svg
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: +fy5XGwGiRJWuZbkviz+
+File: results/piranha/images/piranha_architecture.svg
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: +fy5XGwGiRJWuZbkviz+
+File: results/piranha/images/piranha_architecture.svg
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: +1mj8T6MPQJpL7LR9zd+
+File: results/piranha/images/piranha_architecture.svg
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: ga6fhzqBxkvuF0R2EbDo
+File: results/piranha/images/piranha_architecture.svg
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: rUbw8py3DElb1IAAOYf6
+File: results/piranha/images/piranha_architecture.svg
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: PiranhaOutputSummary
+File: results/piranha/src/lib.rs
+Line: 15
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: PiranhaOutputSummary
+File: results/piranha/src/lib.rs
+Line: 6
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: get_tree_sitter_edit
+File: results/piranha/src/utilities/tree_sitter_utilities.rs
+Line: 191
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: get_tree_sitter_edit
+File: results/piranha/src/utilities/tree_sitter_utilities.rs
+Line: 200
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: +KZL4O1hJPnt4ldlMix+
+File: results/piranha/images/piranha_architecture.svg
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: wOaVOLd+ZHFU8Cu2j8Q+
+File: results/piranha/images/piranha_architecture.svg
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: o+nCbnuB9L7rIrr37XQ+
+File: results/piranha/images/piranha_architecture.svg
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: zr7me8+Kv1027nuH8fF+
+File: results/piranha/images/piranha_architecture.svg
+

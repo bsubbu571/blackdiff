@@ -1,0 +1,1029 @@
+Found unverified result 🐷🔑❓
+Detector Type: Circle
+Decoder Type: PLAIN
+Raw result: dc017d8c0131d1d212b7c06f76510c22bbeb093c
+File: results/nebula.gl/examples/overlays/yarn.lock
+Line: 78
+
+Found unverified result 🐷🔑❓
+Detector Type: Parseur
+Decoder Type: PLAIN
+Raw result: 9da19e7bee8d12dff0513ed5b76957793bc2e8d4
+File: results/nebula.gl/examples/editable-h3-cluster-layer/yarn.lock
+Line: 74
+
+Found unverified result 🐷🔑❓
+Detector Type: Signable
+Decoder Type: PLAIN
+Raw result: -explode-assignable-expression-7
+File: results/nebula.gl/examples/editable-h3-cluster-layer/yarn.lock
+Line: 121
+
+Found unverified result 🐷🔑❓
+Detector Type: Circle
+Decoder Type: PLAIN
+Raw result: dc017d8c0131d1d212b7c06f76510c22bbeb093c
+File: results/nebula.gl/examples/react-map-gl-draw/yarn.lock
+Line: 262
+
+Found unverified result 🐷🔑❓
+Detector Type: Signable
+Decoder Type: BASE64
+Raw result: -explode-assignable-expression-7
+File: results/nebula.gl/examples/editor/yarn.lock
+Line: 121
+
+Found unverified result 🐷🔑❓
+Detector Type: Circle
+Decoder Type: PLAIN
+Raw result: dc017d8c0131d1d212b7c06f76510c22bbeb093c
+File: results/nebula.gl/examples/react-map-gl-draw/yarn.lock
+Line: 52
+
+Found unverified result 🐷🔑❓
+Detector Type: Signable
+Decoder Type: PLAIN
+Raw result: -explode-assignable-expression-7
+File: results/nebula.gl/examples/editable-h3-cluster-layer/yarn.lock
+Line: 108
+
+Found unverified result 🐷🔑❓
+Detector Type: Circle
+Decoder Type: PLAIN
+Raw result: dc017d8c0131d1d212b7c06f76510c22bbeb093c
+File: results/nebula.gl/examples/sf/yarn.lock
+Line: 108
+
+Found unverified result 🐷🔑❓
+Detector Type: Parseur
+Decoder Type: PLAIN
+Raw result: 9da19e7bee8d12dff0513ed5b76957793bc2e8d4
+File: results/nebula.gl/examples/editor/yarn.lock
+Line: 284
+
+Found unverified result 🐷🔑❓
+Detector Type: Parseur
+Decoder Type: PLAIN
+Raw result: 9da19e7bee8d12dff0513ed5b76957793bc2e8d4
+File: results/nebula.gl/examples/no-map/yarn.lock
+Line: 270
+
+Found unverified result 🐷🔑❓
+Detector Type: Signable
+Decoder Type: BASE64
+Raw result: -explode-assignable-expression-7
+File: results/nebula.gl/examples/editor/yarn.lock
+Line: 108
+
+Found unverified result 🐷🔑❓
+Detector Type: Parseur
+Decoder Type: PLAIN
+Raw result: 9da19e7bee8d12dff0513ed5b76957793bc2e8d4
+File: results/nebula.gl/examples/no-map/yarn.lock
+Line: 36
+
+Found unverified result 🐷🔑❓
+Detector Type: Parseur
+Decoder Type: PLAIN
+Raw result: 9da19e7bee8d12dff0513ed5b76957793bc2e8d4
+File: results/nebula.gl/examples/overlays/yarn.lock
+Line: 82
+
+Found unverified result 🐷🔑❓
+Detector Type: Parseur
+Decoder Type: PLAIN
+Raw result: 9da19e7bee8d12dff0513ed5b76957793bc2e8d4
+File: results/nebula.gl/examples/react-map-gl-draw/yarn.lock
+Line: 283
+
+Found unverified result 🐷🔑❓
+Detector Type: Parseur
+Decoder Type: PLAIN
+Raw result: 9da19e7bee8d12dff0513ed5b76957793bc2e8d4
+File: results/nebula.gl/examples/react-map-gl-draw/yarn.lock
+Line: 58
+
+Found unverified result 🐷🔑❓
+Detector Type: Circle
+Decoder Type: PLAIN
+Raw result: 82c0e904a34e90fa672fb9c286bc892e92088ddf
+File: results/nebula.gl/website/yarn.lock
+Line: 155
+
+Found unverified result 🐷🔑❓
+Detector Type: Signable
+Decoder Type: PLAIN
+Raw result: -explode-assignable-expression-7
+File: results/nebula.gl/examples/no-map/yarn.lock
+Line: 108
+
+Found unverified result 🐷🔑❓
+Detector Type: Signable
+Decoder Type: BASE64
+Raw result: -explode-assignable-expression-7
+File: results/nebula.gl/examples/no-map/yarn.lock
+Line: 121
+
+Found unverified result 🐷🔑❓
+Detector Type: Signable
+Decoder Type: BASE64
+Raw result: -explode-assignable-expression-7
+File: results/nebula.gl/examples/sf/yarn.lock
+Line: 108
+
+Found unverified result 🐷🔑❓
+Detector Type: Signable
+Decoder Type: PLAIN
+Raw result: -explode-assignable-expression-7
+File: results/nebula.gl/examples/overlays/yarn.lock
+Line: 121
+
+Found unverified result 🐷🔑❓
+Detector Type: Signable
+Decoder Type: PLAIN
+Raw result: -explode-assignable-expression-7
+File: results/nebula.gl/examples/overlays/yarn.lock
+Line: 108
+
+Found unverified result 🐷🔑❓
+Detector Type: Parseur
+Decoder Type: PLAIN
+Raw result: 9da19e7bee8d12dff0513ed5b76957793bc2e8d4
+File: results/nebula.gl/examples/sf/yarn.lock
+Line: 184
+
+Found unverified result 🐷🔑❓
+Detector Type: Signable
+Decoder Type: BASE64
+Raw result: -explode-assignable-expression-7
+File: results/nebula.gl/examples/react-map-gl-draw/yarn.lock
+Line: 108
+
+Found unverified result 🐷🔑❓
+Detector Type: Signable
+Decoder Type: BASE64
+Raw result: -explode-assignable-expression-7
+File: results/nebula.gl/examples/sf/yarn.lock
+Line: 121
+
+Found unverified result 🐷🔑❓
+Detector Type: Signable
+Decoder Type: BASE64
+Raw result: -explode-assignable-expression-7
+File: results/nebula.gl/examples/react-map-gl-draw/yarn.lock
+Line: 121
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: EditableGeoJSONLayer
+File: results/nebula.gl/CHANGELOG.md
+Line: 57
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: EditableGeoJSONLayer
+File: results/nebula.gl/CHANGELOG.md
+Line: 73
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: featuresToInfoString
+File: results/nebula.gl/examples/advanced/src/example.tsx
+Line: 141
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: I0t4OgXUlofzWILRvS5w
+File: results/nebula.gl/examples/editable-h3-cluster-layer/yarn.lock
+Line: 129
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: I0t4OgXUlofzWILRvS5w
+File: results/nebula.gl/examples/editable-h3-cluster-layer/yarn.lock
+Line: 116
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: I0t4OgXUlofzWILRvS5w
+File: results/nebula.gl/examples/editor/yarn.lock
+Line: 116
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: uCBC00XBtAykoMHwTh8Q
+File: results/nebula.gl/examples/editable-h3-cluster-layer/yarn.lock
+Line: 187
+
+Found unverified result 🐷🔑❓
+Detector Type: Signable
+Decoder Type: PLAIN
+Raw result: -explode-assignable-expression-7
+File: results/nebula.gl/website/yarn.lock
+Line: 181
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: property-descriptors
+File: results/nebula.gl/examples/editable-h3-cluster-layer/yarn.lock
+Line: 166
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: I0t4OgXUlofzWILRvS5w
+File: results/nebula.gl/examples/editor/yarn.lock
+Line: 129
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: I0t4OgXUlofzWILRvS5w
+File: results/nebula.gl/examples/no-map/yarn.lock
+Line: 129
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: uCBC00XBtAykoMHwTh8Q
+File: results/nebula.gl/examples/editor/yarn.lock
+Line: 170
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: I0t4OgXUlofzWILRvS5w
+File: results/nebula.gl/examples/no-map/yarn.lock
+Line: 116
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: property-descriptors
+File: results/nebula.gl/examples/editor/yarn.lock
+Line: 161
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: property-descriptors
+File: results/nebula.gl/examples/no-map/yarn.lock
+Line: 11
+
+Found unverified result 🐷🔑❓
+Detector Type: Signable
+Decoder Type: PLAIN
+Raw result: -explode-assignable-expression-7
+File: results/nebula.gl/website/yarn.lock
+Line: 168
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: uCBC00XBtAykoMHwTh8Q
+File: results/nebula.gl/examples/no-map/yarn.lock
+Line: 215
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: I0t4OgXUlofzWILRvS5w
+File: results/nebula.gl/examples/overlays/yarn.lock
+Line: 129
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: property-descriptors
+File: results/nebula.gl/examples/no-map/yarn.lock
+Line: 36
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: uCBC00XBtAykoMHwTh8Q
+File: results/nebula.gl/examples/overlays/yarn.lock
+Line: 302
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: I0t4OgXUlofzWILRvS5w
+File: results/nebula.gl/examples/overlays/yarn.lock
+Line: 116
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: uCBC00XBtAykoMHwTh8Q
+File: results/nebula.gl/examples/overlays/yarn.lock
+Line: 61
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: property-descriptors
+File: results/nebula.gl/examples/overlays/yarn.lock
+Line: 120
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: I0t4OgXUlofzWILRvS5w
+File: results/nebula.gl/examples/react-map-gl-draw/yarn.lock
+Line: 129
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: I0t4OgXUlofzWILRvS5w
+File: results/nebula.gl/examples/react-map-gl-draw/yarn.lock
+Line: 116
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: dFY48KuIEmjtd4RViDrA
+File: results/nebula.gl/examples/overlays/yarn.lock
+Line: 33
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: uCBC00XBtAykoMHwTh8Q
+File: results/nebula.gl/examples/react-map-gl-draw/yarn.lock
+Line: 144
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: dFY48KuIEmjtd4RViDrA
+File: results/nebula.gl/examples/react-map-gl-draw/yarn.lock
+Line: 30
+
+Found unverified result 🐷🔑❓
+Detector Type: Circle
+Decoder Type: PLAIN
+Raw result: dc017d8c0131d1d212b7c06f76510c22bbeb093c
+File: results/nebula.gl/yarn.lock
+Line: 167
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: I0t4OgXUlofzWILRvS5w
+File: results/nebula.gl/examples/sf/yarn.lock
+Line: 129
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: I0t4OgXUlofzWILRvS5w
+File: results/nebula.gl/examples/sf/yarn.lock
+Line: 116
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: uCBC00XBtAykoMHwTh8Q
+File: results/nebula.gl/examples/sf/yarn.lock
+Line: 88
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: property-descriptors
+File: results/nebula.gl/examples/sf/yarn.lock
+Line: 223
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: dFY48KuIEmjtd4RViDrA
+File: results/nebula.gl/examples/sf/yarn.lock
+Line: 32
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: eslint-disable-next-
+File: results/nebula.gl/modules/edit-modes/src/lib/geojson-edit-mode.ts
+Line: 185
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: addTentativePosition
+File: results/nebula.gl/modules/edit-modes/src/lib/measure-distance-mode.ts
+Line: 84
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: addTentativePosition
+File: results/nebula.gl/modules/edit-modes/src/lib/measure-distance-mode.ts
+Line: 101
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: addTentativePosition
+File: results/nebula.gl/modules/edit-modes/src/lib/measure-distance-mode.ts
+Line: 102
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: eslint-disable-next-
+File: results/nebula.gl/modules/edit-modes/src/lib/geojson-edit-mode.ts
+Line: 166
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: eslint-disable-next-
+File: results/nebula.gl/modules/edit-modes/src/lib/split-polygon-mode.ts
+Line: 96
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: eslint-disable-next-
+File: results/nebula.gl/modules/layers/src/mode-handlers/mode-handler.ts
+Line: 215
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: pointerDownMapCoords
+File: results/nebula.gl/modules/edit-modes/test/test-utils.ts
+Line: 299
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: eslint-disable-next-
+File: results/nebula.gl/modules/edit-modes/src/lib/split-polygon-mode.ts
+Line: 106
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: eslint-disable-next-
+File: results/nebula.gl/modules/layers/src/mode-handlers/split-polygon-handler.ts
+Line: 75
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: eslint-disable-next-
+File: results/nebula.gl/modules/layers/src/mode-handlers/mode-handler.ts
+Line: 192
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: updateAllDeckObjects
+File: results/nebula.gl/modules/main/src/lib/nebula.ts
+Line: 40
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: pointerDownMapCoords
+File: results/nebula.gl/modules/edit-modes/test/test-utils.ts
+Line: 323
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: updateAllDeckObjects
+File: results/nebula.gl/modules/main/src/lib/nebula.ts
+Line: 55
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: I0t4OgXUlofzWILRvS5w
+File: results/nebula.gl/website/yarn.lock
+Line: 189
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: I0t4OgXUlofzWILRvS5w
+File: results/nebula.gl/website/yarn.lock
+Line: 176
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: eslint-disable-next-
+File: results/nebula.gl/modules/layers/src/mode-handlers/split-polygon-handler.ts
+Line: 65
+
+Found unverified result 🐷🔑❓
+Detector Type: Signable
+Decoder Type: PLAIN
+Raw result: -explode-assignable-expression-7
+File: results/nebula.gl/yarn.lock
+Line: 137
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: +VubRfsUvBonjQ+PBZG+
+File: results/nebula.gl/website/yarn.lock
+Line: 112
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: property-descriptors
+File: results/nebula.gl/website/yarn.lock
+Line: 100
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: zvPSm5pOFkl6xuGrGnXn
+File: results/nebula.gl/website/yarn.lock
+Line: 125
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: uCBC00XBtAykoMHwTh8Q
+File: results/nebula.gl/website/yarn.lock
+Line: 206
+
+Found unverified result 🐷🔑❓
+Detector Type: Signable
+Decoder Type: PLAIN
+Raw result: -explode-assignable-expression-7
+File: results/nebula.gl/yarn.lock
+Line: 123
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: +sR0U+JjUevW2JhocOF+
+File: results/nebula.gl/website/yarn.lock
+Line: 135
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: I0t4OgXUlofzWILRvS5w
+File: results/nebula.gl/yarn.lock
+Line: 145
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: dFY48KuIEmjtd4RViDrA
+File: results/nebula.gl/website/yarn.lock
+Line: 28
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: hT5M1zvOFL02MnEezFug
+File: results/nebula.gl/yarn.lock
+Line: 117
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: I0t4OgXUlofzWILRvS5w
+File: results/nebula.gl/yarn.lock
+Line: 131
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: +DS4GEtdJluwBjnsNDl+
+File: results/nebula.gl/yarn.lock
+Line: 236
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: uCBC00XBtAykoMHwTh8Q
+File: results/nebula.gl/yarn.lock
+Line: 240
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: property-descriptors
+File: results/nebula.gl/yarn.lock
+Line: 114
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: +DS4GEtdJluwBjnsNDl+
+File: results/nebula.gl/yarn.lock
+Line: 8
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: uCBC00XBtAykoMHwTh8Q
+File: results/nebula.gl/yarn.lock
+Line: 17
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: update-browserslist-
+File: results/nebula.gl/examples/editable-h3-cluster-layer/yarn.lock
+Line: 242
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: +sR0U+JjUevW2JhocOF+
+File: results/nebula.gl/examples/editable-h3-cluster-layer/yarn.lock
+Line: 180
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: validate-npm-package
+File: results/nebula.gl/yarn.lock
+Line: 11
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: dFY48KuIEmjtd4RViDrA
+File: results/nebula.gl/examples/editable-h3-cluster-layer/yarn.lock
+Line: 132
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: update-browserslist-
+File: results/nebula.gl/examples/editable-h3-cluster-layer/yarn.lock
+Line: 29
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: validate-npm-package
+File: results/nebula.gl/yarn.lock
+Line: 13
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: dFY48KuIEmjtd4RViDrA
+File: results/nebula.gl/examples/editor/yarn.lock
+Line: 113
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: update-browserslist-
+File: results/nebula.gl/examples/editor/yarn.lock
+Line: 8
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: update-browserslist-
+File: results/nebula.gl/examples/editable-h3-cluster-layer/yarn.lock
+Line: 244
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: eslint-disable-next-
+File: results/nebula.gl/examples/advanced/src/example.tsx
+Line: 116
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: update-browserslist-
+File: results/nebula.gl/examples/editable-h3-cluster-layer/yarn.lock
+Line: 27
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: update-browserslist-
+File: results/nebula.gl/examples/editor/yarn.lock
+Line: 223
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: +sR0U+JjUevW2JhocOF+
+File: results/nebula.gl/examples/editor/yarn.lock
+Line: 159
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: update-browserslist-
+File: results/nebula.gl/examples/no-map/yarn.lock
+Line: 269
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: +sR0U+JjUevW2JhocOF+
+File: results/nebula.gl/examples/no-map/yarn.lock
+Line: 205
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: dFY48KuIEmjtd4RViDrA
+File: results/nebula.gl/examples/no-map/yarn.lock
+Line: 154
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: update-browserslist-
+File: results/nebula.gl/examples/no-map/yarn.lock
+Line: 49
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: update-browserslist-
+File: results/nebula.gl/examples/editor/yarn.lock
+Line: 10
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: update-browserslist-
+File: results/nebula.gl/examples/no-map/yarn.lock
+Line: 267
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: update-browserslist-
+File: results/nebula.gl/examples/editor/yarn.lock
+Line: 221
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: update-browserslist-
+File: results/nebula.gl/examples/no-map/yarn.lock
+Line: 51
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: _geometryBeingScaled
+File: results/nebula.gl/modules/edit-modes/src/lib/scale-mode.ts
+Line: 26
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: isEditHandleSelected
+File: results/nebula.gl/modules/edit-modes/src/lib/scale-mode.ts
+Line: 73
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: _geometryBeingScaled
+File: results/nebula.gl/modules/edit-modes/src/lib/scale-mode.ts
+Line: 15
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: isEditHandleSelected
+File: results/nebula.gl/modules/edit-modes/src/lib/scale-mode.ts
+Line: 62
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: _geometryBeingScaled
+File: results/nebula.gl/modules/edit-modes/src/lib/scale-mode.ts
+Line: 28
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: isEditHandleSelected
+File: results/nebula.gl/modules/edit-modes/src/lib/scale-mode.ts
+Line: 76
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: _geometryBeingScaled
+File: results/nebula.gl/modules/edit-modes/src/lib/scale-mode.ts
+Line: 17
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: isEditHandleSelected
+File: results/nebula.gl/modules/edit-modes/src/lib/scale-mode.ts
+Line: 65
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: dFY48KuIEmjtd4RViDrA
+File: results/nebula.gl/website/yarn.lock
+Line: 256
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: update-browserslist-
+File: results/nebula.gl/website/yarn.lock
+Line: 65
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: update-browserslist-
+File: results/nebula.gl/website/yarn.lock
+Line: 67
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: emoLCMinPMMoJlNAQZXA
+File: results/nebula.gl/yarn.lock
+Line: 87
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: zvPSm5pOFkl6xuGrGnXn
+File: results/nebula.gl/yarn.lock
+Line: 143
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: +sR0U+JjUevW2JhocOF+
+File: results/nebula.gl/examples/overlays/yarn.lock
+Line: 82
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: dFY48KuIEmjtd4RViDrA
+File: results/nebula.gl/examples/overlays/yarn.lock
+Line: 250
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: update-browserslist-
+File: results/nebula.gl/examples/overlays/yarn.lock
+Line: 149
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: update-browserslist-
+File: results/nebula.gl/examples/react-map-gl-draw/yarn.lock
+Line: 158
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: dFY48KuIEmjtd4RViDrA
+File: results/nebula.gl/examples/react-map-gl-draw/yarn.lock
+Line: 245
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: +sR0U+JjUevW2JhocOF+
+File: results/nebula.gl/examples/react-map-gl-draw/yarn.lock
+Line: 96
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: update-browserslist-
+File: results/nebula.gl/examples/react-map-gl-draw/yarn.lock
+Line: 160
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: update-browserslist-
+File: results/nebula.gl/examples/overlays/yarn.lock
+Line: 151
+
+Found unverified result 🐷🔑❓
+Detector Type: Parseur
+Decoder Type: PLAIN
+Raw result: 9da19e7bee8d12dff0513ed5b76957793bc2e8d4
+File: results/nebula.gl/examples/editor/yarn.lock
+Line: 53
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: update-browserslist-
+File: results/nebula.gl/examples/sf/yarn.lock
+Line: 143
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: dFY48KuIEmjtd4RViDrA
+File: results/nebula.gl/examples/sf/yarn.lock
+Line: 244
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: +sR0U+JjUevW2JhocOF+
+File: results/nebula.gl/examples/sf/yarn.lock
+Line: 76
+
+Found unverified result 🐷🔑❓
+Detector Type: Parseur
+Decoder Type: PLAIN
+Raw result: 9da19e7bee8d12dff0513ed5b76957793bc2e8d4
+File: results/nebula.gl/website/yarn.lock
+Line: 161
+
+Found unverified result 🐷🔑❓
+Detector Type: Parseur
+Decoder Type: PLAIN
+Raw result: e1496e829e3ac2ff47f39a4dd044b32823c4a25a
+File: results/nebula.gl/website/yarn.lock
+Line: 156
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: update-browserslist-
+File: results/nebula.gl/examples/sf/yarn.lock
+Line: 145
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: update-browserslist-
+File: results/nebula.gl/yarn.lock
+Line: 151
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: +sR0U+JjUevW2JhocOF+
+File: results/nebula.gl/yarn.lock
+Line: 92
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: validate-npm-package
+File: results/nebula.gl/yarn.lock
+Line: 208
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: dFY48KuIEmjtd4RViDrA
+File: results/nebula.gl/yarn.lock
+Line: 197
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: update-browserslist-
+File: results/nebula.gl/yarn.lock
+Line: 153
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: validate-npm-package
+File: results/nebula.gl/yarn.lock
+Line: 210
+

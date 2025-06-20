@@ -1,0 +1,22 @@
+[
+ {
+  "Description": "Generic API Key",
+  "StartLine": 37,
+  "EndLine": 38,
+  "StartColumn": 18,
+  "EndColumn": 1,
+  "Match": "api-key: 10d9d2e111c236cb776e7bb7c09bf244",
+  "Secret": "10d9d2e111c236cb776e7bb7c09bf244",
+  "File": ".github/workflows/ci.yml",
+  "SymlinkFile": "",
+  "Commit": "1cc2d30171896525c8a1974f99e3f090037ba453",
+  "Entropy": 3.5778196,
+  "Author": "Shaishav Gandhi",
+  "Email": "shaishav@uber.com",
+  "Date": "2020-11-26T22:12:49Z",
+  "Message": "Prepare next development version",
+  "Tags": [],
+  "RuleID": "generic-api-key",
+  "Fingerprint": "1cc2d30171896525c8a1974f99e3f090037ba453:.github/workflows/ci.yml:generic-api-key:37"
+ }
+]

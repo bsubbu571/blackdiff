@@ -1,0 +1,42 @@
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: UBDemoViewController
+File: results/UberSignature/Examples/ObjC/UberSignature/AppDelegate.m
+Line: 13
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: UBDemoViewController
+File: results/UberSignature/Examples/ObjC/UberSignature.xcodeproj/project.pbxproj
+Line: 17
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: UBDemoViewController
+File: results/UberSignature/Examples/ObjC/UberSignature/AppDelegate.m
+Line: 23
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: _updateViewFromModel
+File: results/UberSignature/Sources/ObjC/UBSignatureDrawingViewController.m
+Line: 55
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: UBDemoViewController
+File: results/UberSignature/Examples/ObjC/UberSignature.xcodeproj/project.pbxproj
+Line: 10
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: _updateViewFromModel
+File: results/UberSignature/Sources/ObjC/UBSignatureDrawingViewController.m
+Line: 65
+

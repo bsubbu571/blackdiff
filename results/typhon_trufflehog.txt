@@ -1,0 +1,49 @@
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: overflowIsolateCount
+File: results/typhon/vendor/golang.org/x/text/unicode/bidi/core.go
+Line: 285
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: overflowIsolateCount
+File: results/typhon/vendor/golang.org/x/text/unicode/bidi/core.go
+Line: 288
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: overflowIsolateCount
+File: results/typhon/vendor/golang.org/x/text/unicode/bidi/core.go
+Line: 11
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: PopDirectionalFormat
+File: results/typhon/vendor/golang.org/x/text/unicode/bidi/prop.go
+Line: 52
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: PopDirectionalFormat
+File: results/typhon/vendor/golang.org/x/text/unicode/bidi/trieval.go
+Line: 14
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: PopDirectionalFormat
+File: results/typhon/vendor/golang.org/x/text/unicode/bidi/prop.go
+Line: 32
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: PopDirectionalFormat
+File: results/typhon/vendor/golang.org/x/text/unicode/bidi/trieval.go
+Line: 30
+

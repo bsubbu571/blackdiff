@@ -1,0 +1,42 @@
+[
+ {
+  "Description": "Generic API Key",
+  "StartLine": 42,
+  "EndLine": 42,
+  "StartColumn": 4,
+  "EndColumn": 46,
+  "Match": "token := \"abcd1234efab5678abcd1234efab5678\"",
+  "Secret": "abcd1234efab5678abcd1234efab5678",
+  "File": "mock_feedback_server.go",
+  "SymlinkFile": "",
+  "Commit": "b9b2eb04994f75ec7cd0ddda75670d0ea6f2fddd",
+  "Entropy": 3.75,
+  "Author": "James Nicholson",
+  "Email": "git@nicholson.io",
+  "Date": "2015-05-14T10:54:39Z",
+  "Message": "Add \"Payload\" field to APNS response in order to send arbitrary data to device",
+  "Tags": [],
+  "RuleID": "generic-api-key",
+  "Fingerprint": "b9b2eb04994f75ec7cd0ddda75670d0ea6f2fddd:mock_feedback_server.go:generic-api-key:42"
+ },
+ {
+  "Description": "Generic API Key",
+  "StartLine": 7,
+  "EndLine": 7,
+  "StartColumn": 18,
+  "EndColumn": 91,
+  "Match": "Token = \"e93b7686988b4b5fd334298e60e73d90035f6d12628a80b4029bde0dec514df9\"",
+  "Secret": "e93b7686988b4b5fd334298e60e73d90035f6d12628a80b4029bde0dec514df9",
+  "File": "push_notification_test.go",
+  "SymlinkFile": "",
+  "Commit": "b9b2eb04994f75ec7cd0ddda75670d0ea6f2fddd",
+  "Entropy": 3.8439462,
+  "Author": "James Nicholson",
+  "Email": "git@nicholson.io",
+  "Date": "2015-05-14T10:54:39Z",
+  "Message": "Add \"Payload\" field to APNS response in order to send arbitrary data to device",
+  "Tags": [],
+  "RuleID": "generic-api-key",
+  "Fingerprint": "b9b2eb04994f75ec7cd0ddda75670d0ea6f2fddd:push_notification_test.go:generic-api-key:7"
+ }
+]

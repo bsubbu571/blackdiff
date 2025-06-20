@@ -1,0 +1,42 @@
+[
+ {
+  "Description": "Generic API Key",
+  "StartLine": 14,
+  "EndLine": 15,
+  "StartColumn": 4,
+  "EndColumn": 1,
+  "Match": "secret_key_base: 6f6b71bf74603dd383654659b9714e63c75b291600b28d3523d9fadd2146060c24e819ed57c44e33e8bfbf75ad2139951e8f743b302c387ada78230b5f5f6fe3",
+  "Secret": "6f6b71bf74603dd383654659b9714e63c75b291600b28d3523d9fadd2146060c24e819ed57c44e33e8bfbf75ad2139951e8f743b302c387ada78230b5f5f6fe3",
+  "File": "config/secrets.yml",
+  "SymlinkFile": "",
+  "Commit": "3b17d0f05313c024292592573121aaf029a86281",
+  "Entropy": 3.941982,
+  "Author": "James Nicholson",
+  "Email": "git@nicholson.io",
+  "Date": "2016-01-26T16:16:01Z",
+  "Message": "Tweak deploy buttons",
+  "Tags": [],
+  "RuleID": "generic-api-key",
+  "Fingerprint": "3b17d0f05313c024292592573121aaf029a86281:config/secrets.yml:generic-api-key:14"
+ },
+ {
+  "Description": "Generic API Key",
+  "StartLine": 17,
+  "EndLine": 18,
+  "StartColumn": 4,
+  "EndColumn": 1,
+  "Match": "secret_key_base: 3921c9dad7fb1da91b667b29ff7e50d00acebaa9967508fbe9c97ec0892055b79de289ca9599b8f4eae90867b1092f8262df433d2517b0dba689df92ab9583d1",
+  "Secret": "3921c9dad7fb1da91b667b29ff7e50d00acebaa9967508fbe9c97ec0892055b79de289ca9599b8f4eae90867b1092f8262df433d2517b0dba689df92ab9583d1",
+  "File": "config/secrets.yml",
+  "SymlinkFile": "",
+  "Commit": "3b17d0f05313c024292592573121aaf029a86281",
+  "Entropy": 3.8632517,
+  "Author": "James Nicholson",
+  "Email": "git@nicholson.io",
+  "Date": "2016-01-26T16:16:01Z",
+  "Message": "Tweak deploy buttons",
+  "Tags": [],
+  "RuleID": "generic-api-key",
+  "Fingerprint": "3b17d0f05313c024292592573121aaf029a86281:config/secrets.yml:generic-api-key:17"
+ }
+]

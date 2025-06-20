@@ -1,0 +1,144 @@
+Found unverified result 🐷🔑❓
+Detector Type: Polygon
+Decoder Type: PLAIN
+Raw result: fuzzerPoylgonToCellsExperimental
+File: results/h3/src/apps/fuzzers/README.md
+Line: 62
+
+Found unverified result 🐷🔑❓
+Detector Type: Polygon
+Decoder Type: BASE64
+Raw result: fuzzerPolygonToCellsExperimental
+File: results/h3/CMakeLists.txt
+Line: 294
+
+Found unverified result 🐷🔑❓
+Detector Type: Polygon
+Decoder Type: PLAIN
+Raw result: fuzzerPolygonToCellsExperimental
+File: results/h3/CMakeLists.txt
+Line: 61
+
+Found unverified result 🐷🔑❓
+Detector Type: Polygon
+Decoder Type: PLAIN
+Raw result: fuzzerPolygonToCellsExperimental
+File: results/h3/.git/index
+
+Found unverified result 🐷🔑❓
+Detector Type: Polygon
+Decoder Type: PLAIN
+Raw result: fuzzerPoylgonToCellsExperimental
+File: results/h3/src/apps/fuzzers/README.md
+Line: 47
+
+Found unverified result 🐷🔑❓
+Detector Type: Polygon
+Decoder Type: BASE64
+Raw result: fuzzerPolygonToCellsExperimental
+File: results/h3/.git/index
+Line: 3
+
+Found unverified result 🐷🔑❓
+Detector Type: Polygon
+Decoder Type: BASE64
+Raw result: fuzzerPolygonToCellsExperimental
+File: results/h3/.git/index
+Line: 3
+
+Found unverified result 🐷🔑❓
+Detector Type: Polygon
+Decoder Type: PLAIN
+Raw result: fuzzerPolygonToCellsExperimental
+File: results/h3/CMakeLists.txt
+
+Found unverified result 🐷🔑❓
+Detector Type: Polygon
+Decoder Type: PLAIN
+Raw result: fuzzerPolygonToCellsExperimental
+File: results/h3/.git/index
+
+Found unverified result 🐷🔑❓
+Detector Type: Polygon
+Decoder Type: PLAIN
+Raw result: fuzzerPolygonToCellsExperimental
+File: results/h3/CMakeLists.txt
+Line: 289
+
+Found unverified result 🐷🔑❓
+Detector Type: Parseur
+Decoder Type: PLAIN
+Raw result: 9da19e7bee8d12dff0513ed5b76957793bc2e8d4
+File: results/h3/website/yarn.lock
+Line: 207
+
+Found unverified result 🐷🔑❓
+Detector Type: Signable
+Decoder Type: BASE64
+Raw result: -explode-assignable-expression-7
+File: results/h3/website/yarn.lock
+Line: 77
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: zvPSm5pOFkl6xuGrGnXn
+File: results/h3/website/yarn.lock
+Line: 223
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: zvPSm5pOFkl6xuGrGnXn
+File: results/h3/website/yarn.lock
+Line: 18
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: babel-plugin-svg-em-
+File: results/h3/website/yarn.lock
+Line: 59
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: property-descriptors
+File: results/h3/website/yarn.lock
+Line: 214
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: +sR0U+JjUevW2JhocOF+
+File: results/h3/website/yarn.lock
+Line: 176
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: update-browserslist-
+File: results/h3/website/yarn.lock
+Line: 112
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: update-browserslist-
+File: results/h3/website/yarn.lock
+Line: 112
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: update-browserslist-
+File: results/h3/website/yarn.lock
+Line: 110
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: update-browserslist-
+File: results/h3/website/yarn.lock
+Line: 110
+

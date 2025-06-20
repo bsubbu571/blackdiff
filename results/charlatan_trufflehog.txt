@@ -1,0 +1,14 @@
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: nested-dictionary-of
+File: results/charlatan/charlatan/utils.py
+Line: 175
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: nested-dictionary-of
+File: results/charlatan/charlatan/utils.py
+Line: 201
+

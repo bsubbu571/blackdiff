@@ -1,0 +1,103 @@
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: ContextFilter_Prefix
+File: results/CocoaLumberjack/.git/index
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: NSStringFromSelector
+File: results/CocoaLumberjack/CHANGELOG.md
+Line: 67
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: ContextFilter_Prefix
+File: results/CocoaLumberjack/.git/index
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: NSStringFromSelector
+File: results/CocoaLumberjack/CHANGELOG.md
+Line: 29
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: withArgumentsInArray
+File: results/CocoaLumberjack/Demos/SQLiteLogger/FMDB/FMDatabase.h
+Line: 50
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: withArgumentsInArray
+File: results/CocoaLumberjack/Demos/SQLiteLogger/FMDB/FMDatabase.h
+Line: 29
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: CFReadStreamCallback
+File: results/CocoaLumberjack/Demos/WebServerIPhone/Vendor/CocoaAsyncSocket/GCDAsyncSocket.m
+Line: 96
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: NSUTF8StringEncoding
+File: results/CocoaLumberjack/Demos/WebServerIPhone/Vendor/CocoaHTTPServer/HTTPConnection.m
+Line: 339
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: customModuleProvider
+File: results/CocoaLumberjack/Framework/SwiftTest/MainMenu.xib
+Line: 15
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: NSUTF8StringEncoding
+File: results/CocoaLumberjack/Demos/WebServerIPhone/Vendor/CocoaHTTPServer/HTTPConnection.m
+Line: 34
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: customModuleProvider
+File: results/CocoaLumberjack/Framework/SwiftTest/MainMenu.xib
+Line: 8
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: withArgumentsInArray
+File: results/CocoaLumberjack/Demos/SQLiteLogger/FMDB/FMDatabase.m
+Line: 3
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: withArgumentsInArray
+File: results/CocoaLumberjack/Demos/SQLiteLogger/FMDB/FMDatabase.m
+Line: 3
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: withArgumentsInArray
+File: results/CocoaLumberjack/Demos/SQLiteLogger/FMDB/FMDatabase.m
+Line: 3
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: withArgumentsInArray
+File: results/CocoaLumberjack/Demos/SQLiteLogger/FMDB/FMDatabase.m
+Line: 3
+

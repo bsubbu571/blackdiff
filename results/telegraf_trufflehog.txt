@@ -1,0 +1,252 @@
+Found unverified result 🐷🔑❓
+Detector Type: Github
+Decoder Type: PLAIN
+Raw result: 5215b55f46b2b919f50a1df0eaa5886afe4e3b3d
+File: results/telegraf/Godeps_windows
+Line: 2
+
+Found unverified result 🐷🔑❓
+Detector Type: Github
+Decoder Type: PLAIN
+Raw result: c01cf91b011868172fdcd9f41838e80c9d716264
+File: results/telegraf/Godeps_windows
+Line: 18
+
+Found unverified result 🐷🔑❓
+Detector Type: Github
+Decoder Type: PLAIN
+Raw result: c01cf91b011868172fdcd9f41838e80c9d716264
+File: results/telegraf/Godeps_windows
+Line: 25
+
+Found unverified result 🐷🔑❓
+Detector Type: Github
+Decoder Type: PLAIN
+Raw result: 5215b55f46b2b919f50a1df0eaa5886afe4e3b3d
+File: results/telegraf/Godeps_windows
+Line: 9
+
+Found unverified result 🐷🔑❓
+Detector Type: Github
+Decoder Type: PLAIN
+Raw result: c01cf91b011868172fdcd9f41838e80c9d716264
+File: results/telegraf/Godeps
+Line: 15
+
+Found unverified result 🐷🔑❓
+Detector Type: Github
+Decoder Type: PLAIN
+Raw result: 5215b55f46b2b919f50a1df0eaa5886afe4e3b3d
+File: results/telegraf/Godeps
+Line: 1
+
+Found unverified result 🐷🔑❓
+Detector Type: Github
+Decoder Type: PLAIN
+Raw result: 5215b55f46b2b919f50a1df0eaa5886afe4e3b3d
+File: results/telegraf/Godeps
+Line: 8
+
+Found unverified result 🐷🔑❓
+Detector Type: Github
+Decoder Type: PLAIN
+Raw result: c01cf91b011868172fdcd9f41838e80c9d716264
+File: results/telegraf/Godeps
+Line: 22
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: valid_status_updates
+File: results/telegraf/plugins/inputs/mesos/mesos.go
+Line: 158
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: repl_deletes_per_sec
+File: results/telegraf/plugins/inputs/mongodb/mongodb_data.go
+Line: 50
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: repl_deletes_per_sec
+File: results/telegraf/plugins/inputs/mongodb/mongodb_data.go
+Line: 23
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: valid_status_updates
+File: results/telegraf/plugins/inputs/mesos/mesos_test.go
+Line: 34
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: valid_status_updates
+File: results/telegraf/plugins/inputs/mesos/README.md
+Line: 87
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: valid_status_updates
+File: results/telegraf/plugins/inputs/mesos/README.md
+Line: 73
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: valid_status_updates
+File: results/telegraf/plugins/inputs/mesos/mesos.go
+Line: 184
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: valid_status_updates
+File: results/telegraf/plugins/inputs/mesos/mesos_test.go
+Line: 13
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: SNI_CRITICAL_SECTION
+File: results/telegraf/plugins/inputs/sqlserver/sqlserver.go
+Line: 133
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: SNI_CRITICAL_SECTION
+File: results/telegraf/plugins/inputs/sqlserver/sqlserver.go
+Line: 25
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: httpd_view_reads_max
+File: results/telegraf/plugins/inputs/couchdb/README.md
+Line: 227
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: httpd_view_reads_sum
+File: results/telegraf/plugins/inputs/couchdb/README.md
+Line: 231
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: httpd_view_reads_min
+File: results/telegraf/plugins/inputs/couchdb/README.md
+Line: 229
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: httpd_view_reads_min
+File: results/telegraf/plugins/inputs/couchdb/README.md
+Line: 252
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: httpd_view_reads_sum
+File: results/telegraf/plugins/inputs/couchdb/README.md
+Line: 254
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: httpd_view_reads_max
+File: results/telegraf/plugins/inputs/couchdb/README.md
+Line: 250
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: httpd_view_reads_min
+File: results/telegraf/plugins/inputs/couchdb/README.md
+Line: 251
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: httpd_view_reads_sum
+File: results/telegraf/plugins/inputs/couchdb/README.md
+Line: 253
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: httpd_view_reads_max
+File: results/telegraf/plugins/inputs/couchdb/README.md
+Line: 249
+
+Found unverified result 🐷🔑❓
+Detector Type: MongoDB
+Decoder Type: PLAIN
+Raw result: mongodb://user:auth_key@10.10.3.30:27017
+File: results/telegraf/internal/config/testdata/telegraf-agent.toml
+Line: 198
+
+Found unverified result 🐷🔑❓
+Detector Type: MongoDB
+Decoder Type: PLAIN
+Raw result: mongodb://user:auth_key@10.10.3.30:27017
+File: results/telegraf/internal/config/testdata/telegraf-agent.toml
+Line: 185
+
+Found unverified result 🐷🔑❓
+Detector Type: MongoDB
+Decoder Type: PLAIN
+Raw result: mongodb://user:auth_key@10.10.3.30:27017
+File: results/telegraf/plugins/inputs/mongodb/mongodb.go
+Line: 30
+
+Found unverified result 🐷🔑❓
+Detector Type: SQLServer
+Decoder Type: PLAIN
+Raw result: <pw>
+File: results/telegraf/plugins/inputs/sqlserver/sqlserver.go
+Line: 10
+
+Found unverified result 🐷🔑❓
+Detector Type: SQLServer
+Decoder Type: PLAIN
+Raw result: <pw>
+File: results/telegraf/plugins/inputs/sqlserver/sqlserver.go
+Line: 40
+
+Found unverified result 🐷🔑❓
+Detector Type: SQLServer
+Decoder Type: PLAIN
+Raw result: T
+File: results/telegraf/plugins/inputs/sqlserver/README.md
+Line: 2
+
+Found unverified result 🐷🔑❓
+Detector Type: SQLServer
+Decoder Type: BASE64
+Raw result: T
+File: results/telegraf/plugins/inputs/sqlserver/README.md
+Line: 2
+
+Found unverified result 🐷🔑❓
+Detector Type: SQLServer
+Decoder Type: BASE64
+Raw result: T
+File: results/telegraf/plugins/inputs/sqlserver/README.md
+Line: 14
+
+Found unverified result 🐷🔑❓
+Detector Type: SQLServer
+Decoder Type: BASE64
+Raw result: T
+File: results/telegraf/plugins/inputs/sqlserver/README.md
+Line: 14
+

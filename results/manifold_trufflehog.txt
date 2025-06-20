@@ -1,0 +1,427 @@
+Found unverified result 🐷🔑❓
+Detector Type: Signable
+Decoder Type: BASE64
+Raw result: -explode-assignable-expression-7
+File: results/manifold/bindings/jupyter/js/yarn.lock
+Line: 120
+
+Found unverified result 🐷🔑❓
+Detector Type: Signable
+Decoder Type: PLAIN
+Raw result: -explode-assignable-expression-7
+File: results/manifold/bindings/jupyter/js/yarn.lock
+Line: 105
+
+Found unverified result 🐷🔑❓
+Detector Type: Parseur
+Decoder Type: PLAIN
+Raw result: 9da19e7bee8d12dff0513ed5b76957793bc2e8d4
+File: results/manifold/examples/manifold/yarn.lock
+Line: 149
+
+Found unverified result 🐷🔑❓
+Detector Type: Parseur
+Decoder Type: PLAIN
+Raw result: 9da19e7bee8d12dff0513ed5b76957793bc2e8d4
+File: results/manifold/website/yarn.lock
+Line: 23
+
+Found unverified result 🐷🔑❓
+Detector Type: Parseur
+Decoder Type: PLAIN
+Raw result: 9da19e7bee8d12dff0513ed5b76957793bc2e8d4
+File: results/manifold/website/yarn.lock
+Line: 267
+
+Found unverified result 🐷🔑❓
+Detector Type: Signable
+Decoder Type: PLAIN
+Raw result: -explode-assignable-expression-7
+File: results/manifold/yarn.lock
+Line: 106
+
+Found unverified result 🐷🔑❓
+Detector Type: Parseur
+Decoder Type: PLAIN
+Raw result: 9da19e7bee8d12dff0513ed5b76957793bc2e8d4
+File: results/manifold/yarn.lock
+Line: 304
+
+Found unverified result 🐷🔑❓
+Detector Type: Parseur
+Decoder Type: PLAIN
+Raw result: 9da19e7bee8d12dff0513ed5b76957793bc2e8d4
+File: results/manifold/yarn.lock
+Line: 50
+
+Found unverified result 🐷🔑❓
+Detector Type: Signable
+Decoder Type: BASE64
+Raw result: -explode-assignable-expression-7
+File: results/manifold/yarn.lock
+Line: 120
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: zvPSm5pOFkl6xuGrGnXn
+File: results/manifold/bindings/jupyter/js/yarn.lock
+Line: 138
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: 7WvSACcrMYrNp+b8kDL1
+File: results/manifold/bindings/jupyter/js/yarn.lock
+Line: 263
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: UPDATE_SLIDER_VALUES
+File: results/manifold/bindings/jupyter-modules/jupyter-ma-causal/src/reducer.js
+Line: 9
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: zvPSm5pOFkl6xuGrGnXn
+File: results/manifold/examples/manifold/yarn.lock
+Line: 229
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: NPI3zSVQUXgikTFITzsg
+File: results/manifold/examples/manifold/yarn.lock
+Line: 15
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: -parse-better-errors
+File: results/manifold/examples/manifold/yarn.lock
+Line: 131
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: handleUpdateViewport
+File: results/manifold/examples/manifold/src/reducers.js
+Line: 10
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: 7WvSACcrMYrNp+b8kDL1
+File: results/manifold/bindings/jupyter/js/yarn.lock
+Line: 23
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: 7WvSACcrMYrNp+b8kDL1
+File: results/manifold/examples/manifold/yarn.lock
+Line: 174
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: updateSelectedModels
+File: results/manifold/modules/manifold/src/actions/ui-actions.js
+Line: 18
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: updateSelectedModels
+File: results/manifold/modules/manifold/src/actions/ui-actions.js
+Line: 9
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: updateColorByFeature
+File: results/manifold/modules/manifold/src/components/geo-feature-container.js
+Line: 9
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: handleUpdateBaseCols
+File: results/manifold/modules/manifold/src/reducers/index.js
+Line: 7
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: _onUpdateFilterValue
+File: results/manifold/modules/manifold/src/components/ui/segment-filters-control/segment-filters-control.js
+Line: 65
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: updateSelectedModels
+File: results/manifold/modules/manifold/src/components/performance-comparison-container.js
+Line: 47
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: updateSegmentFilters
+File: results/manifold/modules/manifold/src/components/feature-attribution-control-container.js
+Line: 5
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: updateSelectedModels
+File: results/manifold/modules/manifold/src/components/performance-comparison-container.js
+Line: 11
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: _onUpdateFilterValue
+File: results/manifold/modules/manifold/src/components/ui/segment-filters-control/segment-filters-control.js
+Line: 81
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: updateColorByFeature
+File: results/manifold/modules/manifold/src/components/geo-feature-container.js
+Line: 22
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: handleUpdateBaseCols
+File: results/manifold/modules/manifold/src/reducers/index.js
+Line: 192
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: handleUpdateBaseCols
+File: results/manifold/modules/manifold/src/reducers/index.js
+Line: 193
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: 7WvSACcrMYrNp+b8kDL1
+File: results/manifold/website/yarn.lock
+Line: 167
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: rxMLbb3JCN2JoSWsV2O+
+File: results/manifold/website/yarn.lock
+Line: 150
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: zvPSm5pOFkl6xuGrGnXn
+File: results/manifold/website/yarn.lock
+Line: 134
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: zvPSm5pOFkl6xuGrGnXn
+File: results/manifold/yarn.lock
+Line: 33
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: rxMLbb3JCN2JoSWsV2O+
+File: results/manifold/website/yarn.lock
+Line: 137
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: NPI3zSVQUXgikTFITzsg
+File: results/manifold/website/yarn.lock
+Line: 171
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: rxMLbb3JCN2JoSWsV2O+
+File: results/manifold/yarn.lock
+Line: 128
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: zvPSm5pOFkl6xuGrGnXn
+File: results/manifold/yarn.lock
+Line: 237
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: 7WvSACcrMYrNp+b8kDL1
+File: results/manifold/yarn.lock
+Line: 132
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: validate-npm-package
+File: results/manifold/yarn.lock
+Line: 23
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: validate-npm-package
+File: results/manifold/yarn.lock
+Line: 25
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: validate-npm-package
+File: results/manifold/yarn.lock
+Line: 256
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: validate-npm-package
+File: results/manifold/yarn.lock
+Line: 254
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: UPDATE_SLIDER_VALUES
+File: results/manifold/bindings/jupyter-modules/jupyter-ma-causal/src/actions/index.js
+Line: 3
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: UPDATE_SLIDER_VALUES
+File: results/manifold/bindings/jupyter-modules/jupyter-ma-causal/src/actions/index.js
+Line: 3
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: NPI3zSVQUXgikTFITzsg
+File: results/manifold/examples/manifold/yarn.lock
+Line: 265
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: zvPSm5pOFkl6xuGrGnXn
+File: results/manifold/examples/manifold/yarn.lock
+Line: 24
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: updateSegmentFilters
+File: results/manifold/modules/manifold/src/components/feature-attribution-control-container.js
+Line: 10
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: updateSegmentFilters
+File: results/manifold/modules/manifold/src/components/feature-attribution-control-container.js
+Line: 10
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: UPDATE_SLIDER_VALUES
+File: results/manifold/bindings/jupyter-modules/jupyter-ma-causal/src/reducer.js
+Line: 2
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: UPDATE_SLIDER_VALUES
+File: results/manifold/bindings/jupyter-modules/jupyter-ma-causal/src/reducer.js
+Line: 2
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: updateSegmentFilters
+File: results/manifold/modules/manifold/src/actions/ui-actions.js
+Line: 24
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: updateSegmentFilters
+File: results/manifold/modules/manifold/src/actions/ui-actions.js
+Line: 15
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: updateSegmentFilters
+File: results/manifold/modules/manifold/src/components/performance-comparison-control-container.js
+Line: 8
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: updateSegmentFilters
+File: results/manifold/modules/manifold/src/components/performance-comparison-control-container.js
+Line: 8
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: _updateSegmentGroups
+File: results/manifold/modules/manifold/src/components/performance-comparison-control-container.js
+Line: 123
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: updateSegmentFilters
+File: results/manifold/modules/manifold/src/components/performance-comparison-control-container.js
+Line: 8
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: updateSegmentFilters
+File: results/manifold/modules/manifold/src/components/performance-comparison-control-container.js
+Line: 23
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: updateSegmentFilters
+File: results/manifold/modules/manifold/src/components/performance-comparison-control-container.js
+Line: 23
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: updateSegmentFilters
+File: results/manifold/modules/manifold/src/components/performance-comparison-control-container.js
+Line: 23
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: _updateSegmentGroups
+File: results/manifold/modules/manifold/src/components/performance-comparison-control-container.js
+Line: 138
+

@@ -1,0 +1,98 @@
+Found unverified result 🐷🔑❓
+Detector Type: Parseur
+Decoder Type: PLAIN
+Raw result: c8ab8c9223ba34888aa64a297b28853bec18da56
+File: results/react-vis-force/yarn.lock
+Line: 108
+
+Found unverified result 🐷🔑❓
+Detector Type: Signable
+Decoder Type: BASE64
+Raw result: -explode-assignable-expression-6
+File: results/react-vis-force/package-lock.json
+Line: 122
+
+Found unverified result 🐷🔑❓
+Detector Type: Signable
+Decoder Type: BASE64
+Raw result: -explode-assignable-expression-6
+File: results/react-vis-force/yarn.lock
+Line: 178
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: toHaveBeenCalledWith
+File: results/react-vis-force/src/components/__tests__/ForceGraph.test.js
+Line: 16
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: testUpdateSimulation
+File: results/react-vis-force/src/utils/__tests__/d3-force.test.js
+Line: 97
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: testUpdateSimulation
+File: results/react-vis-force/src/utils/__tests__/d3-force.test.js
+Line: 97
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: toHaveBeenCalledWith
+File: results/react-vis-force/src/components/__tests__/ForceGraph.test.js
+Line: 260
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: toHaveBeenCalledWith
+File: results/react-vis-force/src/components/__tests__/ForceGraph.test.js
+Line: 260
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: componentWillUnmount
+File: results/react-vis-force/src/components/ForceGraph.js
+Line: 159
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: componentWillUnmount
+File: results/react-vis-force/src/components/ForceGraph.js
+Line: 168
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: unbindSimulationTick
+File: results/react-vis-force/src/components/ForceGraph.js
+Line: 160
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: unbindSimulationTick
+File: results/react-vis-force/src/components/ForceGraph.js
+Line: 169
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: testUpdateSimulation
+File: results/react-vis-force/src/utils/__tests__/d3-force.test.js
+Line: 106
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: testUpdateSimulation
+File: results/react-vis-force/src/utils/__tests__/d3-force.test.js
+Line: 106
+

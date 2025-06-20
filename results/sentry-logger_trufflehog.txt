@@ -1,0 +1,21 @@
+Found unverified result 🐷🔑❓
+Detector Type: URI
+Decoder Type: PLAIN
+Raw result: http://public:private@localhost
+File: results/sentry-logger/test/sentry-logger.js
+Line: 8
+
+Found unverified result 🐷🔑❓
+Detector Type: URI
+Decoder Type: PLAIN
+Raw result: http://public:private@localhost
+File: results/sentry-logger/test/sentry-logger.js
+Line: 30
+
+Found unverified result 🐷🔑❓
+Detector Type: URI
+Decoder Type: PLAIN
+Raw result: http://public:private@localhost
+File: results/sentry-logger/test/lib/sentry-server.js
+Line: 8
+

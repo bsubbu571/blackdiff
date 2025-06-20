@@ -1,0 +1,44 @@
+Found unverified result 🐷🔑❓
+Detector Type: ProtocolsIO
+Decoder Type: PLAIN
+Raw result: Ss15ContiguousArrayVyxGs0B8ProtocolssADP15reserveCapacityyySiFTW
+File: results/swift-abstract-class/Validator/bin/abstractclassvalidator
+
+Found unverified result 🐷🔑❓
+Detector Type: ProtocolsIO
+Decoder Type: PLAIN
+Raw result: Ss23LazyDropWhileCollectionVyxGs0A16SequenceProtocols8ElementsWt
+File: results/swift-abstract-class/Validator/bin/abstractclassvalidator
+
+Found unverified result 🐷🔑❓
+Detector Type: ProtocolsIO
+Decoder Type: PLAIN
+Raw result: Ss15ContiguousArrayVyxGs0B8ProtocolssADP15reserveCapacityyySiFTW
+File: results/swift-abstract-class/Validator/bin/abstractclassvalidator
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: swift-abstract-class
+File: results/swift-abstract-class/Validator/bin/abstractclassvalidator
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: YAML_MAPPING_NODEkey
+File: results/swift-abstract-class/Validator/bin/abstractclassvalidator
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: YAML_MAPPING_NODEkey
+File: results/swift-abstract-class/Validator/bin/abstractclassvalidator
+Line: 2
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: swift-abstract-class
+File: results/swift-abstract-class/Validator/bin/abstractclassvalidator
+Line: 2
+

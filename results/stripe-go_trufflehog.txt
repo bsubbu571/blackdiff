@@ -1,0 +1,56 @@
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: targetInvoiceUpdated
+File: results/stripe-go/invoice/client_test.go
+Line: 173
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: targetInvoiceUpdated
+File: results/stripe-go/invoice/client_test.go
+Line: 173
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: targetInvoiceUpdated
+File: results/stripe-go/invoice/client_test.go
+Line: 194
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: targetInvoiceUpdated
+File: results/stripe-go/invoice/client_test.go
+Line: 194
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: CustomerSourceParams
+File: results/stripe-go/paymentsource/client.go
+Line: 19
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: CustomerSourceParams
+File: results/stripe-go/paymentsource/client.go
+Line: 19
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: CustomerSourceParams
+File: results/stripe-go/paymentsource/client.go
+Line: 19
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: CustomerSourceParams
+File: results/stripe-go/paymentsource/client.go
+Line: 19
+

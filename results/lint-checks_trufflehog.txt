@@ -1,0 +1,43 @@
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: ComputationScheduler
+File: results/lint-checks/lint-checks-rxjava/src/test/resources/rxjava-2.2.12.jar
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: ComputationScheduler
+File: results/lint-checks/lint-checks-rxjava/src/test/resources/rxjava-2.2.12.jar
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: SourceFileColorUtils
+File: results/lint-checks/lint-checks-android/src/test/resources/core-1.1.0.jar
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: SourceFileColorUtils
+File: results/lint-checks/lint-checks-android/src/test/resources/core-1.1.0.jar
+Line: 2
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: ConstantValuecreateq
+File: results/lint-checks/lint-checks-android/src/test/resources/core-1.1.0.jar
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: ViewPropertyAnimator
+File: results/lint-checks/lint-checks-android/src/test/resources/core-1.1.0.jar
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: linkUriStackMapTable
+File: results/lint-checks/lint-checks-android/src/test/resources/core-1.1.0.jar
+

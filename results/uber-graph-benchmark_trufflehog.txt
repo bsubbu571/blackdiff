@@ -1,0 +1,42 @@
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: StorageSchemaElement
+File: results/uber-graph-benchmark/core/src/main/java/com/uber/ugb/schema/SchemaManager.java
+Line: 12
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: storageSchemaElement
+File: results/uber-graph-benchmark/core/src/main/java/com/uber/ugb/schema/SchemaManager.java
+Line: 109
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: StorageSchemaElement
+File: results/uber-graph-benchmark/core/src/main/java/com/uber/ugb/schema/SchemaManager.java
+Line: 94
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: storageSchemaElement
+File: results/uber-graph-benchmark/core/src/main/java/com/uber/ugb/schema/SchemaManager.java
+Line: 97
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: StorageSchemaElement
+File: results/uber-graph-benchmark/core/src/main/java/com/uber/ugb/schema/SchemaManager.java
+Line: 82
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: StorageSchemaElement
+File: results/uber-graph-benchmark/core/src/main/java/com/uber/ugb/schema/SchemaManager.java
+Line: 82
+

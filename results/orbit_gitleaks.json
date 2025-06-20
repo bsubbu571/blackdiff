@@ -1,0 +1,42 @@
+[
+ {
+  "Description": "AWS",
+  "StartLine": 234,
+  "EndLine": 234,
+  "StartColumn": 14971,
+  "EndColumn": 14990,
+  "Match": "AIPAAAAAAAAAADARUU2E",
+  "Secret": "AIPAAAAAAAAAADARUU2E",
+  "File": "docs/tutorials/backtest.ipynb",
+  "SymlinkFile": "",
+  "Commit": "96469d8836a726681f63135089e555f2e363960a",
+  "Entropy": 2.0709505,
+  "Author": "edwinnglabs",
+  "Email": "edwinnglabs@gmail.com",
+  "Date": "2025-06-05T05:19:05Z",
+  "Message": "fix formatting with black==25.1.0",
+  "Tags": [],
+  "RuleID": "aws-access-token",
+  "Fingerprint": "96469d8836a726681f63135089e555f2e363960a:docs/tutorials/backtest.ipynb:aws-access-token:234"
+ },
+ {
+  "Description": "EasyPost test API token",
+  "StartLine": 660,
+  "EndLine": 660,
+  "StartColumn": 121303,
+  "EndColumn": 121360,
+  "Match": "EZTKSSM6mLAh1siIRIeBAA0VJ9xOuWSJfnxcWvy4xRr8uPExEQkJSVBLpf",
+  "Secret": "EZTKSSM6mLAh1siIRIeBAA0VJ9xOuWSJfnxcWvy4xRr8uPExEQkJSVBLpf",
+  "File": "docs/tutorials/backtest.ipynb",
+  "SymlinkFile": "",
+  "Commit": "96469d8836a726681f63135089e555f2e363960a",
+  "Entropy": 5.060314,
+  "Author": "edwinnglabs",
+  "Email": "edwinnglabs@gmail.com",
+  "Date": "2025-06-05T05:19:05Z",
+  "Message": "fix formatting with black==25.1.0",
+  "Tags": [],
+  "RuleID": "easypost-test-api-token",
+  "Fingerprint": "96469d8836a726681f63135089e555f2e363960a:docs/tutorials/backtest.ipynb:easypost-test-api-token:660"
+ }
+]

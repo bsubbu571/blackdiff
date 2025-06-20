@@ -1,0 +1,42 @@
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: SessionConfiguration
+File: results/rides-java-sdk/uber-rides/src/main/java/com/uber/sdk/rides/client/services/RidesService.java
+Line: 4
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: SessionConfiguration
+File: results/rides-java-sdk/uber-rides/src/main/java/com/uber/sdk/rides/client/services/RidesService.java
+Line: 24
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: rideUpdateParameters
+File: results/rides-java-sdk/uber-rides/src/main/java/com/uber/sdk/rides/client/services/RidesService.java
+Line: 191
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: SessionConfiguration
+File: results/rides-java-sdk/uber-rides/src/main/java/com/uber/sdk/rides/client/services/RidesService.java
+Line: 14
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: rideUpdateParameters
+File: results/rides-java-sdk/uber-rides/src/main/java/com/uber/sdk/rides/client/services/RidesService.java
+Line: 181
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: SessionConfiguration
+File: results/rides-java-sdk/uber-rides/src/main/java/com/uber/sdk/rides/client/services/RidesService.java
+Line: 14
+

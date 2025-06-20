@@ -1,0 +1,14 @@
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: -bottom-right-radius
+File: results/ringpop-ui/client/public/css/bootstrap.css
+Line: 490
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: -bottom-right-radius
+File: results/ringpop-ui/client/public/css/bootstrap.css
+Line: 15
+

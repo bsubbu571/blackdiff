@@ -1,0 +1,56 @@
+Found unverified result 🐷🔑❓
+Detector Type: JDBC
+Decoder Type: PLAIN
+Raw result: jdbc:mysql://server:3306/database
+File: results/uberscriptquery/README.md
+Line: 19
+
+Found unverified result 🐷🔑❓
+Detector Type: JDBC
+Decoder Type: PLAIN
+Raw result: jdbc:mysql://server:3306/database
+File: results/uberscriptquery/README.md
+Line: 12
+
+Found unverified result 🐷🔑❓
+Detector Type: JDBC
+Decoder Type: PLAIN
+Raw result: jdbc:mysql://server:3306/database
+File: results/uberscriptquery/README.md
+Line: 12
+
+Found unverified result 🐷🔑❓
+Detector Type: JDBC
+Decoder Type: PLAIN
+Raw result: jdbc:mysql://server:3306/database
+File: results/uberscriptquery/README.md
+Line: 19
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: effectiveColumnNames
+File: results/uberscriptquery/src/main/java/com/uber/uberscriptquery/jdbc/SingleTableJdbcWriter.java
+Line: 88
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: effectiveColumnNames
+File: results/uberscriptquery/src/main/java/com/uber/uberscriptquery/jdbc/SingleTableJdbcWriter.java
+Line: 93
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: effectiveColumnNames
+File: results/uberscriptquery/src/main/java/com/uber/uberscriptquery/jdbc/SingleTableJdbcWriter.java
+Line: 76
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: effectiveColumnNames
+File: results/uberscriptquery/src/main/java/com/uber/uberscriptquery/jdbc/SingleTableJdbcWriter.java
+Line: 81
+

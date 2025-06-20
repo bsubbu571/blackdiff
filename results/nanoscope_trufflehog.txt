@@ -1,0 +1,6 @@
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: +TR15S5uS1uVmNwIRw4_
+File: results/nanoscope/images/nanoscope.gif
+

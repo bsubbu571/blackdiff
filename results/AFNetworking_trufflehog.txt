@@ -1,0 +1,84 @@
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: NCUpdateResultNoData
+File: results/AFNetworking/Example/Today Extension Example/TodayViewController.m
+Line: 57
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: AFSSLPinningModeNone
+File: results/AFNetworking/CHANGELOG.md
+Line: 195
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: AFHTTPSessionManager
+File: results/AFNetworking/Example/Classes/Networking Extensions/AFAppDotNetAPIClient.h
+Line: 25
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: NCUpdateResultNoData
+File: results/AFNetworking/Example/Today Extension Example/TodayViewController.m
+Line: 48
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: AFHTTPSessionManager
+File: results/AFNetworking/Example/Classes/Networking Extensions/AFAppDotNetAPIClient.h
+Line: 16
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: AFSSLPinningModeNone
+File: results/AFNetworking/CHANGELOG.md
+Line: 185
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: AFHTTPSessionManager
+File: results/AFNetworking/CHANGELOG.md
+Line: 32
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: NSStringFromSelector
+File: results/AFNetworking/CHANGELOG.md
+Line: 306
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: NSStringFromSelector
+File: results/AFNetworking/CHANGELOG.md
+Line: 17
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: AFHTTPSessionManager
+File: results/AFNetworking/CHANGELOG.md
+Line: 8
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: NSStringFromSelector
+File: results/AFNetworking/CHANGELOG.md
+Line: 300
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: AFHTTPSessionManager
+File: results/AFNetworking/CHANGELOG.md
+Line: 30
+

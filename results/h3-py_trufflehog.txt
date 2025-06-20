@@ -1,0 +1,70 @@
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: average_hexagon_area
+File: results/h3-py/src/h3/_cy/cells.pxd
+Line: 6
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: cell_to_center_child
+File: results/h3-py/src/h3/_cy/cells.pyx
+Line: 157
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: average_hexagon_area
+File: results/h3-py/src/h3/_cy/cells.pyx
+Line: 276
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: get_base_cell_number
+File: results/h3-py/src/h3/_cy/cells.pyx
+Line: 37
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: cell_to_center_child
+File: results/h3-py/src/h3/_cy/cells.pxd
+Line: 12
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: average_hexagon_area
+File: results/h3-py/src/h3/_cy/cells.pxd
+Line: 18
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: get_base_cell_number
+File: results/h3-py/src/h3/_cy/cells.pxd
+Line: 4
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: get_base_cell_number
+File: results/h3-py/src/h3/_cy/cells.pyx
+Line: 10
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: average_hexagon_area
+File: results/h3-py/src/h3/_cy/cells.pyx
+Line: 249
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: cell_to_center_child
+File: results/h3-py/src/h3/_cy/cells.pyx
+Line: 130
+

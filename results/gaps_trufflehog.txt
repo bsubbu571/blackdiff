@@ -1,0 +1,44 @@
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: -bottom-right-radius
+File: results/gaps/public/css/bootstrap.min.css
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: -bottom-right-radius
+File: results/gaps/public/css/bootstrap.css
+Line: 237
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: -bottom-right-radius
+File: results/gaps/public/css/bootstrap.css
+Line: 601
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: border-bottom-right-
+File: results/gaps/public/css/bootstrap.min.css
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: -bottom-right-radius
+File: results/gaps/public/css/bootstrap.min.css
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: border-bottom-right-
+File: results/gaps/public/css/bootstrap.min.css
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: border-bottom-right-
+File: results/gaps/public/css/bootstrap.min.css
+

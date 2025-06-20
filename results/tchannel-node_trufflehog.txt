@@ -1,0 +1,20 @@
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: tRVT340031QHLORhrVW1
+File: results/tchannel-node/.git/objects/pack/pack-964fcc5b4d979f974c7411e2c2a56fd52f8b9c4c.pack
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: +B9lYh3N3MOqibCxN27I
+File: results/tchannel-node/package-lock.json
+Line: 30
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: +B9lYh3N3MOqibCxN27I
+File: results/tchannel-node/package-lock.json
+Line: 345
+

@@ -1,0 +1,22 @@
+[
+ {
+  "Description": "EasyPost test API token",
+  "StartLine": 10332,
+  "EndLine": 10332,
+  "StartColumn": 100566,
+  "EndColumn": 100623,
+  "Match": "EZTKVKo1et0OUThCWBZzC8tYtk2v02bQ61JvzlCu1ugeHJDEEbVmE9txOc",
+  "Secret": "EZTKVKo1et0OUThCWBZzC8tYtk2v02bQ61JvzlCu1ugeHJDEEbVmE9txOc",
+  "File": "notebooks/urban_analytics.ipynb",
+  "SymlinkFile": "",
+  "Commit": "173be2e1640da87f160c3438d678298a05ed8f9d",
+  "Entropy": 4.9698815,
+  "Author": "AJ Friend",
+  "Email": "ajfriend@gmail.com",
+  "Date": "2021-11-27T04:05:40Z",
+  "Message": "Merge pull request #8 from uber/cell_stats_1\n\nCell area stats and counts tables for the website and C lib",
+  "Tags": [],
+  "RuleID": "easypost-test-api-token",
+  "Fingerprint": "173be2e1640da87f160c3438d678298a05ed8f9d:notebooks/urban_analytics.ipynb:easypost-test-api-token:10332"
+ }
+]

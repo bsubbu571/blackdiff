@@ -1,0 +1,6 @@
+Found unverified result 🐷🔑❓
+Detector Type: TravisCI
+Decoder Type: PLAIN
+Raw result: mdGemfileLICENSEREADME
+File: results/golja-influxdb/.git/index
+

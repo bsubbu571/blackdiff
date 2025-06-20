@@ -1,0 +1,168 @@
+Found unverified result 🐷🔑❓
+Detector Type: VirusTotal
+Decoder Type: BASE64
+Raw result: 5cab0821f597100dc1170bfef704d8cebaf67743e9d509e83b0b208eb630d992
+File: results/client-platform-engineering/chef/cookbooks/cpe_osquery/files/packs/unwanted-chrome-extensions.conf
+Line: 52
+
+Found unverified result 🐷🔑❓
+Detector Type: VirusTotal
+Decoder Type: BASE64
+Raw result: 9530d481f7bb07aac98a46357bfcff96e2936a90571b4629ae865a2ce63e5c8e
+File: results/client-platform-engineering/chef/cookbooks/cpe_osquery/files/packs/osx-attacks.conf
+Line: 71
+
+Found unverified result 🐷🔑❓
+Detector Type: VirusTotal
+Decoder Type: PLAIN
+Raw result: 5cab0821f597100dc1170bfef704d8cebaf67743e9d509e83b0b208eb630d992
+File: results/client-platform-engineering/chef/cookbooks/cpe_osquery/files/packs/unwanted-chrome-extensions.conf
+Line: 51
+
+Found unverified result 🐷🔑❓
+Detector Type: VirusTotal
+Decoder Type: BASE64
+Raw result: 5cab0821f597100dc1170bfef704d8cebaf67743e9d509e83b0b208eb630d992
+File: results/client-platform-engineering/chef/cookbooks/cpe_osquery/files/packs/unwanted-chrome-extensions.conf
+Line: 43
+
+Found unverified result 🐷🔑❓
+Detector Type: VirusTotal
+Decoder Type: PLAIN
+Raw result: 5cab0821f597100dc1170bfef704d8cebaf67743e9d509e83b0b208eb630d992
+File: results/client-platform-engineering/chef/cookbooks/cpe_osquery/files/packs/unwanted-chrome-extensions.conf
+Line: 42
+
+Found unverified result 🐷🔑❓
+Detector Type: VirusTotal
+Decoder Type: BASE64
+Raw result: f261815905e77eebdb5c4ec06a7acdda7b68644b1f5155049f133be866d8b179
+File: results/client-platform-engineering/chef/cookbooks/cpe_osquery/files/packs/osx-attacks.conf
+Line: 85
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: button_sub_titletext
+File: results/client-platform-engineering/chef/cookbooks/cpe_nudge/README.md
+Line: 167
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: button_sub_titletext
+File: results/client-platform-engineering/chef/cookbooks/cpe_nudge/README.md
+Line: 148
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: update_umad_ui_uamdm
+File: results/client-platform-engineering/chef/cookbooks/cpe_umad/files/resources/py2_umad
+Line: 78
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: update_umad_ui_uamdm
+File: results/client-platform-engineering/chef/cookbooks/cpe_umad/files/resources/py2_umad
+Line: 99
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: update_umad_ui_uamdm
+File: results/client-platform-engineering/chef/cookbooks/cpe_umad/files/resources/py2_umad
+Line: 77
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: update_umad_ui_uamdm
+File: results/client-platform-engineering/chef/cookbooks/cpe_umad/templates/default/umad
+Line: 95
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: update_umad_ui_uamdm
+File: results/client-platform-engineering/chef/cookbooks/cpe_umad/files/resources/py2_umad
+Line: 97
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: update_umad_ui_uamdm
+File: results/client-platform-engineering/chef/cookbooks/cpe_umad/templates/default/umad
+Line: 77
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: update_umad_ui_uamdm
+File: results/client-platform-engineering/chef/cookbooks/cpe_umad/templates/default/umad
+Line: 78
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: update_umad_ui_uamdm
+File: results/client-platform-engineering/chef/cookbooks/cpe_umad/templates/default/umad
+Line: 97
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: apple_sus_prefs_path
+File: results/client-platform-engineering/chef/cookbooks/cpe_nudge/files/nudge-python/resources/nudge
+Line: 306
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: button_sub_titletext
+File: results/client-platform-engineering/chef/cookbooks/cpe_nudge/files/nudge-python/resources/nudge
+Line: 173
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: paragraph_title_text
+File: results/client-platform-engineering/chef/cookbooks/cpe_nudge/files/nudge-python/resources/nudge
+Line: 120
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: apple_sus_prefs_path
+File: results/client-platform-engineering/chef/cookbooks/cpe_nudge/files/nudge-python/resources/nudge
+Line: 47
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: apple_sus_prefs_path
+File: results/client-platform-engineering/chef/cookbooks/cpe_nudge/files/nudge-python/resources/nudge
+Line: 305
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: button_sub_titletext
+File: results/client-platform-engineering/chef/cookbooks/cpe_nudge/files/nudge-python/resources/nudge
+Line: 172
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: apple_sus_prefs_path
+File: results/client-platform-engineering/chef/cookbooks/cpe_nudge/files/nudge-python/resources/nudge
+Line: 305
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: paragraph_title_text
+File: results/client-platform-engineering/chef/cookbooks/cpe_nudge/files/nudge-python/resources/nudge
+Line: 119
+

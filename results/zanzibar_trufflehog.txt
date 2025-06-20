@@ -1,0 +1,84 @@
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: ResolvedDependencies
+File: results/zanzibar/codegen/module.go
+Line: 87
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: ResolvedDependencies
+File: results/zanzibar/codegen/module.go
+Line: 190
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: defaultDependencyRes
+File: results/zanzibar/codegen/module.go
+Line: 1
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: LogAndSendQueryError
+File: results/zanzibar/examples/example-gateway/build/endpoints/bar/bar_bar_method_listandenum.go
+Line: 123
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: LogAndSendQueryError
+File: results/zanzibar/examples/example-gateway/build/endpoints/bar/bar_bar_method_listandenum.go
+Line: 113
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: getDefaultDependency
+File: results/zanzibar/codegen/module.go
+Line: 308
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: defaultDependencyRes
+File: results/zanzibar/codegen/module.go
+Line: 303
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: defaultDependencyRes
+File: results/zanzibar/codegen/module.go
+Line: 303
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: -gateway-test-binary
+File: results/zanzibar/test/lib/test_gateway/test_gateway_cover.go
+Line: 166
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: -gateway-config-yaml
+File: results/zanzibar/test/lib/test_gateway/test_gateway_cover.go
+Line: 64
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: -gateway-test-binary
+File: results/zanzibar/test/lib/test_gateway/test_gateway_cover.go
+Line: 175
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: -gateway-config-yaml
+File: results/zanzibar/test/lib/test_gateway/test_gateway_cover.go
+Line: 73
+

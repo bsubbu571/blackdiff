@@ -1,0 +1,14 @@
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: NSJSONReadingOptions
+File: results/Judo-Swift/Source/API/Session.swift
+Line: 239
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: NSJSONReadingOptions
+File: results/Judo-Swift/Source/API/Session.swift
+Line: 250
+

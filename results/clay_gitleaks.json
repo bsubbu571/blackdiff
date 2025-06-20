@@ -1,0 +1,22 @@
+[
+ {
+  "Description": "Generic API Key",
+  "StartLine": 16,
+  "EndLine": 16,
+  "StartColumn": 5,
+  "EndColumn": 83,
+  "Match": "SECRET_KEY\": \"neimooGhaep1shiedieLidiNgaeghe6ohgah7eeTh5quouv7uef2Liopheu3aede\"",
+  "Secret": "neimooGhaep1shiedieLidiNgaeghe6ohgah7eeTh5quouv7uef2Liopheu3aede",
+  "File": "docs/defaults.conf",
+  "SymlinkFile": "",
+  "Commit": "bab57672f11730705b5670df97047abe575a3054",
+  "Entropy": 4.104684,
+  "Author": "James Westover",
+  "Email": "james.westover@icloud.com",
+  "Date": "2018-03-30T00:11:55Z",
+  "Message": "Merge pull request #33 from uber/mk_attachments_in_emails\n\nAdd starttls and attachment support to mail.",
+  "Tags": [],
+  "RuleID": "generic-api-key",
+  "Fingerprint": "bab57672f11730705b5670df97047abe575a3054:docs/defaults.conf:generic-api-key:16"
+ }
+]

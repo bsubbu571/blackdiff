@@ -1,0 +1,133 @@
+Found unverified result 🐷🔑❓
+Detector Type: SonarCloud
+Decoder Type: PLAIN
+Raw result: externalViewPartitionToServerMappingJson
+File: results/uReplicator/uReplicator-Manager/src/main/java/com/uber/stream/kafka/mirrormaker/manager/rest/resources/TopicManagementRestletResource.java
+Line: 103
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: isAutoScalingEnabled
+File: results/uReplicator/uReplicator-Manager/src/main/java/com/uber/stream/kafka/mirrormaker/manager/core/ControllerHelixManager.java
+Line: 21
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: isAutoScalingEnabled
+File: results/uReplicator/uReplicator-Manager/src/main/java/com/uber/stream/kafka/mirrormaker/manager/core/ControllerHelixManager.java
+Line: 250
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: StringRepresentation
+File: results/uReplicator/uReplicator-Worker/src/main/java/com/uber/stream/ureplicator/worker/RateLimiterResource.java
+Line: 21
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: StringRepresentation
+File: results/uReplicator/uReplicator-Worker/src/main/java/com/uber/stream/ureplicator/worker/RateLimiterResource.java
+Line: 10
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: StringRepresentation
+File: results/uReplicator/uReplicator-Controller/src/main/java/com/uber/stream/kafka/mirrormaker/controller/rest/resources/TopicManagementRestletResource.java
+Line: 24
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: StringRepresentation
+File: results/uReplicator/uReplicator-Controller/src/main/java/com/uber/stream/kafka/mirrormaker/controller/rest/resources/TopicManagementRestletResource.java
+Line: 24
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: StringRepresentation
+File: results/uReplicator/uReplicator-Controller/src/main/java/com/uber/stream/kafka/mirrormaker/controller/rest/resources/TopicManagementRestletResource.java
+Line: 24
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: StringRepresentation
+File: results/uReplicator/uReplicator-Controller/src/main/java/com/uber/stream/kafka/mirrormaker/controller/rest/resources/TopicManagementRestletResource.java
+Line: 35
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: StringRepresentation
+File: results/uReplicator/uReplicator-Controller/src/main/java/com/uber/stream/kafka/mirrormaker/controller/rest/resources/TopicManagementRestletResource.java
+Line: 35
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: StringRepresentation
+File: results/uReplicator/uReplicator-Controller/src/main/java/com/uber/stream/kafka/mirrormaker/controller/rest/resources/TopicPartitionBlacklistRestletResource.java
+Line: 14
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: StringRepresentation
+File: results/uReplicator/uReplicator-Controller/src/main/java/com/uber/stream/kafka/mirrormaker/controller/rest/resources/TopicPartitionBlacklistRestletResource.java
+Line: 25
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: StringRepresentation
+File: results/uReplicator/uReplicator-Controller/src/main/java/com/uber/stream/kafka/mirrormaker/controller/rest/resources/TopicManagementRestletResource.java
+Line: 35
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: StringRepresentation
+File: results/uReplicator/uReplicator-Controller/src/main/java/com/uber/stream/kafka/mirrormaker/controller/rest/resources/TopicPartitionBlacklistRestletResource.java
+Line: 25
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: StringRepresentation
+File: results/uReplicator/uReplicator-Controller/src/main/java/com/uber/stream/kafka/mirrormaker/controller/rest/resources/TopicPartitionBlacklistRestletResource.java
+Line: 14
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: StringRepresentation
+File: results/uReplicator/uReplicator-Controller/src/main/java/com/uber/stream/kafka/mirrormaker/controller/rest/resources/TopicPartitionBlacklistRestletResource.java
+Line: 25
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: StringRepresentation
+File: results/uReplicator/uReplicator-Controller/src/main/java/com/uber/stream/kafka/mirrormaker/controller/rest/resources/TopicPartitionBlacklistRestletResource.java
+Line: 14
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: StringRepresentation
+File: results/uReplicator/uReplicator-Controller/src/main/java/com/uber/stream/kafka/mirrormaker/controller/rest/resources/TopicPartitionBlacklistRestletResource.java
+Line: 14
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: StringRepresentation
+File: results/uReplicator/uReplicator-Controller/src/main/java/com/uber/stream/kafka/mirrormaker/controller/rest/resources/TopicPartitionBlacklistRestletResource.java
+Line: 25
+

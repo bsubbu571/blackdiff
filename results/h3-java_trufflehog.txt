@@ -1,0 +1,7 @@
+Found unverified result 🐷🔑❓
+Detector Type: Polygon
+Decoder Type: PLAIN
+Raw result: ConvertLinkedGeoPolygonToManaged
+File: results/h3-java/src/main/c/h3-java/src/jniapi.c
+Line: 84
+

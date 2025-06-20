@@ -1,0 +1,22 @@
+[
+ {
+  "Description": "AWS",
+  "StartLine": 84,
+  "EndLine": 84,
+  "StartColumn": 20,
+  "EndColumn": 39,
+  "Match": "ASIAQWERTYUIOPASDFGH",
+  "Secret": "ASIAQWERTYUIOPASDFGH",
+  "File": "README.md",
+  "SymlinkFile": "",
+  "Commit": "c71e18cadd62fd99c4dc504e7896248e125836ff",
+  "Entropy": 3.8841836,
+  "Author": "Daniel Simmons",
+  "Email": "dans@uber.com",
+  "Date": "2020-06-16T09:49:13Z",
+  "Message": "Fix install instructions",
+  "Tags": [],
+  "RuleID": "aws-access-token",
+  "Fingerprint": "c71e18cadd62fd99c4dc504e7896248e125836ff:README.md:aws-access-token:84"
+ }
+]

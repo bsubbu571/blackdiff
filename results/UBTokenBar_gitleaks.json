@@ -1,0 +1,42 @@
+[
+ {
+  "Description": "Generic API Key",
+  "StartLine": 19,
+  "EndLine": 20,
+  "StartColumn": 6,
+  "EndColumn": 1,
+  "Match": "TokenBar: db009e8854db81e05927f5ebba14eb18de4c72a3",
+  "Secret": "db009e8854db81e05927f5ebba14eb18de4c72a3",
+  "File": "Example/Podfile.lock",
+  "SymlinkFile": "",
+  "Commit": "4bab0552d728870a93e8b1637d485d26adb9fe14",
+  "Entropy": 3.747085,
+  "Author": "Maxwell Elliott",
+  "Email": "maxwelle@uber.com",
+  "Date": "2017-03-10T18:40:03Z",
+  "Message": "Use correct homepage url",
+  "Tags": [],
+  "RuleID": "generic-api-key",
+  "Fingerprint": "4bab0552d728870a93e8b1637d485d26adb9fe14:Example/Podfile.lock:generic-api-key:19"
+ },
+ {
+  "Description": "Generic API Key",
+  "StartLine": 19,
+  "EndLine": 20,
+  "StartColumn": 6,
+  "EndColumn": 1,
+  "Match": "TokenBar: db009e8854db81e05927f5ebba14eb18de4c72a3",
+  "Secret": "db009e8854db81e05927f5ebba14eb18de4c72a3",
+  "File": "Example/Pods/Manifest.lock",
+  "SymlinkFile": "",
+  "Commit": "4bab0552d728870a93e8b1637d485d26adb9fe14",
+  "Entropy": 3.747085,
+  "Author": "Maxwell Elliott",
+  "Email": "maxwelle@uber.com",
+  "Date": "2017-03-10T18:40:03Z",
+  "Message": "Use correct homepage url",
+  "Tags": [],
+  "RuleID": "generic-api-key",
+  "Fingerprint": "4bab0552d728870a93e8b1637d485d26adb9fe14:Example/Pods/Manifest.lock:generic-api-key:19"
+ }
+]

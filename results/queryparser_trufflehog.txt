@@ -1,0 +1,126 @@
+Found unverified result 🐷🔑❓
+Detector Type: Atera
+Decoder Type: PLAIN
+Raw result: areLcolumnsVisibleInLateralViews
+File: results/queryparser/src/Database/Sql/Util/Scope.hs
+Line: 61
+
+Found unverified result 🐷🔑❓
+Detector Type: Atera
+Decoder Type: PLAIN
+Raw result: areLcolumnsVisibleInLateralViews
+File: results/queryparser/src/Database/Sql/Util/Scope.hs
+Line: 70
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: mergeUpdateDirective
+File: results/queryparser/dialects/vertica/src/Database/Sql/Vertica/Type.hs
+Line: 276
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: mergeUpdateDirective
+File: results/queryparser/dialects/vertica/src/Database/Sql/Vertica/Type.hs
+Line: 15
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: mergeUpdateDirective
+File: results/queryparser/dialects/vertica/src/Database/Sql/Vertica/Type.hs
+Line: 278
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: mergeUpdateDirective
+File: results/queryparser/dialects/vertica/src/Database/Sql/Vertica/Parser.hs
+Line: 293
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: columnDefinitionInfo
+File: results/queryparser/dialects/vertica/src/Database/Sql/Vertica/Parser.hs
+Line: 408
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: columnDefinitionNull
+File: results/queryparser/dialects/vertica/src/Database/Sql/Vertica/Parser.hs
+Line: 415
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: columnDefinitionInfo
+File: results/queryparser/dialects/vertica/src/Database/Sql/Vertica/Parser.hs
+Line: 412
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: mergeUpdateDirective
+File: results/queryparser/dialects/vertica/src/Database/Sql/Vertica/Type.hs
+Line: 21
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: columnDefinitionNull
+File: results/queryparser/dialects/vertica/src/Database/Sql/Vertica/Parser.hs
+Line: 411
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: columnDefinitionInfo
+File: results/queryparser/dialects/vertica/src/Database/Sql/Vertica/Parser.hs
+Line: 93
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: columnDefinitionInfo
+File: results/queryparser/dialects/vertica/src/Database/Sql/Vertica/Parser.hs
+Line: 97
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: mergeUpdateDirective
+File: results/queryparser/dialects/vertica/src/Database/Sql/Vertica/Type.hs
+Line: 21
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: mergeUpdateDirective
+File: results/queryparser/dialects/vertica/src/Database/Sql/Vertica/Type.hs
+Line: 36
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: columnDefinitionNull
+File: results/queryparser/dialects/vertica/src/Database/Sql/Vertica/Parser.hs
+Line: 96
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: columnDefinitionNull
+File: results/queryparser/dialects/vertica/src/Database/Sql/Vertica/Parser.hs
+Line: 100
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: mergeUpdateDirective
+File: results/queryparser/dialects/vertica/src/Database/Sql/Vertica/Type.hs
+Line: 36
+

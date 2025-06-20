@@ -1,0 +1,21 @@
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: software-properties-
+File: results/petastorm/examples/mnist/pytorch/Dockerfile
+Line: 19
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: software-properties-
+File: results/petastorm/examples/mnist/pytorch/Dockerfile
+Line: 8
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: software-properties-
+File: results/petastorm/docker/Dockerfile
+Line: 6
+

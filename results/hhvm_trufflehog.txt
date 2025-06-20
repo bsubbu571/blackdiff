@@ -1,0 +1,1997 @@
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: return_like_enforced
+File: results/hhvm/.git/index
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: type_structure_tuple
+File: results/hhvm/.git/index
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: expected_sd_function
+File: results/hhvm/.git/index
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: phphUM-9VhUM-9VBhphp
+File: results/hhvm/.git/index
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: type_structure_tuple
+File: results/hhvm/.git/index
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: nameof_method_caller
+File: results/hhvm/.git/index
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: -type-const-name-in-
+File: results/hhvm/.git/index
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: intersection_dynamic
+File: results/hhvm/.git/index
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: draw_vector_graphics
+File: results/hhvm/.git/index
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: agnostic-async-basic
+File: results/hhvm/.git/index
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: agnostic-async-basic
+File: results/hhvm/.git/index
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: shape_put_wrong_arg1
+File: results/hhvm/.git/index
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: zend_signed_multiply
+File: results/hhvm/.git/index
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: mcrypt_enc_self_test
+File: results/hhvm/.git/index
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: pcntl_fork_variation
+File: results/hhvm/.git/index
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: lTSmu69UFk-wu00SMej5
+File: results/hhvm/.git/objects/pack/pack-0213d07ab93acc64fa5241b958c37eb14e910dba.pack
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: 340031Qk90_PODrbOfEj
+File: results/hhvm/.git/objects/pack/pack-0213d07ab93acc64fa5241b958c37eb14e910dba.pack
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: kyQRAZqUshKRpQRhqeTp
+File: results/hhvm/.git/objects/pack/pack-0213d07ab93acc64fa5241b958c37eb14e910dba.pack
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: UNc6g1340031QpLQFQfZ
+File: results/hhvm/.git/objects/pack/pack-0213d07ab93acc64fa5241b958c37eb14e910dba.pack
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: MYSQL_UNIX_SOCK_ADDR
+File: results/hhvm/CMake/MSVCDefaults.cmake
+Line: 24
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: MYSQL_UNIX_SOCK_ADDR
+File: results/hhvm/CMake/MSVCDefaults.cmake
+Line: 14
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: _headerIsInsideStack
+File: results/hhvm/CMake/cotire.cmake
+Line: 122
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: read_custom_dep_dirs
+File: results/hhvm/build/fbcode_builder/getdeps/dyndeps.py
+Line: 280
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: read_custom_dep_dirs
+File: results/hhvm/build/fbcode_builder/getdeps/dyndeps.py
+Line: 6
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: EnableRenameFunction
+File: results/hhvm/hphp/doc/configs.specification
+Line: 295
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: EnableRenameFunction
+File: results/hhvm/hphp/doc/configs.specification
+Line: 287
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: EnableRenameFunction
+File: results/hhvm/hphp/doc/configs.specification
+Line: 43
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: EnableRenameFunction
+File: results/hhvm/hphp/doc/configs.specification
+Line: 40
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: nameof_valcollection
+File: results/hhvm/.git/index
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: nameof_method_caller
+File: results/hhvm/.git/index
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: test_trailing_commas
+File: results/hhvm/.git/index
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: test_prefixed_string
+File: results/hhvm/.git/index
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: test_incomplete_file
+File: results/hhvm/.git/index
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: test_global_constant
+File: results/hhvm/.git/index
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: await_old_precedence
+File: results/hhvm/.git/index
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: await_new_precedence
+File: results/hhvm/.git/index
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: OutOfBoundsException
+File: results/hhvm/hphp/hack/manual/hack/11-built-in-types/56-darray-varray-runtime-options.md
+Line: 92
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: OutOfBoundsException
+File: results/hhvm/hphp/hack/manual/hack/11-built-in-types/56-darray-varray-runtime-options.md
+Line: 88
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: iconv_strrpos_error2
+File: results/hhvm/.git/index
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: iconv_strrpos_error1
+File: results/hhvm/.git/index
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: bcscale_variation002
+File: results/hhvm/.git/index
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: bcscale_variation001
+File: results/hhvm/.git/index
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: relative_raw_updates
+File: results/hhvm/hphp/hack/src/client/clientCheckStatus.ml
+Line: 185
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: VS_DOTNET_REFERENCES
+File: results/hhvm/CMake/cotire.cmake
+Line: 71
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: PDB_OUTPUT_DIRECTORY
+File: results/hhvm/CMake/cotire.cmake
+Line: 70
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: VS_DOTNET_REFERENCES
+File: results/hhvm/CMake/cotire.cmake
+Line: 70
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: PDB_OUTPUT_DIRECTORY
+File: results/hhvm/CMake/cotire.cmake
+Line: 69
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: read_custom_dep_dirs
+File: results/hhvm/build/fbcode_builder/getdeps/dyndeps.py
+Line: 253
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: read_custom_dep_dirs
+File: results/hhvm/build/fbcode_builder/getdeps/dyndeps.py
+Line: 253
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: TypeConstDeclaration
+File: results/hhvm/hphp/hack/src/client_and_server/identifySymbolService.ml
+Line: 30
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: TypeConstDeclaration
+File: results/hhvm/hphp/hack/src/client_and_server/identifySymbolService.ml
+Line: 395
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: test_list_expression
+File: results/hhvm/.git/index
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: test_prefixed_string
+File: results/hhvm/.git/index
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: test_incomplete_file
+File: results/hhvm/.git/index
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: saved_state_rollouts
+File: results/hhvm/hphp/hack/src/client_and_server/serverLocalConfigLoad.ml
+Line: 270
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: saved_state_rollouts
+File: results/hhvm/hphp/hack/src/client_and_server/serverLocalConfigLoad.ml
+Line: 271
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: posix_getgrgid_basic
+File: results/hhvm/.git/index
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: posix_getgrgid_error
+File: results/hhvm/.git/index
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: posix_geteuid_error1
+File: results/hhvm/.git/index
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: dep_graph_with_delta
+File: results/hhvm/hphp/hack/src/deps/deps_rust/typing_deps.rs
+Line: 3
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: dep_graph_with_delta
+File: results/hhvm/hphp/hack/src/deps/deps_rust/typing_deps.rs
+Line: 8
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: forward-naming-table
+File: results/hhvm/hphp/hack/src/client/ide_service/clientIdeIncremental.ml
+Line: 76
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: reverse-naming-table
+File: results/hhvm/hphp/hack/src/client/ide_service/clientIdeIncremental.ml
+Line: 68
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: forward-naming-table
+File: results/hhvm/hphp/hack/src/client/ide_service/clientIdeIncremental.mli
+Line: 17
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: reverse-naming-table
+File: results/hhvm/hphp/hack/src/client/ide_service/clientIdeIncremental.mli
+Line: 15
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: forward-naming-table
+File: results/hhvm/hphp/hack/src/client/ide_service/clientIdeIncremental.ml
+Line: 96
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: reverse-naming-table
+File: results/hhvm/hphp/hack/src/client/ide_service/clientIdeIncremental.ml
+Line: 88
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: simplify_constraints
+File: results/hhvm/.git/index
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: simplify_constraints
+File: results/hhvm/.git/index
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: simplify_constraints
+File: results/hhvm/.git/index
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: simplify_constraints
+File: results/hhvm/.git/index
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: wrap_block_with_tmps
+File: results/hhvm/hphp/hack/src/elab/typed_local.rs
+Line: 18
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: wrap_block_with_tmps
+File: results/hhvm/hphp/hack/src/elab/typed_local.rs
+Line: 161
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: posix_getpwuid_basic
+File: results/hhvm/.git/index
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: posix_getpwuid_error
+File: results/hhvm/.git/index
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: posix_strerror_error
+File: results/hhvm/.git/index
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: gen_pass_method_name
+File: results/hhvm/hphp/hack/src/hh_codegen/gen_elab_transform/pass_generator.rs
+Line: 77
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: gen_pass_method_name
+File: results/hhvm/hphp/hack/src/hh_codegen/gen_elab_transform/pass_generator.rs
+Line: 60
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: gen_pass_method_name
+File: results/hhvm/hphp/hack/src/hh_codegen/gen_elab_transform/transform_generator.rs
+Line: 77
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: gen_pass_method_name
+File: results/hhvm/hphp/hack/src/hh_codegen/gen_elab_transform/transform_generator.rs
+Line: 96
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: defs_per_file_parsed
+File: results/hhvm/hphp/hack/src/hh_single_fanout.ml
+Line: 89
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: defs_per_file_parsed
+File: results/hhvm/hphp/hack/src/hh_single_fanout.ml
+Line: 110
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: is_in_hg_update_stat
+File: results/hhvm/hphp/hack/src/monitor/informant.ml
+Line: 124
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: pdo_mysql_error_code
+File: results/hhvm/.git/index
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: pdo_mysql_error_code
+File: results/hhvm/.git/index
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: pdo_mysql_nextrowset
+File: results/hhvm/.git/index
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: pdo_mysql_nextrowset
+File: results/hhvm/.git/index
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: pdo_mysql_nextrowset
+File: results/hhvm/.git/index
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: pdo_mysql_error_code
+File: results/hhvm/.git/index
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: -type-specifier-list
+File: results/hhvm/hphp/hack/src/parser/core/type_parser.rs
+Line: 67
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: parse_type_parameter
+File: results/hhvm/hphp/hack/src/parser/core/type_parser.rs
+Line: 140
+
+Found unverified result 🐷🔑❓
+Detector Type: UnifyID
+Decoder Type: PLAIN
+Raw result: invalid_type_hint_assert_primary_pos_in_curr
+File: results/hhvm/hphp/hack/src/typing/typing_error.ml
+Line: 57
+
+Found unverified result 🐷🔑❓
+Detector Type: UnifyID
+Decoder Type: PLAIN
+Raw result: invalid_type_hint_assert_primary_pos_in_curr
+File: results/hhvm/hphp/hack/src/typing/typing_error.ml
+Line: 211
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: Typing_continuations
+File: results/hhvm/hphp/hack/src/refactor_sd/refactor_sd_env.mli
+Line: 23
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: update_after_recheck
+File: results/hhvm/hphp/hack/src/server/serverRecheckCapture.ml
+Line: 4
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: Typing_continuations
+File: results/hhvm/hphp/hack/src/refactor_sd/refactor_sd_env.mli
+Line: 42
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: update_after_recheck
+File: results/hhvm/hphp/hack/src/server/serverRecheckCapture.ml
+Line: 26
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: defs_per_file_parsed
+File: results/hhvm/hphp/hack/src/server/serverTypeCheck.ml
+Line: 180
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: forward-naming-table
+File: results/hhvm/hphp/hack/src/server/serverTypeCheck.ml
+Line: 96
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: defs_per_file_parsed
+File: results/hhvm/hphp/hack/src/server/serverTypeCheck.ml
+Line: 159
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: lhs_of_null_coalesce
+File: results/hhvm/hphp/hack/src/typing/typing.ml
+Line: 149
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: lhs_of_null_coalesce
+File: results/hhvm/hphp/hack/src/typing/typing.ml
+Line: 56
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: lhs_of_null_coalesce
+File: results/hhvm/hphp/hack/src/typing/typing.ml
+Line: 331
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: lhs_of_null_coalesce
+File: results/hhvm/hphp/hack/src/typing/typing.ml
+Line: 24
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: lhs_of_null_coalesce
+File: results/hhvm/hphp/hack/src/typing/typing.ml
+Line: 310
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: original_source_data
+File: results/hhvm/hphp/hack/src/parser/full_fidelity_editable_positioned_token.ml
+Line: 15
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: original_source_data
+File: results/hhvm/hphp/hack/src/parser/full_fidelity_editable_positioned_token.ml
+Line: 15
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: original_source_data
+File: results/hhvm/hphp/hack/src/parser/full_fidelity_editable_positioned_token.ml
+Line: 30
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: original_source_data
+File: results/hhvm/hphp/hack/src/parser/full_fidelity_editable_positioned_token.ml
+Line: 30
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: forward-naming-table
+File: results/hhvm/hphp/hack/src/server/serverTypeCheck.ml
+Line: 249
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: reverse-naming-table
+File: results/hhvm/hphp/hack/src/server/serverTypeCheck.ml
+Line: 248
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: forward-naming-table
+File: results/hhvm/hphp/hack/src/server/serverTypeCheck.ml
+Line: 246
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: reverse-naming-table
+File: results/hhvm/hphp/hack/src/server/serverTypeCheck.ml
+Line: 245
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: Buffered_line_reader
+File: results/hhvm/hphp/hack/src/watchman_event_watcher/watchmanEventWatcherClient.ml
+Line: 8
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: Buffered_line_reader
+File: results/hhvm/hphp/hack/src/watchman_event_watcher/watchmanEventWatcherClient.ml
+Line: 32
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: simplify_constraints
+File: results/hhvm/.git/index
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: simplify_constraints
+File: results/hhvm/.git/index
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: simplify_constraints
+File: results/hhvm/.git/index
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: Buffered_line_reader
+File: results/hhvm/hphp/hack/src/watchman_event_watcher/watchmanEventWatcherClient.ml
+Line: 30
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: simplify_constraints
+File: results/hhvm/.git/index
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: simplify_constraints
+File: results/hhvm/.git/index
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: simplify_constraints
+File: results/hhvm/.git/index
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: simplify_constraints
+File: results/hhvm/.git/index
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: simplify_constraints
+File: results/hhvm/.git/index
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: go_to_implementation
+File: results/hhvm/hphp/hack/test/integration/test_lsp.py
+Line: 225
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: signaturehelp_lambda
+File: results/hhvm/hphp/hack/test/integration/test_lsp.py
+Line: 107
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: changed_php_file_uri
+File: results/hhvm/hphp/hack/test/integration/test_lsp.py
+Line: 144
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: changed_php_file_uri
+File: results/hhvm/hphp/hack/test/integration/test_lsp.py
+Line: 145
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: hasInvariantIterBase
+File: results/hhvm/hphp/hhbbc/analyze.cpp
+Line: 186
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: BuildSubclassListJob
+File: results/hhvm/hphp/hhbbc/index.cpp
+Line: 311
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: BuildSubclassListJob
+File: results/hhvm/hphp/hhbbc/index.cpp
+Line: 54
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: BuildSubclassListJob
+File: results/hhvm/hphp/hhbbc/index.cpp
+Line: 30
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: hasInvariantIterBase
+File: results/hhvm/hphp/hhbbc/interp-state.h
+Line: 301
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: ClientIdeIncremental
+File: results/hhvm/hphp/hack/test/unit/naming/localmem_naming_tests.ml
+Line: 249
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: ClientIdeIncremental
+File: results/hhvm/hphp/hack/test/unit/naming/localmem_naming_tests.ml
+Line: 249
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: ClientIdeIncremental
+File: results/hhvm/hphp/hack/test/unit/naming/localmem_naming_tests.ml
+Line: 234
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: ClientIdeIncremental
+File: results/hhvm/hphp/hack/test/unit/naming/localmem_naming_tests.ml
+Line: 234
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: ClientIdeIncremental
+File: results/hhvm/hphp/hack/test/unit/naming/localmem_naming_tests.ml
+Line: 237
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: ClientIdeIncremental
+File: results/hhvm/hphp/hack/test/unit/naming/localmem_naming_tests.ml
+Line: 252
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: ClientIdeIncremental
+File: results/hhvm/hphp/hack/test/unit/naming/localmem_naming_tests.ml
+Line: 252
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: ClientIdeIncremental
+File: results/hhvm/hphp/hack/test/unit/naming/localmem_naming_tests.ml
+Line: 237
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: InterceptRequestData
+File: results/hhvm/hphp/runtime/base/intercept.cpp
+Line: 32
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: InterceptRequestData
+File: results/hhvm/hphp/runtime/base/intercept.cpp
+Line: 39
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: -unit-from-file-load
+File: results/hhvm/hphp/runtime/base/unit-cache.cpp
+Line: 111
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: PHP_SQLITE2_HAVE_PDO
+File: results/hhvm/hphp/runtime/base/zend-php-config.h
+Line: 178
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: LegacyConfigFileName
+File: results/hhvm/hphp/runtime/debugger/debugger_client.cpp
+Line: 313
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: LegacyConfigFileName
+File: results/hhvm/hphp/runtime/debugger/debugger_client.cpp
+Line: 314
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: LegacyConfigFileName
+File: results/hhvm/hphp/runtime/debugger/debugger_client.cpp
+Line: 306
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: LegacyConfigFileName
+File: results/hhvm/hphp/runtime/debugger/debugger_client.cpp
+Line: 307
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: hasOnResumableCreate
+File: results/hhvm/hphp/runtime/ext/asio/asio-session.cpp
+Line: 195
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: hasOnResumableCreate
+File: results/hhvm/hphp/runtime/ext/asio/asio-session.cpp
+Line: 202
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: COMPILE_DL_PDO_MYSQL
+File: results/hhvm/hphp/runtime/base/zend-php-config.h
+Line: 187
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: COMPILE_DL_PDO_DBLIB
+File: results/hhvm/hphp/runtime/base/zend-php-config.h
+Line: 181
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: COMPILE_DL_PDO_MYSQL
+File: results/hhvm/hphp/runtime/base/zend-php-config.h
+Line: 194
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: COMPILE_DL_PDO_DBLIB
+File: results/hhvm/hphp/runtime/base/zend-php-config.h
+Line: 188
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: _gdContributionsFree
+File: results/hhvm/hphp/runtime/ext/gd/libgd/gd_interpolation.cpp
+Line: 67
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: RequestInjectionData
+File: results/hhvm/hphp/runtime/base/request-injection-data-inl.h
+Line: 23
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: RequestInjectionData
+File: results/hhvm/hphp/runtime/base/request-injection-data-inl.h
+Line: 23
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: RequestInjectionData
+File: results/hhvm/hphp/runtime/base/request-injection-data-inl.h
+Line: 23
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: RequestInjectionData
+File: results/hhvm/hphp/runtime/base/request-injection-data-inl.h
+Line: 23
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: RequestInjectionData
+File: results/hhvm/hphp/runtime/base/request-injection-data-inl.h
+Line: 16
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: RequestInjectionData
+File: results/hhvm/hphp/runtime/base/request-injection-data-inl.h
+Line: 16
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: RequestInjectionData
+File: results/hhvm/hphp/runtime/base/request-injection-data-inl.h
+Line: 16
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: RequestInjectionData
+File: results/hhvm/hphp/runtime/base/request-injection-data-inl.h
+Line: 16
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: HPHPD_CLIENT_SETTING
+File: results/hhvm/hphp/runtime/debugger/debugger_client_settings.h
+Line: 11
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: HPHPD_CLIENT_SETTING
+File: results/hhvm/hphp/runtime/debugger/debugger_client_settings.h
+Line: 11
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: HPHPD_CLIENT_SETTING
+File: results/hhvm/hphp/runtime/debugger/debugger_client_settings.h
+Line: 11
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: HPHPD_CLIENT_SETTING
+File: results/hhvm/hphp/runtime/debugger/debugger_client_settings.h
+Line: 11
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: HPHPD_CLIENT_SETTING
+File: results/hhvm/hphp/runtime/debugger/debugger_client_settings.h
+Line: 18
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: HPHPD_CLIENT_SETTING
+File: results/hhvm/hphp/runtime/debugger/debugger_client_settings.h
+Line: 18
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: HPHPD_CLIENT_SETTING
+File: results/hhvm/hphp/runtime/debugger/debugger_client_settings.h
+Line: 18
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: HPHPD_CLIENT_SETTING
+File: results/hhvm/hphp/runtime/debugger/debugger_client_settings.h
+Line: 18
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: pdo_raise_impl_error
+File: results/hhvm/hphp/runtime/ext/pdo/ext_pdo.cpp
+Line: 2
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: empty_string_variant
+File: results/hhvm/hphp/runtime/ext/pdo/ext_pdo.cpp
+Line: 114
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: ATTR_STATEMENT_CLASS
+File: results/hhvm/hphp/runtime/ext/pdo/ext_pdo.php
+Line: 95
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: ATTR_STATEMENT_CLASS
+File: results/hhvm/hphp/runtime/ext/pdo/ext_pdo.php
+Line: 114
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: PDO_PLACEHOLDER_NONE
+File: results/hhvm/hphp/runtime/ext/pdo/pdo_driver.h
+Line: 226
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: PDO_PLACEHOLDER_NONE
+File: results/hhvm/hphp/runtime/ext/pdo/pdo_driver.h
+Line: 219
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: dynamic_pointer_cast
+File: results/hhvm/hphp/runtime/ext/pdo_mysql/pdo_mysql.cpp
+Line: 176
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: dynamic_pointer_cast
+File: results/hhvm/hphp/runtime/ext/pdo_mysql/pdo_mysql.cpp
+Line: 99
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: dynamic_pointer_cast
+File: results/hhvm/hphp/runtime/ext/pdo_mysql/pdo_mysql.cpp
+Line: 92
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: dynamic_pointer_cast
+File: results/hhvm/hphp/runtime/ext/pdo_mysql/pdo_mysql.cpp
+Line: 261
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: dynamic_pointer_cast
+File: results/hhvm/hphp/runtime/ext/pdo_sqlite/pdo_sqlite.cpp
+Line: 271
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: dynamic_pointer_cast
+File: results/hhvm/hphp/runtime/ext/pdo_sqlite/pdo_sqlite.h
+Line: 82
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: dynamic_pointer_cast
+File: results/hhvm/hphp/runtime/ext/pdo_sqlite/pdo_sqlite.h
+Line: 75
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: pdo_raise_impl_error
+File: results/hhvm/hphp/runtime/ext/pdo/ext_pdo.cpp
+Line: 53
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: PDO_PLACEHOLDER_NONE
+File: results/hhvm/hphp/runtime/ext/pdo/ext_pdo.cpp
+Line: 154
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: memory_order_release
+File: results/hhvm/hphp/runtime/ext/vsdebug/session.cpp
+Line: 74
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: memory_order_release
+File: results/hhvm/hphp/runtime/ext/vsdebug/session.cpp
+Line: 67
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: zip_unchange_archive
+File: results/hhvm/hphp/runtime/ext/zip/ext_zip.cpp
+Line: 187
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: sqlite3_busy_timeout
+File: results/hhvm/hphp/runtime/ext/pdo_sqlite/pdo_sqlite.cpp
+Line: 115
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: sqlite3_busy_timeout
+File: results/hhvm/hphp/runtime/ext/pdo_sqlite/pdo_sqlite.cpp
+Line: 115
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: sqlite3_busy_timeout
+File: results/hhvm/hphp/runtime/ext/pdo_sqlite/pdo_sqlite.cpp
+Line: 108
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: sqlite3_busy_timeout
+File: results/hhvm/hphp/runtime/ext/pdo_sqlite/pdo_sqlite.cpp
+Line: 108
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: pdo_raise_impl_error
+File: results/hhvm/hphp/runtime/ext/pdo/ext_pdo.cpp
+Line: 51
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: pdo_raise_impl_error
+File: results/hhvm/hphp/runtime/ext/pdo/ext_pdo.cpp
+Line: 51
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: pdo_raise_impl_error
+File: results/hhvm/hphp/runtime/ext/pdo/ext_pdo.cpp
+Line: 51
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: ATTR_STATEMENT_CLASS
+File: results/hhvm/hphp/runtime/ext/pdo/ext_pdo.cpp
+Line: 284
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: pdo_raise_impl_error
+File: results/hhvm/hphp/runtime/ext/pdo/ext_pdo.cpp
+Line: 146
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: pdo_raise_impl_error
+File: results/hhvm/hphp/runtime/ext/pdo/ext_pdo.cpp
+Line: 146
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: ATTR_STATEMENT_CLASS
+File: results/hhvm/hphp/runtime/ext/pdo/ext_pdo.cpp
+Line: 284
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: pdo_raise_impl_error
+File: results/hhvm/hphp/runtime/ext/pdo/ext_pdo.cpp
+Line: 28
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: pdo_raise_impl_error
+File: results/hhvm/hphp/runtime/ext/pdo/ext_pdo.cpp
+Line: 28
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: sqliteCreateFunction
+File: results/hhvm/hphp/runtime/ext/pdo/ext_pdo.cpp
+Line: 233
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: sqliteCreateFunction
+File: results/hhvm/hphp/runtime/ext/pdo/ext_pdo.cpp
+Line: 233
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: pdo_raise_impl_error
+File: results/hhvm/hphp/runtime/ext/pdo/ext_pdo.cpp
+Line: 28
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: memory_order_acq_rel
+File: results/hhvm/hphp/runtime/vm/class-inl.h
+Line: 261
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: m_instanceCheckCount
+File: results/hhvm/hphp/runtime/vm/class-inl.h
+Line: 256
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: memory_order_acq_rel
+File: results/hhvm/hphp/runtime/vm/class-inl.h
+Line: 258
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: m_instanceCheckCount
+File: results/hhvm/hphp/runtime/vm/class-inl.h
+Line: 253
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: pdo_raise_impl_error
+File: results/hhvm/hphp/runtime/ext/pdo/ext_pdo.cpp
+Line: 4
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: pdo_raise_impl_error
+File: results/hhvm/hphp/runtime/ext/pdo/ext_pdo.cpp
+Line: 4
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: pdo_raise_impl_error
+File: results/hhvm/hphp/runtime/ext/pdo/ext_pdo.cpp
+Line: 4
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: pdo_raise_impl_error
+File: results/hhvm/hphp/runtime/ext/pdo/ext_pdo.cpp
+Line: 4
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: pdo_stmt_verify_mode
+File: results/hhvm/hphp/runtime/ext/pdo/ext_pdo.cpp
+Line: 58
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: ATTR_STATEMENT_CLASS
+File: results/hhvm/hphp/runtime/ext/pdo/ext_pdo.cpp
+Line: 16
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: spOffBCFromStackBase
+File: results/hhvm/hphp/runtime/vm/jit/extra-data.h
+Line: 233
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: forEachProfilingFunc
+File: results/hhvm/hphp/runtime/vm/jit/func-order.cpp
+Line: 78
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: forEachProfilingFunc
+File: results/hhvm/hphp/runtime/vm/jit/func-order.cpp
+Line: 78
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: spOffBCFromStackBase
+File: results/hhvm/hphp/runtime/vm/jit/irgen.cpp
+Line: 26
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: spOffBCFromStackBase
+File: results/hhvm/hphp/runtime/vm/jit/irgen.cpp
+Line: 206
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: forEachProfilingFunc
+File: results/hhvm/hphp/runtime/vm/jit/func-order.cpp
+Line: 85
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: forEachProfilingFunc
+File: results/hhvm/hphp/runtime/vm/jit/func-order.cpp
+Line: 85
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: getSBSerProfDataCopy
+File: results/hhvm/hphp/runtime/vm/jit/prof-data-sb.cpp
+Line: 118
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: getSBSerProfDataCopy
+File: results/hhvm/hphp/runtime/vm/jit/prof-data-sb.cpp
+Line: 111
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: moduleEnabledRelease
+File: results/hhvm/hphp/runtime/vm/jit/prof-data-serialize.cpp
+Line: 180
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: forEachProfilingFunc
+File: results/hhvm/hphp/runtime/vm/jit/prof-data-serialize.cpp
+Line: 268
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: forEachProfilingFunc
+File: results/hhvm/hphp/runtime/vm/jit/prof-data-serialize.cpp
+Line: 261
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: forEachProfilingFunc
+File: results/hhvm/hphp/runtime/vm/jit/prof-data-serialize.cpp
+Line: 192
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: pdo_raise_impl_error
+File: results/hhvm/hphp/runtime/ext/pdo/ext_pdo.cpp
+Line: 5
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: sqliteCreateFunction
+File: results/hhvm/hphp/runtime/ext/pdo/ext_pdo.cpp
+Line: 230
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: PARAM_EVT_FETCH_POST
+File: results/hhvm/hphp/runtime/ext/pdo/ext_pdo.cpp
+Line: 272
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: PDO_FETCH_PROPS_LATE
+File: results/hhvm/hphp/runtime/ext/pdo/ext_pdo.cpp
+Line: 290
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: PDO_ATTR_SERVER_INFO
+File: results/hhvm/hphp/runtime/ext/pdo/ext_pdo.cpp
+Line: 298
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: PDO_ATTR_CURSOR_NAME
+File: results/hhvm/hphp/runtime/ext/pdo/ext_pdo.cpp
+Line: 301
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: ATTR_STATEMENT_CLASS
+File: results/hhvm/hphp/runtime/ext/pdo/ext_pdo.cpp
+Line: 305
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: PDO_ATTR_DRIVER_NAME
+File: results/hhvm/hphp/runtime/ext/pdo/ext_pdo.cpp
+Line: 308
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: pdo_raise_impl_error
+File: results/hhvm/hphp/runtime/ext/pdo/ext_pdo.cpp
+Line: 5
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: PDO_LONG_PARAM_CHECK
+File: results/hhvm/hphp/runtime/ext/pdo/ext_pdo.cpp
+Line: 199
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: PDO_LONG_PARAM_CHECK
+File: results/hhvm/hphp/runtime/ext/pdo/ext_pdo.cpp
+Line: 199
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: pdo_raise_impl_error
+File: results/hhvm/hphp/runtime/ext/pdo/ext_pdo.cpp
+Line: 114
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: pdo_raise_impl_error
+File: results/hhvm/hphp/runtime/ext/pdo/ext_pdo.cpp
+Line: 114
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: ATTR_STATEMENT_CLASS
+File: results/hhvm/hphp/runtime/ext/pdo/ext_pdo.cpp
+Line: 276
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: pdo_raise_impl_error
+File: results/hhvm/hphp/runtime/ext/pdo/ext_pdo.cpp
+Line: 114
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: pdo_raise_impl_error
+File: results/hhvm/hphp/runtime/ext/pdo/ext_pdo.cpp
+Line: 114
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: pdo_raise_impl_error
+File: results/hhvm/hphp/runtime/ext/pdo/ext_pdo.cpp
+Line: 114
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: PDO_LONG_PARAM_CHECK
+File: results/hhvm/hphp/runtime/ext/pdo/ext_pdo.cpp
+Line: 199
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: forEachProfilingFunc
+File: results/hhvm/hphp/runtime/vm/jit/tc-region.cpp
+Line: 121
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: PGOVasmBlockCounters
+File: results/hhvm/hphp/runtime/vm/jit/vasm-block-counters.cpp
+Line: 190
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: PGOVasmBlockCounters
+File: results/hhvm/hphp/runtime/vm/jit/vasm-block-counters.cpp
+Line: 166
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: PGOVasmBlockCounters
+File: results/hhvm/hphp/runtime/vm/jit/vasm-block-counters.cpp
+Line: 159
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: PGOVasmBlockCounters
+File: results/hhvm/hphp/runtime/vm/jit/vasm-block-counters.cpp
+Line: 197
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: forEachProfilingFunc
+File: results/hhvm/hphp/runtime/vm/jit/prof-data-serialize.cpp
+Line: 333
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: forEachProfilingFunc
+File: results/hhvm/hphp/runtime/vm/jit/prof-data-serialize.cpp
+Line: 333
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: forEachProfilingFunc
+File: results/hhvm/hphp/runtime/vm/jit/prof-data-serialize.cpp
+Line: 35
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: forEachProfilingFunc
+File: results/hhvm/hphp/runtime/vm/jit/prof-data-serialize.cpp
+Line: 35
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: mysql_default_socket
+File: results/hhvm/hphp/runtime/ext/pdo/ext_pdo.cpp
+Line: 205
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: ATTR_STATEMENT_CLASS
+File: results/hhvm/hphp/runtime/ext/pdo/ext_pdo.cpp
+Line: 102
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: AllocSoapFaultObject
+File: results/hhvm/hphp/system/systemlib.h
+Line: 119
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: AllocSoapFaultObject
+File: results/hhvm/hphp/system/systemlib.h
+Line: 126
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: TEST_FILE_GOT_UPDATE
+File: results/hhvm/hphp/test/slow/dynamic-calls/watchman_shared.inc
+Line: 5
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: ATTR_STATEMENT_CLASS
+File: results/hhvm/hphp/test/slow/dv_array/ext_pdo/ext_pdo.php
+Line: 134
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: ATTR_STATEMENT_CLASS
+File: results/hhvm/hphp/test/slow/dv_array/ext_pdo/ext_pdo.php
+Line: 134
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: TEST_FILE_GOT_UPDATE
+File: results/hhvm/hphp/test/slow/dynamic-calls/watchman_shared.inc
+Line: 2
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: ATTR_STATEMENT_CLASS
+File: results/hhvm/hphp/test/slow/dv_array/ext_pdo/ext_pdo.php
+Line: 111
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: ATTR_STATEMENT_CLASS
+File: results/hhvm/hphp/test/slow/dv_array/ext_pdo/ext_pdo.php
+Line: 111
+
+Found unverified result 🐷🔑❓
+Detector Type: URI
+Decoder Type: PLAIN
+Raw result: http://username:password@hostname
+File: results/hhvm/hphp/test/slow/ext_url/ext_url.php
+Line: 85
+
+Found unverified result 🐷🔑❓
+Detector Type: URI
+Decoder Type: PLAIN
+Raw result: http://username:password@hostname
+File: results/hhvm/hphp/test/slow/ext_url/ext_url.php
+Line: 69
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: ATTR_STATEMENT_CLASS
+File: results/hhvm/hphp/test/slow/dv_array_hack_arr/ext_pdo/ext_pdo.php
+Line: 134
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: ATTR_STATEMENT_CLASS
+File: results/hhvm/hphp/test/slow/dv_array_hack_arr/ext_pdo/ext_pdo.php
+Line: 134
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: memory_manager_stats
+File: results/hhvm/hphp/test/slow/ext_json/duplicate_keys_no_leak.php
+Line: 5
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: memory_manager_stats
+File: results/hhvm/hphp/test/slow/ext_json/duplicate_keys_no_leak.php
+Line: 18
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: 4R42F3IKNUvb42kofr45
+File: results/hhvm/hphp/test/slow/ext_openssl/openssl_pkey_get_details_3.php
+Line: 11
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: 4R42F3IKNUvb42kofr45
+File: results/hhvm/hphp/test/slow/ext_openssl/openssl_pkey_get_details_3.php.expect
+Line: 7
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: ATTR_STATEMENT_CLASS
+File: results/hhvm/hphp/test/slow/dv_array_hack_arr/ext_pdo/ext_pdo.php
+Line: 111
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: ATTR_STATEMENT_CLASS
+File: results/hhvm/hphp/test/slow/dv_array_hack_arr/ext_pdo/ext_pdo.php
+Line: 111
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: hARJCHhrh2JU022R5KP+
+File: results/hhvm/hphp/test/slow/ext_openssl/test_x509.crt
+Line: 142
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: HmyW74cNxA9hi63ugyuV
+File: results/hhvm/hphp/test/slow/ext_openssl/test_x509.crt
+Line: 61
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: OutOfBoundsException
+File: results/hhvm/hphp/test/slow/exceptions/subclass.php.expect
+Line: 1
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: OutOfBoundsException
+File: results/hhvm/hphp/test/slow/exceptions/subclass.php.expect
+Line: 1
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: sqliteCreateFunction
+File: results/hhvm/hphp/test/slow/ext_sqlite3/createfunction.php
+Line: 5
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: OutOfBoundsException
+File: results/hhvm/hphp/test/slow/exceptions/subclass.php.expect
+Line: 4
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: OutOfBoundsException
+File: results/hhvm/hphp/test/slow/exceptions/subclass.php.expect
+Line: 4
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: TEST_FILE_GOT_UPDATE
+File: results/hhvm/hphp/test/slow/ext_watchman/callback.inc
+Line: 9
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: +7qEUqf9FuVSTiuwL7MT
+File: results/hhvm/hphp/test/slow/ext_openssl/test_x509.crt
+Line: 182
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: +GgVkYDLpdXuOzr0hARe
+File: results/hhvm/hphp/test/slow/ext_openssl/test_x509.crt
+Line: 174
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: TEST_FILE_GOT_UPDATE
+File: results/hhvm/hphp/test/slow/ext_watchman/callback.inc
+Line: 37
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: ATTR_STATEMENT_CLASS
+File: results/hhvm/hphp/test/slow/ext_pdo/ext_pdo.php
+Line: 126
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: ATTR_STATEMENT_CLASS
+File: results/hhvm/hphp/test/slow/ext_pdo/ext_pdo.php
+Line: 126
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: ATTR_STATEMENT_CLASS
+File: results/hhvm/hphp/test/slow/ext_pdo/ext_pdo.php
+Line: 103
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: ATTR_STATEMENT_CLASS
+File: results/hhvm/hphp/test/slow/ext_pdo/ext_pdo.php
+Line: 103
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: native-autoload-type
+File: results/hhvm/hphp/test/slow/native-autoload-trusted-db2/db/trusted-autoload.php.0.autoloadDB
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: native-autoload-type
+File: results/hhvm/hphp/test/slow/native-autoload-trusted-db2/db/trusted-autoload.php.0.autoloadDB
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: native-autoload-type
+File: results/hhvm/hphp/test/slow/native-autoload-trusted-db2/db/trusted-autoload.php.0.autoloadDB
+

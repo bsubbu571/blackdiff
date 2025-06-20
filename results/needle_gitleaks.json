@@ -1,0 +1,22 @@
+[
+ {
+  "Description": "Generic API Key",
+  "StartLine": 16,
+  "EndLine": 16,
+  "StartColumn": 9,
+  "EndColumn": 50,
+  "Match": "key.runtime_name\" : \"_TtC8__main__6MyComp\"",
+  "Secret": "_TtC8__main__6MyComp",
+  "File": "Generator/Tests/NeedleFrameworkTests/Fixtures/NonSwift.json",
+  "SymlinkFile": "",
+  "Commit": "2a79817bc25d162eef2362f82f0fe2b005cbd3b0",
+  "Entropy": 3.541446,
+  "Author": "Christian Ampe",
+  "Email": "christianampe@uber.com",
+  "Date": "2025-05-10T00:14:53Z",
+  "Message": "Fix spelling in fatal error",
+  "Tags": [],
+  "RuleID": "generic-api-key",
+  "Fingerprint": "2a79817bc25d162eef2362f82f0fe2b005cbd3b0:Generator/Tests/NeedleFrameworkTests/Fixtures/NonSwift.json:generic-api-key:16"
+ }
+]

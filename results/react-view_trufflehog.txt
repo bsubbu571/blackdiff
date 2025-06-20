@@ -1,0 +1,84 @@
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: sha512-d65bNlIadxvpb
+File: results/react-view/pnpm-lock.yaml
+Line: 57
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: property-descriptors
+File: results/react-view/pnpm-lock.yaml
+Line: 36
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: sha512-d65bNlIadxvpb
+File: results/react-view/pnpm-lock.yaml
+Line: 354
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: +fTKv5Bp0fZ+BRuY3Z0g
+File: results/react-view/pnpm-lock.yaml
+Line: 154
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: uUIliorNrfYV6s1b02eQ
+File: results/react-view/pnpm-lock.yaml
+Line: 58
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: property-descriptors
+File: results/react-view/pnpm-lock.yaml
+Line: 177
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: 9SI89nRAYcmap2xHQL9D
+File: results/react-view/pnpm-lock.yaml
+Line: 164
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: micromark-util-types
+File: results/react-view/pnpm-lock.yaml
+Line: 91
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: property-descriptors
+File: results/react-view/pnpm-lock.yaml
+Line: 333
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: uUIliorNrfYV6s1b02eQ
+File: results/react-view/pnpm-lock.yaml
+Line: 341
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: micromark-util-types
+File: results/react-view/pnpm-lock.yaml
+Line: 7
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: property-descriptors
+File: results/react-view/pnpm-lock.yaml
+Line: 261
+

@@ -1,0 +1,22 @@
+[
+ {
+  "Description": "Generic API Key",
+  "StartLine": 12,
+  "EndLine": 12,
+  "StartColumn": 12,
+  "EndColumn": 51,
+  "Match": "Key = \"tGN0bIwXnHdwOa85VABjPdSn8nWY7G7I\"",
+  "Secret": "tGN0bIwXnHdwOa85VABjPdSn8nWY7G7I",
+  "File": "client/checkin_test.go",
+  "SymlinkFile": "",
+  "Commit": "906c771330604cfb2bd6e8d31581e7a00bb524ac",
+  "Entropy": 4.47641,
+  "Author": "Brandur",
+  "Email": "brandur@mutelight.org",
+  "Date": "2016-09-07T14:03:19Z",
+  "Message": "Bump version to 17.3.0",
+  "Tags": [],
+  "RuleID": "generic-api-key",
+  "Fingerprint": "906c771330604cfb2bd6e8d31581e7a00bb524ac:client/checkin_test.go:generic-api-key:12"
+ }
+]

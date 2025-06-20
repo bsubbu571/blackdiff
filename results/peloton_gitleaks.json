@@ -1,0 +1,22 @@
+[
+ {
+  "Description": "Generic API Key",
+  "StartLine": 64,
+  "EndLine": 64,
+  "StartColumn": 7,
+  "EndColumn": 57,
+  "Match": "SecretID   = \"bca875f5-322a-4439-b0c9-63e3cf9f982f\"",
+  "Secret": "bca875f5-322a-4439-b0c9-63e3cf9f982f",
+  "File": "pkg/jobmgr/task/placement/placement_test.go",
+  "SymlinkFile": "",
+  "Commit": "a69e935fa47cd4350abb4e2635da3309949fa047",
+  "Entropy": 3.7390978,
+  "Author": "Zhixin Wen",
+  "Email": "zhixin@uber.com",
+  "Date": "2019-10-01T18:33:35Z",
+  "Message": "Use mesos plugins to launch tasks in V0 API\n\nSummary: Use mesos plugin to launch and kill tasks in V0 API\n\nReviewers: O521 Project Peloton: Add reviewers, #p2k, adityacb\n\nReviewed By: O521 Project Peloton: Add reviewers, #p2k, adityacb\n\nSubscribers: jenkins\n\nManiphest Tasks: T3618913, T3618921\n\nDifferential Revision: https://code.uberinternal.com/D3298089",
+  "Tags": [],
+  "RuleID": "generic-api-key",
+  "Fingerprint": "a69e935fa47cd4350abb4e2635da3309949fa047:pkg/jobmgr/task/placement/placement_test.go:generic-api-key:64"
+ }
+]

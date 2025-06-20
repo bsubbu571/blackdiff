@@ -1,0 +1,508 @@
+Found unverified result 🐷🔑❓
+Detector Type: Signable
+Decoder Type: PLAIN
+Raw result: -explode-assignable-expression-7
+File: results/aresdb/controller/ui/package-lock.json
+Line: 95
+
+Found unverified result 🐷🔑❓
+Detector Type: Signable
+Decoder Type: PLAIN
+Raw result: -explode-assignable-expression-7
+File: results/aresdb/controller/ui/package-lock.json
+Line: 79
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: renderBootstrapStage
+File: results/aresdb/api/ui/debug/js/bootstrap.js
+Line: 61
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: renderBootstrapStage
+File: results/aresdb/api/ui/debug/js/bootstrap.js
+Line: 72
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: UpdateForceOverwrite
+File: results/aresdb/client/connector.go
+Line: 83
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: UpdateForceOverwrite
+File: results/aresdb/client/connector.go
+Line: 403
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: XXX_NoUnkeyedLiteral
+File: results/aresdb/controller/generated/proto/entity.pb.go
+Line: 28
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: XXX_NoUnkeyedLiteral
+File: results/aresdb/controller/generated/proto/entity.pb.go
+Line: 39
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: JP5KxuCwM96bX3L9v4ZN
+File: results/aresdb/controller/ui/package-lock.json
+Line: 175
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: acorn-dynamic-import
+File: results/aresdb/controller/ui/package-lock.json
+Line: 249
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: acorn-dynamic-import
+File: results/aresdb/controller/ui/package-lock.json
+Line: 30
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: -Qv9B7OXMD5mjpsKKq7c
+File: results/aresdb/controller/ui/package-lock.json
+Line: 308
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: outgoingWindowUpdate
+File: results/aresdb/examples/examples
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: io_prometheus_client
+File: results/aresdb/examples/examples
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: ImforwardsX-Powered-
+File: results/aresdb/examples/examples
+Line: 12
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: saveAncestorsruntime
+File: results/aresdb/examples/examples
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: saveAncestorsruntime
+File: results/aresdb/examples/examples
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: traceGoCreateruntime
+File: results/aresdb/examples/examples
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: slicingMakeTablehash
+File: results/aresdb/examples/examples
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: slicingMakeTablehash
+File: results/aresdb/examples/examples
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: WriteWindowUpdatenet
+File: results/aresdb/examples/examples
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: clientKeyExchangeMsg
+File: results/aresdb/examples/examples
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: +Yj6okJ6UtLINN0Q9M4+
+File: results/aresdb/go.sum
+Line: 52
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: inplaceUpdateRecords
+File: results/aresdb/memstore/backfill.go
+Line: 115
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: UpdateForceOverwrite
+File: results/aresdb/memstore/common/upsert_batch.go
+Line: 335
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: UpdateForceOverwrite
+File: results/aresdb/memstore/common/upsert_batch.go
+Line: 324
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: UpdateForceOverwrite
+File: results/aresdb/memstore/common/upsert_batch_builder.go
+Line: 21
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: UpdateForceOverwrite
+File: results/aresdb/memstore/common/upsert_batch_builder.go
+Line: 32
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: getManagedSpaceUsage
+File: results/aresdb/memstore/host_memory_manager.go
+Line: 192
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: getManagedSpaceUsage
+File: results/aresdb/memstore/host_memory_manager.go
+Line: 203
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: getManagedSpaceUsage
+File: results/aresdb/memstore/host_memory_manager.go
+Line: 206
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: getManagedSpaceUsage
+File: results/aresdb/memstore/host_memory_manager.go
+Line: 195
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: UpdateForceOverwrite
+File: results/aresdb/memstore/ingestion.go
+Line: 167
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: eventTimeColumnIndex
+File: results/aresdb/memstore/ingestion.go
+Line: 87
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: eventTimeColumnIndex
+File: results/aresdb/memstore/ingestion.go
+Line: 76
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: NonDefaultValueCount
+File: results/aresdb/memstore/vector_party.go
+Line: 90
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: NonDefaultValueCount
+File: results/aresdb/memstore/vector_party.go
+Line: 153
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: NonDefaultValueCount
+File: results/aresdb/memstore/vector_party.go
+Line: 142
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: NonDefaultValueCount
+File: results/aresdb/memstore/vector_party.go
+Line: 79
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: TableSchemaWatchable
+File: results/aresdb/metastore/common/types.go
+Line: 79
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: TableSchemaWatchable
+File: results/aresdb/metastore/common/types.go
+Line: 90
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: ErrTableDoesNotExist
+File: results/aresdb/metastore/disk_metastore.go
+Line: 83
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: TableSchemaWatchable
+File: results/aresdb/metastore/common/types.go
+Line: 94
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: TableSchemaWatchable
+File: results/aresdb/metastore/common/types.go
+Line: 83
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: ErrTableDoesNotExist
+File: results/aresdb/metastore/disk_metastore.go
+Line: 85
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: TotalAvailableMemory
+File: results/aresdb/query/device_manager.go
+Line: 33
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: TotalAvailableMemory
+File: results/aresdb/query/device_manager.go
+Line: 34
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: TotalAvailableMemory
+File: results/aresdb/query/device_manager.go
+Line: 44
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: TotalAvailableMemory
+File: results/aresdb/query/device_manager.go
+Line: 45
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: updateAssignmentHash
+File: results/aresdb/subscriber/common/job/controller.go
+Line: 270
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: updateAssignmentHash
+File: results/aresdb/subscriber/common/job/controller.go
+Line: 281
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: updateAssignmentHash
+File: results/aresdb/subscriber/common/job/controller_test.go
+Line: 297
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: updateAssignmentHash
+File: results/aresdb/subscriber/common/job/controller.go
+Line: 284
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: updateAssignmentHash
+File: results/aresdb/subscriber/common/job/controller.go
+Line: 273
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: updateAssignmentHash
+File: results/aresdb/subscriber/common/job/controller_test.go
+Line: 286
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: TransformationConfig
+File: results/aresdb/subscriber/common/rules/job_config.go
+Line: 66
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: TransformationConfig
+File: results/aresdb/subscriber/common/rules/job_config.go
+Line: 55
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: 7WvSACcrMYrNp+b8kDL1
+File: results/aresdb/controller/ui/package-lock.json
+Line: 128
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: -Qv9B7OXMD5mjpsKKq7c
+File: results/aresdb/controller/ui/package-lock.json
+Line: 42
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: io_prometheus_client
+File: results/aresdb/examples/examples
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: RequestOp_RequestPut
+File: results/aresdb/examples/examples
+Line: 1
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: RequestOp_RequestPut
+File: results/aresdb/examples/examples
+Line: 2
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: UpdateForceOverwrite
+File: results/aresdb/memstore/ingestion_test.go
+Line: 92
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: UpdateForceOverwrite
+File: results/aresdb/memstore/ingestion_test.go
+Line: 92
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: TableSchemaValidator
+File: results/aresdb/metastore/schema_fetch.go
+Line: 23
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: TableSchemaValidator
+File: results/aresdb/metastore/schema_fetch.go
+Line: 34
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: TableSchemaValidator
+File: results/aresdb/metastore/schema_fetch.go
+Line: 23
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: TableSchemaValidator
+File: results/aresdb/metastore/schema_fetch.go
+Line: 34
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: validateAllAvailable
+File: results/aresdb/controller/mutators/etcd/placement_mutator.go
+Line: 25
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: validateAllAvailable
+File: results/aresdb/controller/mutators/etcd/placement_mutator.go
+Line: 25
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: validateAllAvailable
+File: results/aresdb/controller/mutators/etcd/placement_mutator.go
+Line: 5
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: validateAllAvailable
+File: results/aresdb/controller/mutators/etcd/placement_mutator.go
+Line: 25
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: validateAllAvailable
+File: results/aresdb/controller/mutators/etcd/placement_mutator.go
+Line: 5
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: validateAllAvailable
+File: results/aresdb/controller/mutators/etcd/placement_mutator.go
+Line: 5
+

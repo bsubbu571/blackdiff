@@ -1,0 +1,171 @@
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: callOnUpdateComplete
+File: results/tchannel-go/channel.go
+Line: 385
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: hasMoreFragmentsFlag
+File: results/tchannel-go/fragmenting_writer.go
+Line: 37
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: callOnUpdateComplete
+File: results/tchannel-go/channel.go
+Line: 382
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: hasMoreFragmentsFlag
+File: results/tchannel-go/fragmenting_writer.go
+Line: 28
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: BenchmarkTCPDirect4k
+File: results/tchannel-go/benchmark/tcp_bench_test.go
+Line: 75
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: BenchmarkTCPDirect1k
+File: results/tchannel-go/benchmark/tcp_bench_test.go
+Line: 71
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: writeArg2WithAppends
+File: results/tchannel-go/relay.go
+Line: 98
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: BenchmarkTCPDirect4k
+File: results/tchannel-go/benchmark/tcp_bench_test.go
+Line: 84
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: BenchmarkTCPDirect1k
+File: results/tchannel-go/benchmark/tcp_bench_test.go
+Line: 80
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: TestGoPathCandidates
+File: results/tchannel-go/thrift/thrift-gen/gopath_test.go
+Line: 51
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: writeArg2WithAppends
+File: results/tchannel-go/relay.go
+Line: 96
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: TestGoPathCandidates
+File: results/tchannel-go/thrift/thrift-gen/gopath_test.go
+Line: 42
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: ChannelInboundClosed
+File: results/tchannel-go/channel.go
+Line: 136
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: callOnUpdateComplete
+File: results/tchannel-go/channel.go
+Line: 35
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: ChannelInboundClosed
+File: results/tchannel-go/channel.go
+Line: 131
+
+Found unverified result 🐷🔑❓
+Detector Type: PrivateKey
+Decoder Type: PLAIN
+Raw result: -----BEGIN PRIVATE KEY-----
+MIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCq8+h8Nj0i1kI7
+tNZv9LKadvfxK64m3ijqJM2WwTTAU99Z1iUTvrQ9FbatSoTu3QzYBDAcPc5Y+nMt
+lypkDZpIoTLH8aZC41Rg3zuJ1hbUmFvEPfOfXg99+Vx/2zc+Jaxyc4z3GY86RK8K
+m0b0h06zaXVOqYz3X7PoAhL8zXIm8RNwsmNmpMS/lgrxG5J1OTWmuAoDbkctKfCf
+wkWQbcv2VzTL3pbaDBxbmPf5GZWJ76TnulrrssNoPZwwENdwj44WUPF5yO25ookF
+m1tT/RBLR6Fz1dcKBG/BSWDVP8wNvk6LnP6uG4oI/Zot3tC9NiJKDDcnR/+DnZBZ
+0HOQFpkVAgMBAAECggEATDuyW9mwD53uMUPmMEy1bK5KyNBKu+hr5GX/DBAiXvXH
+7v7Qz+pF48uQB9zoRMBsXtQXRDDHmOQugpEbhTyPpX3E8GaxVribQwupOEExMyKy
+IWPjBRlj3TBa8GUoUF1qditTHEnYlgpU6GzwClFgZh9MAYUYaKPTzU1HfFZ9ZiF2
+jZB841HorsAJzbTnKXpHSK51GZ0ecOPGhRMkImsAskuI/EY5RBUZJmI9vVrs0pIu
+OO9TcAvSs9tNXfM8YrJwZVMG11qiCcvfHD3VuYhsYEOvCsjxSmRp4DCYlISTlUr+
+LXv7VdhGMoeSdQVQqpqPF9kqkghfOzQFQ9ppzw6iDQKBgQDSmPNIY0f7nZH4diir
+A0WUl7QzzUyf2qX4UrYzgGHufEfanTlrS3sTAdEkK85oxfNygLBXYmxtrzcQWVFD
+gx5cXDHaH6ZVoZxSRrDyO37vrVv76NSrOH3yqq9j8gytf3M74dTcunMVOGGdx1Zi
+D/AQ05KpjdKmhBDyCdGcHvXAqwKBgQDPzu8YdP56w3VNkPAlXRLZu9g5eZHj4uPF
+NRexV8BdbQ8EVu3KnIjzCSUSjPdGDN18ycgTrU0AzQ8MxQE8rqebs/otPTKsYJt4
+SwR/Ol+lDC+lGdSTREUu677MPE0buAce0UBQ9RtWoYUEsNEI6sFqReaCqmri55tm
+ioM4T3qNPwKBgQCQU8YXDANfC2PodYH1gW6EIVucTMyAmSY5guXfcdKr0Hyl9C5P
+vBECu7ILKgJxh4gKJuuzV36bxQLlr3Cj5g4+meiIZjxmXzV0pYHK4L9jntl1UOG+
+3h5i2lsNEetiVAAzP9fT1evc1SEBMoWe+vE5duYCUXHWMJg0aEpAxm8BtQKBgQCX
+BYBlecDnXt0E/exIexeT/RvqyRrpTp7RVwBc9bTrMLLVKIev04sDdQXoMWITGo5s
+fghVpIBtsJjbYuC/RP6x/V43Ol51P9A83+fovnd77xtBFUCTte3BZ7pFmx0+o8Mo
+9lGThE3V65RMEGQZ4uGlZh9bnpYHSOJ65vbuGXSq6QKBgHthfDeAsW7V4JIm0IG+
+sEkFjGvYhyngDbOKMSf9YN3YuuuLPawHQJYe7gmH4p/Wry+oUcF8t5ddhwLd63xz
+q4LAT9EgEvfLEbMnxjvLHUG/eeRx6zqCf54+KHfGCcooOI4kbI7lkQglLq5DWDe2
+4n6AEKY0aVWJ1zN9B/vaJMZM
+-----END PRIVATE KEY-----
+File: results/tchannel-go/internal/testcert/testcert.go
+
+Found unverified result 🐷🔑❓
+Detector Type: PrivateKey
+Decoder Type: PLAIN
+Raw result: -----BEGIN PRIVATE KEY-----
+MIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCq8+h8Nj0i1kI7
+tNZv9LKadvfxK64m3ijqJM2WwTTAU99Z1iUTvrQ9FbatSoTu3QzYBDAcPc5Y+nMt
+lypkDZpIoTLH8aZC41Rg3zuJ1hbUmFvEPfOfXg99+Vx/2zc+Jaxyc4z3GY86RK8K
+m0b0h06zaXVOqYz3X7PoAhL8zXIm8RNwsmNmpMS/lgrxG5J1OTWmuAoDbkctKfCf
+wkWQbcv2VzTL3pbaDBxbmPf5GZWJ76TnulrrssNoPZwwENdwj44WUPF5yO25ookF
+m1tT/RBLR6Fz1dcKBG/BSWDVP8wNvk6LnP6uG4oI/Zot3tC9NiJKDDcnR/+DnZBZ
+0HOQFpkVAgMBAAECggEATDuyW9mwD53uMUPmMEy1bK5KyNBKu+hr5GX/DBAiXvXH
+7v7Qz+pF48uQB9zoRMBsXtQXRDDHmOQugpEbhTyPpX3E8GaxVribQwupOEExMyKy
+IWPjBRlj3TBa8GUoUF1qditTHEnYlgpU6GzwClFgZh9MAYUYaKPTzU1HfFZ9ZiF2
+jZB841HorsAJzbTnKXpHSK51GZ0ecOPGhRMkImsAskuI/EY5RBUZJmI9vVrs0pIu
+OO9TcAvSs9tNXfM8YrJwZVMG11qiCcvfHD3VuYhsYEOvCsjxSmRp4DCYlISTlUr+
+LXv7VdhGMoeSdQVQqpqPF9kqkghfOzQFQ9ppzw6iDQKBgQDSmPNIY0f7nZH4diir
+A0WUl7QzzUyf2qX4UrYzgGHufEfanTlrS3sTAdEkK85oxfNygLBXYmxtrzcQWVFD
+gx5cXDHaH6ZVoZxSRrDyO37vrVv76NSrOH3yqq9j8gytf3M74dTcunMVOGGdx1Zi
+D/AQ05KpjdKmhBDyCdGcHvXAqwKBgQDPzu8YdP56w3VNkPAlXRLZu9g5eZHj4uPF
+NRexV8BdbQ8EVu3KnIjzCSUSjPdGDN18ycgTrU0AzQ8MxQE8rqebs/otPTKsYJt4
+SwR/Ol+lDC+lGdSTREUu677MPE0buAce0UBQ9RtWoYUEsNEI6sFqReaCqmri55tm
+ioM4T3qNPwKBgQCQU8YXDANfC2PodYH1gW6EIVucTMyAmSY5guXfcdKr0Hyl9C5P
+vBECu7ILKgJxh4gKJuuzV36bxQLlr3Cj5g4+meiIZjxmXzV0pYHK4L9jntl1UOG+
+3h5i2lsNEetiVAAzP9fT1evc1SEBMoWe+vE5duYCUXHWMJg0aEpAxm8BtQKBgQCX
+BYBlecDnXt0E/exIexeT/RvqyRrpTp7RVwBc9bTrMLLVKIev04sDdQXoMWITGo5s
+fghVpIBtsJjbYuC/RP6x/V43Ol51P9A83+fovnd77xtBFUCTte3BZ7pFmx0+o8Mo
+9lGThE3V65RMEGQZ4uGlZh9bnpYHSOJ65vbuGXSq6QKBgHthfDeAsW7V4JIm0IG+
+sEkFjGvYhyngDbOKMSf9YN3YuuuLPawHQJYe7gmH4p/Wry+oUcF8t5ddhwLd63xz
+q4LAT9EgEvfLEbMnxjvLHUG/eeRx6zqCf54+KHfGCcooOI4kbI7lkQglLq5DWDe2
+4n6AEKY0aVWJ1zN9B/vaJMZM
+-----END PRIVATE KEY-----
+File: results/tchannel-go/internal/testcert/testcert.go
+

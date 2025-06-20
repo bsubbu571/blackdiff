@@ -1,0 +1,35 @@
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: sha512-d65bNlIadxvpb
+File: results/grafana-dash-gen/package-lock.json
+Line: 94
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: update-browserslist-
+File: results/grafana-dash-gen/package-lock.json
+Line: 302
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: update-browserslist-
+File: results/grafana-dash-gen/package-lock.json
+Line: 300
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: update-browserslist-
+File: results/grafana-dash-gen/package-lock.json
+Line: 36
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: update-browserslist-
+File: results/grafana-dash-gen/package-lock.json
+Line: 38
+

@@ -1,0 +1,602 @@
+Found unverified result 🐷🔑❓
+Detector Type: EtsyApiKey
+Decoder Type: PLAIN
+Raw result: 1F862619-BA9F-4526-8F85-
+File: results/cadvisor/utils/sysfs/fakesysfs/fake.go
+Line: 192
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: menu-button-disabled
+File: results/cadvisor/cmd/internal/pages/assets/styles/containers.css
+Line: 1
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: YrXIMLS+ujCJidZ86x5n
+File: results/cadvisor/cmd/internal/pages/assets/styles/containers.css
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: HtdigestFileProvider
+File: results/cadvisor/cmd/internal/http/handlers.go
+Line: 76
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: w4IrNcuXy5oqICfaAKr1
+File: results/cadvisor/cmd/internal/pages/assets/styles/containers.css
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: +PgAX7+Mt28lv2k6ne4+
+File: results/cadvisor/cmd/internal/pages/assets/styles/containers.css
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: qyG8gyCIMClSL6twkPB+
+File: results/cadvisor/cmd/internal/pages/assets/styles/containers.css
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: HtdigestFileProvider
+File: results/cadvisor/cmd/internal/http/handlers.go
+Line: 65
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: w4IrNcuXy5oqICfaAKr1
+File: results/cadvisor/cmd/internal/pages/assets/styles/containers.css
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: qyG8gyCIMClSL6twkPB+
+File: results/cadvisor/cmd/internal/pages/assets/styles/containers.css
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: statsLastUpdatedTime
+File: results/cadvisor/manager/container.go
+Line: 80
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: statsLastUpdatedTime
+File: results/cadvisor/manager/container.go
+Line: 69
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: direct_mode_capacity
+File: results/cadvisor/info/v1/machine.go
+Line: 285
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: direct_mode_capacity
+File: results/cadvisor/info/v1/machine.go
+Line: 296
+
+Found unverified result 🐷🔑❓
+Detector Type: EtsyApiKey
+Decoder Type: PLAIN
+Raw result: 1F862619-BA9F-4526-8F85-
+File: results/cadvisor/utils/sysfs/fakesysfs/fake.go
+Line: 203
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: MarshalToSizedBuffer
+File: results/cadvisor/third_party/containerd/api/events/container.pb.go
+Line: 66
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: MarshalToSizedBuffer
+File: results/cadvisor/third_party/containerd/api/events/image.pb.go
+Line: 48
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: MarshalToSizedBuffer
+File: results/cadvisor/third_party/containerd/api/events/container.pb.go
+Line: 67
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: MarshalToSizedBuffer
+File: results/cadvisor/third_party/containerd/api/events/image.pb.go
+Line: 27
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: MarshalToSizedBuffer
+File: results/cadvisor/third_party/containerd/api/events/namespace.pb.go
+Line: 48
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: MarshalToSizedBuffer
+File: results/cadvisor/third_party/containerd/api/events/namespace.pb.go
+Line: 27
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: XXX_NoUnkeyedLiteral
+File: results/cadvisor/third_party/containerd/api/services/containers/v1/containers.pb.go
+Line: 5
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: MarshalToSizedBuffer
+File: results/cadvisor/third_party/containerd/api/services/containers/v1/containers.pb.go
+Line: 5
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: XXX_NoUnkeyedLiteral
+File: results/cadvisor/third_party/containerd/api/services/content/v1/content.pb.go
+Line: 79
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: XXX_NoUnkeyedLiteral
+File: results/cadvisor/third_party/containerd/api/services/containers/v1/containers.pb.go
+Line: 4
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: XXX_NoUnkeyedLiteral
+File: results/cadvisor/third_party/containerd/api/services/content/v1/content.pb.go
+Line: 94
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: XXX_NoUnkeyedLiteral
+File: results/cadvisor/third_party/containerd/api/services/content/v1/content.pb.go
+Line: 93
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: XXX_NoUnkeyedLiteral
+File: results/cadvisor/third_party/containerd/api/services/namespaces/v1/namespace.pb.go
+Line: 8
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: XXX_NoUnkeyedLiteral
+File: results/cadvisor/third_party/containerd/api/services/namespaces/v1/namespace.pb.go
+Line: 24
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: MarshalToSizedBuffer
+File: results/cadvisor/third_party/containerd/api/services/namespaces/v1/namespace.pb.go
+Line: 3
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: XXX_NoUnkeyedLiteral
+File: results/cadvisor/third_party/containerd/api/services/snapshots/v1/snapshots.pb.go
+Line: 40
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: ListSnapshotsRequest
+File: results/cadvisor/third_party/containerd/api/services/snapshots/v1/snapshots.proto
+Line: 25
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: MarshalToSizedBuffer
+File: results/cadvisor/third_party/containerd/api/services/tasks/v1/tasks.pb.go
+Line: 19
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: ListSnapshotsRequest
+File: results/cadvisor/third_party/containerd/api/services/snapshots/v1/snapshots.pb.go
+Line: 39
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: ListSnapshotsRequest
+File: results/cadvisor/third_party/containerd/api/services/snapshots/v1/snapshots.proto
+Line: 37
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: ListSnapshotsRequest
+File: results/cadvisor/third_party/containerd/api/services/snapshots/v1/snapshots.pb.go
+Line: 80
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: statsLastUpdatedTime
+File: results/cadvisor/manager/container.go
+Line: 79
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: statsLastUpdatedTime
+File: results/cadvisor/manager/container.go
+Line: 79
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: statsLastUpdatedTime
+File: results/cadvisor/manager/container.go
+Line: 68
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: statsLastUpdatedTime
+File: results/cadvisor/manager/container.go
+Line: 68
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: JxAAAAAEAwW1hRvnfffo
+File: results/cadvisor/cmd/internal/pages/assets/styles/containers.css
+Line: 48
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: TjAAAAAICgtWTx4qvPxy
+File: results/cadvisor/cmd/internal/pages/assets/styles/containers.css
+Line: 48
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: XXX_NoUnkeyedLiteral
+File: results/cadvisor/third_party/containerd/api/services/images/v1/images.pb.go
+Line: 53
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: XXX_NoUnkeyedLiteral
+File: results/cadvisor/third_party/containerd/api/services/images/v1/images.pb.go
+Line: 53
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: XXX_NoUnkeyedLiteral
+File: results/cadvisor/third_party/containerd/api/services/images/v1/images.pb.go
+Line: 39
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: XXX_NoUnkeyedLiteral
+File: results/cadvisor/third_party/containerd/api/services/images/v1/images.pb.go
+Line: 39
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: XXX_NoUnkeyedLiteral
+File: results/cadvisor/third_party/containerd/api/services/images/v1/images.pb.go
+Line: 54
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: XXX_NoUnkeyedLiteral
+File: results/cadvisor/third_party/containerd/api/services/images/v1/images.pb.go
+Line: 54
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: MarshalToSizedBuffer
+File: results/cadvisor/third_party/containerd/api/services/snapshots/v1/snapshots.pb.go
+Line: 7
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: MarshalToSizedBuffer
+File: results/cadvisor/third_party/containerd/api/services/snapshots/v1/snapshots.pb.go
+Line: 7
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: L59++JxUZpKu92ua66++
+File: results/cadvisor/cmd/internal/pages/assets/styles/containers.css
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: YrXIMLS+ujCJidZ86x5n
+File: results/cadvisor/cmd/internal/pages/assets/styles/containers.css
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: rpL1q0rydAwm80eP35i1
+File: results/cadvisor/cmd/internal/pages/assets/styles/containers.css
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: menu-button-disabled
+File: results/cadvisor/cmd/internal/pages/assets/styles/containers.css
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: OnDemandHousekeeping
+File: results/cadvisor/manager/container_test.go
+Line: 226
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: OnDemandHousekeeping
+File: results/cadvisor/manager/container_test.go
+Line: 226
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: OnDemandHousekeeping
+File: results/cadvisor/manager/container_test.go
+Line: 226
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: L59++JxUZpKu92ua66++
+File: results/cadvisor/cmd/internal/pages/assets/styles/containers.css
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: n7+iosLpdFINY5w63U8+
+File: results/cadvisor/cmd/internal/pages/assets/styles/containers.css
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: rpL1q0rydAwm80eP35i1
+File: results/cadvisor/cmd/internal/pages/assets/styles/containers.css
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: OnDemandHousekeeping
+File: results/cadvisor/manager/container_test.go
+Line: 214
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: OnDemandHousekeeping
+File: results/cadvisor/manager/container_test.go
+Line: 214
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: OnDemandHousekeeping
+File: results/cadvisor/manager/container_test.go
+Line: 214
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: OnDemandHousekeeping
+File: results/cadvisor/manager/container_test.go
+Line: 215
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: OnDemandHousekeeping
+File: results/cadvisor/manager/container_test.go
+Line: 215
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: OnDemandHousekeeping
+File: results/cadvisor/manager/container_test.go
+Line: 215
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: OnDemandHousekeeping
+File: results/cadvisor/manager/container_test.go
+Line: 203
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: OnDemandHousekeeping
+File: results/cadvisor/manager/container_test.go
+Line: 203
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: OnDemandHousekeeping
+File: results/cadvisor/manager/container_test.go
+Line: 203
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: MarshalToSizedBuffer
+File: results/cadvisor/third_party/containerd/api/services/content/v1/content.pb.go
+Line: 268
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: MarshalToSizedBuffer
+File: results/cadvisor/third_party/containerd/api/services/content/v1/content.pb.go
+Line: 268
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: MarshalToSizedBuffer
+File: results/cadvisor/third_party/containerd/api/services/content/v1/content.pb.go
+Line: 268
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: MarshalToSizedBuffer
+File: results/cadvisor/third_party/containerd/api/services/content/v1/content.pb.go
+Line: 282
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: MarshalToSizedBuffer
+File: results/cadvisor/third_party/containerd/api/services/content/v1/content.pb.go
+Line: 282
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: MarshalToSizedBuffer
+File: results/cadvisor/third_party/containerd/api/services/content/v1/content.pb.go
+Line: 282
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: MarshalToSizedBuffer
+File: results/cadvisor/third_party/containerd/api/services/content/v1/content.pb.go
+Line: 9
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: MarshalToSizedBuffer
+File: results/cadvisor/third_party/containerd/api/services/content/v1/content.pb.go
+Line: 9
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: MarshalToSizedBuffer
+File: results/cadvisor/third_party/containerd/api/services/content/v1/content.pb.go
+Line: 9
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: MarshalToSizedBuffer
+File: results/cadvisor/third_party/containerd/api/services/images/v1/images.pb.go
+Line: 1
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: MarshalToSizedBuffer
+File: results/cadvisor/third_party/containerd/api/services/images/v1/images.pb.go
+Line: 1
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: MarshalToSizedBuffer
+File: results/cadvisor/third_party/containerd/api/services/images/v1/images.pb.go
+Line: 1
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: JxAAAAAEAwW1hRvnfffo
+File: results/cadvisor/cmd/internal/pages/assets/styles/containers.css
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: TjAAAAAICgtWTx4qvPxy
+File: results/cadvisor/cmd/internal/pages/assets/styles/containers.css
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: l0Op1OpVKp1eqwsDCv1+
+File: results/cadvisor/cmd/internal/pages/assets/styles/containers.css
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: TjAAAAAIDQlcr+cQAC0+
+File: results/cadvisor/cmd/internal/pages/assets/styles/containers.css
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: border-bottom-right-
+File: results/cadvisor/cmd/internal/pages/assets/styles/bootstrap-4.0.0-beta.2.min.css
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: border-bottom-right-
+File: results/cadvisor/cmd/internal/pages/assets/styles/bootstrap-4.0.0-beta.2.min.css
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: border-bottom-right-
+File: results/cadvisor/cmd/internal/pages/assets/styles/bootstrap-4.0.0-beta.2.min.css
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: -bottom-right-radius
+File: results/cadvisor/cmd/internal/pages/assets/styles/bootstrap-4.0.0-beta.2.min.css
+

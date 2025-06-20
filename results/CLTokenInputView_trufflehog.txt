@@ -1,0 +1,70 @@
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: updateFirstResponder
+File: results/CLTokenInputView/Sources/CLTokenInputView/include/CLTokenView.h
+Line: 44
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: makeTextFieldVisible
+File: results/CLTokenInputView/Sources/CLTokenInputView/CLTokenInputView.m
+Line: 94
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: makeTextFieldVisible
+File: results/CLTokenInputView/Sources/CLTokenInputView/CLTokenInputView.m
+Line: 112
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: updateFirstResponder
+File: results/CLTokenInputView/Sources/CLTokenInputView/include/CLTokenView.h
+Line: 23
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: updateFirstResponder
+File: results/CLTokenInputView/Sources/CLTokenInputView/CLTokenView.m
+Line: 165
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: updateFirstResponder
+File: results/CLTokenInputView/Sources/CLTokenInputView/CLTokenView.m
+Line: 144
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: becomeFirstResponder
+File: results/CLTokenInputView/Sources/CLTokenInputView/CLTokenView.m
+Line: 176
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: resignFirstResponder
+File: results/CLTokenInputView/Sources/CLTokenInputView/CLTokenView.m
+Line: 178
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: becomeFirstResponder
+File: results/CLTokenInputView/Sources/CLTokenInputView/CLTokenView.m
+Line: 155
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: resignFirstResponder
+File: results/CLTokenInputView/Sources/CLTokenInputView/CLTokenView.m
+Line: 157
+

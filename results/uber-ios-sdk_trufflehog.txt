@@ -1,0 +1,14 @@
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: UIViewControllerMock
+File: results/uber-ios-sdk/examples/UberSDK/UberSDKTests/UberRides/RideRequestViewRequestingBehaviorTests.swift
+Line: 22
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: UIViewControllerMock
+File: results/uber-ios-sdk/examples/UberSDK/UberSDKTests/UberRides/RideRequestViewRequestingBehaviorTests.swift
+Line: 31
+

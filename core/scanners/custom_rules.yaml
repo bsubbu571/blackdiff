@@ -1,0 +1,5 @@
+patterns:
+  - 'AKIA[0-9A-Z]{16}'
+  - 'AIza[0-9A-Za-z-_]{35}'
+  - 'sk_live_[0-9a-zA-Z]{24}'
+

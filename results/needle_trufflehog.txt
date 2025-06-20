@@ -1,0 +1,179 @@
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: OSReturnsNotRetained
+File: results/needle/Generator/bin/lib_InternalSwiftSyntaxParser.dylib
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: UnresolvedUsingValue
+File: results/needle/Generator/bin/lib_InternalSwiftSyntaxParser.dylib
+Line: 8
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: UTF16
+Raw result: s110e2deas2d0202ntdd
+File: results/needle/Generator/bin/lib_InternalSwiftSyntaxParser.dylib
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: UnresolvedUsingValue
+File: results/needle/Generator/bin/lib_InternalSwiftSyntaxParser.dylib
+Line: 2
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: UnresolvedUsingValue
+File: results/needle/Generator/bin/lib_InternalSwiftSyntaxParser.dylib
+Line: 8
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: resilient-class-stub
+File: results/needle/Generator/bin/lib_InternalSwiftSyntaxParser.dylib
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: OMPTaskwaitDirective
+File: results/needle/Generator/bin/lib_InternalSwiftSyntaxParser.dylib
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: UnresolvedUsingValue
+File: results/needle/Generator/bin/lib_InternalSwiftSyntaxParser.dylib
+Line: 2
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: OMPReferencedVarAttr
+File: results/needle/Generator/bin/lib_InternalSwiftSyntaxParser.dylib
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: UnresolvedUsingValue
+File: results/needle/Generator/bin/lib_InternalSwiftSyntaxParser.dylib
+Line: 2
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: OSReturnsNotRetained
+File: results/needle/Generator/bin/lib_InternalSwiftSyntaxParser.dylib
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: UnresolvedUsingValue
+File: results/needle/Generator/bin/lib_InternalSwiftSyntaxParser.dylib
+Line: 8
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: OSReturnsNotRetained
+File: results/needle/Generator/bin/lib_InternalSwiftSyntaxParser.dylib
+Line: 8
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: OSReturnsNotRetained
+File: results/needle/Generator/bin/lib_InternalSwiftSyntaxParser.dylib
+Line: 11
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: resilient-class-stub
+File: results/needle/Generator/bin/lib_InternalSwiftSyntaxParser.dylib
+Line: 28
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: resilient-class-stub
+File: results/needle/Generator/bin/lib_InternalSwiftSyntaxParser.dylib
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: OMPTaskwaitDirective
+File: results/needle/Generator/bin/lib_InternalSwiftSyntaxParser.dylib
+Line: 9
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: OMPDispatchDirective
+File: results/needle/Generator/bin/lib_InternalSwiftSyntaxParser.dylib
+Line: 9
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: OMPTaskwaitDirective
+File: results/needle/Generator/bin/lib_InternalSwiftSyntaxParser.dylib
+Line: 7
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: OMPDispatchDirective
+File: results/needle/Generator/bin/lib_InternalSwiftSyntaxParser.dylib
+Line: 7
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: ExtVectorElementExpr
+File: results/needle/Generator/bin/lib_InternalSwiftSyntaxParser.dylib
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: OMPReferencedVarAttr
+File: results/needle/Generator/bin/lib_InternalSwiftSyntaxParser.dylib
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: OMPTaskwaitDirective
+File: results/needle/Generator/bin/lib_InternalSwiftSyntaxParser.dylib
+Line: 8
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: ExtVectorElementExpr
+File: results/needle/Generator/bin/lib_InternalSwiftSyntaxParser.dylib
+Line: 8
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: OMPDispatchDirective
+File: results/needle/Generator/bin/lib_InternalSwiftSyntaxParser.dylib
+Line: 8
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: ExtVectorElementExpr
+File: results/needle/Generator/bin/lib_InternalSwiftSyntaxParser.dylib
+Line: 7
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: UTF16
+Raw result: biZiTZlTiblbllTbTNli
+File: results/needle/Generator/bin/needle
+

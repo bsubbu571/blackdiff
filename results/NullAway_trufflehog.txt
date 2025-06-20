@@ -1,0 +1,831 @@
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: ViewPropertyAnimator
+File: results/NullAway/jar-infer/android-jarinfer-models-sdk28/src/main/resources/jarinfer.astubx
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: toShortSummaryString
+File: results/NullAway/jar-infer/android-jarinfer-models-sdk28/src/main/resources/jarinfer.astubx
+Line: 1
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: RadialTimePickerView
+File: results/NullAway/jar-infer/android-jarinfer-models-sdk28/src/main/resources/jarinfer.astubx
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: ParcelFileDescriptor
+File: results/NullAway/jar-infer/android-jarinfer-models-sdk28/src/main/resources/jarinfer.astubx
+Line: 2
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: RadialTimePickerView
+File: results/NullAway/jar-infer/android-jarinfer-models-sdk28/src/main/resources/jarinfer.astubx
+Line: 1
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: ParcelFileDescriptor
+File: results/NullAway/jar-infer/android-jarinfer-models-sdk28/src/main/resources/jarinfer.astubx
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: ParcelFileDescriptor
+File: results/NullAway/jar-infer/android-jarinfer-models-sdk28/src/main/resources/jarinfer.astubx
+Line: 2
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: ISystemUpdateManager
+File: results/NullAway/jar-infer/android-jarinfer-models-sdk28/src/main/resources/jarinfer.astubx
+Line: 2
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: ParcelFileDescriptor
+File: results/NullAway/jar-infer/android-jarinfer-models-sdk28/src/main/resources/jarinfer.astubx
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: readVectorFromParcel
+File: results/NullAway/jar-infer/android-jarinfer-models-sdk28/src/main/resources/jarinfer.astubx
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: ParcelFileDescriptor
+File: results/NullAway/jar-infer/android-jarinfer-models-sdk28/src/main/resources/jarinfer.astubx
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: ParcelFileDescriptor
+File: results/NullAway/jar-infer/android-jarinfer-models-sdk28/src/main/resources/jarinfer.astubx
+Line: 2
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: ParcelFileDescriptor
+File: results/NullAway/jar-infer/android-jarinfer-models-sdk28/src/main/resources/jarinfer.astubx
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: ParcelFileDescriptor
+File: results/NullAway/jar-infer/android-jarinfer-models-sdk28/src/main/resources/jarinfer.astubx
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: ISystemUpdateManager
+File: results/NullAway/jar-infer/android-jarinfer-models-sdk28/src/main/resources/jarinfer.astubx
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: readVectorFromParcel
+File: results/NullAway/jar-infer/android-jarinfer-models-sdk28/src/main/resources/jarinfer.astubx
+Line: 3
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: ParcelFileDescriptor
+File: results/NullAway/jar-infer/android-jarinfer-models-sdk29/src/main/resources/jarinfer.astubx
+Line: 5
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: ViewPropertyAnimator
+File: results/NullAway/jar-infer/android-jarinfer-models-sdk29/src/main/resources/jarinfer.astubx
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: ParcelFileDescriptor
+File: results/NullAway/jar-infer/android-jarinfer-models-sdk29/src/main/resources/jarinfer.astubx
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: ViewPropertyAnimator
+File: results/NullAway/jar-infer/android-jarinfer-models-sdk29/src/main/resources/jarinfer.astubx
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: ParcelFileDescriptor
+File: results/NullAway/jar-infer/android-jarinfer-models-sdk29/src/main/resources/jarinfer.astubx
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: ParcelFileDescriptor
+File: results/NullAway/jar-infer/android-jarinfer-models-sdk29/src/main/resources/jarinfer.astubx
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: readVectorFromParcel
+File: results/NullAway/jar-infer/android-jarinfer-models-sdk29/src/main/resources/jarinfer.astubx
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: readVectorFromParcel
+File: results/NullAway/jar-infer/android-jarinfer-models-sdk29/src/main/resources/jarinfer.astubx
+Line: 2
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: readVectorFromParcel
+File: results/NullAway/jar-infer/android-jarinfer-models-sdk29/src/main/resources/jarinfer.astubx
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: toShortSummaryString
+File: results/NullAway/jar-infer/android-jarinfer-models-sdk29/src/main/resources/jarinfer.astubx
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: toShortSummaryString
+File: results/NullAway/jar-infer/android-jarinfer-models-sdk29/src/main/resources/jarinfer.astubx
+Line: 3
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: ParcelFileDescriptor
+File: results/NullAway/jar-infer/android-jarinfer-models-sdk29/src/main/resources/jarinfer.astubx
+Line: 2
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: ParcelFileDescriptor
+File: results/NullAway/jar-infer/android-jarinfer-models-sdk29/src/main/resources/jarinfer.astubx
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: LinkCapacityEstimate
+File: results/NullAway/jar-infer/android-jarinfer-models-sdk29/src/main/resources/jarinfer.astubx
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: ParcelFileDescriptor
+File: results/NullAway/jar-infer/android-jarinfer-models-sdk29/src/main/resources/jarinfer.astubx
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: ParcelFileDescriptor
+File: results/NullAway/jar-infer/android-jarinfer-models-sdk29/src/main/resources/jarinfer.astubx
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: ParcelFileDescriptor
+File: results/NullAway/jar-infer/android-jarinfer-models-sdk29/src/main/resources/jarinfer.astubx
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: readVectorFromParcel
+File: results/NullAway/jar-infer/android-jarinfer-models-sdk29/src/main/resources/jarinfer.astubx
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: readVectorFromParcel
+File: results/NullAway/jar-infer/android-jarinfer-models-sdk29/src/main/resources/jarinfer.astubx
+Line: 1
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: IConnectivityManager
+File: results/NullAway/jar-infer/android-jarinfer-models-sdk29/src/main/resources/jarinfer.astubx
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: readVectorFromParcel
+File: results/NullAway/jar-infer/android-jarinfer-models-sdk29/src/main/resources/jarinfer.astubx
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: IConnectivityManager
+File: results/NullAway/jar-infer/android-jarinfer-models-sdk29/src/main/resources/jarinfer.astubx
+Line: 3
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: readVectorFromParcel
+File: results/NullAway/jar-infer/android-jarinfer-models-sdk29/src/main/resources/jarinfer.astubx
+Line: 1
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: ByteArrayInputStream
+File: results/NullAway/jar-infer/android-jarinfer-models-sdk30/src/main/resources/jarinfer.astubx
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: IConnectivityManager
+File: results/NullAway/jar-infer/android-jarinfer-models-sdk29/src/main/resources/jarinfer.astubx
+Line: 1
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: ByteArrayInputStream
+File: results/NullAway/jar-infer/android-jarinfer-models-sdk30/src/main/resources/jarinfer.astubx
+Line: 2
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: IConnectivityManager
+File: results/NullAway/jar-infer/android-jarinfer-models-sdk29/src/main/resources/jarinfer.astubx
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: ByteArrayInputStream
+File: results/NullAway/jar-infer/android-jarinfer-models-sdk30/src/main/resources/jarinfer.astubx
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: ByteArrayInputStream
+File: results/NullAway/jar-infer/android-jarinfer-models-sdk30/src/main/resources/jarinfer.astubx
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: ByteArrayInputStream
+File: results/NullAway/jar-infer/android-jarinfer-models-sdk30/src/main/resources/jarinfer.astubx
+Line: 2
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: ParcelFileDescriptor
+File: results/NullAway/jar-infer/android-jarinfer-models-sdk30/src/main/resources/jarinfer.astubx
+Line: 1
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: ViewPropertyAnimator
+File: results/NullAway/jar-infer/android-jarinfer-models-sdk30/src/main/resources/jarinfer.astubx
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: ParcelFileDescriptor
+File: results/NullAway/jar-infer/android-jarinfer-models-sdk30/src/main/resources/jarinfer.astubx
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: ByteArrayInputStream
+File: results/NullAway/jar-infer/android-jarinfer-models-sdk30/src/main/resources/jarinfer.astubx
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: CellularBatteryStats
+File: results/NullAway/jar-infer/android-jarinfer-models-sdk30/src/main/resources/jarinfer.astubx
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: readVectorFromParcel
+File: results/NullAway/jar-infer/android-jarinfer-models-sdk30/src/main/resources/jarinfer.astubx
+Line: 3
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: readVectorFromParcel
+File: results/NullAway/jar-infer/android-jarinfer-models-sdk30/src/main/resources/jarinfer.astubx
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: ParcelFileDescriptor
+File: results/NullAway/jar-infer/android-jarinfer-models-sdk30/src/main/resources/jarinfer.astubx
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: readVectorFromParcel
+File: results/NullAway/jar-infer/android-jarinfer-models-sdk30/src/main/resources/jarinfer.astubx
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: ByteArrayInputStream
+File: results/NullAway/jar-infer/android-jarinfer-models-sdk30/src/main/resources/jarinfer.astubx
+Line: 1
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: readVectorFromParcel
+File: results/NullAway/jar-infer/android-jarinfer-models-sdk30/src/main/resources/jarinfer.astubx
+Line: 3
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: readVectorFromParcel
+File: results/NullAway/jar-infer/android-jarinfer-models-sdk30/src/main/resources/jarinfer.astubx
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: ByteArrayInputStream
+File: results/NullAway/jar-infer/android-jarinfer-models-sdk30/src/main/resources/jarinfer.astubx
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: ByteArrayInputStream
+File: results/NullAway/jar-infer/android-jarinfer-models-sdk30/src/main/resources/jarinfer.astubx
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: toShortSummaryString
+File: results/NullAway/jar-infer/android-jarinfer-models-sdk30/src/main/resources/jarinfer.astubx
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: ParcelFileDescriptor
+File: results/NullAway/jar-infer/android-jarinfer-models-sdk30/src/main/resources/jarinfer.astubx
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: ParcelFileDescriptor
+File: results/NullAway/jar-infer/android-jarinfer-models-sdk30/src/main/resources/jarinfer.astubx
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: ByteArrayInputStream
+File: results/NullAway/jar-infer/android-jarinfer-models-sdk30/src/main/resources/jarinfer.astubx
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: ByteArrayInputStream
+File: results/NullAway/jar-infer/android-jarinfer-models-sdk30/src/main/resources/jarinfer.astubx
+Line: 5
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: ByteArrayInputStream
+File: results/NullAway/jar-infer/android-jarinfer-models-sdk30/src/main/resources/jarinfer.astubx
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: readVectorFromParcel
+File: results/NullAway/jar-infer/android-jarinfer-models-sdk30/src/main/resources/jarinfer.astubx
+Line: 1
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: ByteArrayInputStream
+File: results/NullAway/jar-infer/android-jarinfer-models-sdk30/src/main/resources/jarinfer.astubx
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: readVectorFromParcel
+File: results/NullAway/jar-infer/android-jarinfer-models-sdk30/src/main/resources/jarinfer.astubx
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: ParcelFileDescriptor
+File: results/NullAway/jar-infer/android-jarinfer-models-sdk30/src/main/resources/jarinfer.astubx
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: IMediaRouter2Manager
+File: results/NullAway/jar-infer/android-jarinfer-models-sdk30/src/main/resources/jarinfer.astubx
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: IMediaRouter2Manager
+File: results/NullAway/jar-infer/android-jarinfer-models-sdk30/src/main/resources/jarinfer.astubx
+Line: 3
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: ByteArrayInputStream
+File: results/NullAway/jar-infer/android-jarinfer-models-sdk30/src/main/resources/jarinfer.astubx
+Line: 1
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: ByteArrayInputStream
+File: results/NullAway/jar-infer/android-jarinfer-models-sdk30/src/main/resources/jarinfer.astubx
+Line: 6
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: ByteArrayInputStream
+File: results/NullAway/jar-infer/android-jarinfer-models-sdk30/src/main/resources/jarinfer.astubx
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: ByteArrayInputStream
+File: results/NullAway/jar-infer/android-jarinfer-models-sdk30/src/main/resources/jarinfer.astubx
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: ByteArrayInputStream
+File: results/NullAway/jar-infer/android-jarinfer-models-sdk30/src/main/resources/jarinfer.astubx
+Line: 4
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: ByteArrayInputStream
+File: results/NullAway/jar-infer/android-jarinfer-models-sdk30/src/main/resources/jarinfer.astubx
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: ISystemUpdateManager
+File: results/NullAway/jar-infer/android-jarinfer-models-sdk30/src/main/resources/jarinfer.astubx
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: ISystemUpdateManager
+File: results/NullAway/jar-infer/android-jarinfer-models-sdk30/src/main/resources/jarinfer.astubx
+Line: 5
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: ParcelFileDescriptor
+File: results/NullAway/jar-infer/android-jarinfer-models-sdk31/src/main/resources/jarinfer.astubx
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: toShortSummaryString
+File: results/NullAway/jar-infer/android-jarinfer-models-sdk28/src/main/resources/jarinfer.astubx
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: ViewPropertyAnimator
+File: results/NullAway/jar-infer/android-jarinfer-models-sdk28/src/main/resources/jarinfer.astubx
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: ParcelFileDescriptor
+File: results/NullAway/jar-infer/android-jarinfer-models-sdk28/src/main/resources/jarinfer.astubx
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: readVectorFromParcel
+File: results/NullAway/jar-infer/android-jarinfer-models-sdk28/src/main/resources/jarinfer.astubx
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: pathToEnclosingClass
+File: results/NullAway/nullaway/src/main/java/com/uber/nullaway/NullAway.java
+Line: 187
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: MethodInvocationTree
+File: results/NullAway/nullaway/src/main/java/com/uber/nullaway/handlers/GrpcHandler.java
+Line: 32
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: MethodInvocationNode
+File: results/NullAway/nullaway/src/main/java/com/uber/nullaway/handlers/OptionalEmptinessHandler.java
+Line: 60
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: MethodInvocationTree
+File: results/NullAway/nullaway/src/main/java/com/uber/nullaway/handlers/GrpcHandler.java
+Line: 22
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: MethodInvocationNode
+File: results/NullAway/nullaway/src/main/java/com/uber/nullaway/handlers/OptionalEmptinessHandler.java
+Line: 50
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: readVectorFromParcel
+File: results/NullAway/jar-infer/android-jarinfer-models-sdk29/src/main/resources/jarinfer.astubx
+Line: 4
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: ParcelFileDescriptor
+File: results/NullAway/jar-infer/android-jarinfer-models-sdk29/src/main/resources/jarinfer.astubx
+Line: 5
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: LinkCapacityEstimate
+File: results/NullAway/jar-infer/android-jarinfer-models-sdk29/src/main/resources/jarinfer.astubx
+Line: 4
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: ParcelFileDescriptor
+File: results/NullAway/jar-infer/android-jarinfer-models-sdk29/src/main/resources/jarinfer.astubx
+Line: 1
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: ParcelFileDescriptor
+File: results/NullAway/jar-infer/android-jarinfer-models-sdk29/src/main/resources/jarinfer.astubx
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: readVectorFromParcel
+File: results/NullAway/jar-infer/android-jarinfer-models-sdk29/src/main/resources/jarinfer.astubx
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: ResolveHoverRunnable
+File: results/NullAway/jar-infer/android-jarinfer-models-sdk29/src/main/resources/jarinfer.astubx
+Line: 2
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: ResolveHoverRunnable
+File: results/NullAway/jar-infer/android-jarinfer-models-sdk29/src/main/resources/jarinfer.astubx
+Line: 2
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: BlendModeColorFilter
+File: results/NullAway/jar-infer/android-jarinfer-models-sdk29/src/main/resources/jarinfer.astubx
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: ISystemUpdateManager
+File: results/NullAway/jar-infer/android-jarinfer-models-sdk29/src/main/resources/jarinfer.astubx
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: ResolveHoverRunnable
+File: results/NullAway/jar-infer/android-jarinfer-models-sdk29/src/main/resources/jarinfer.astubx
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: ResolveHoverRunnable
+File: results/NullAway/jar-infer/android-jarinfer-models-sdk29/src/main/resources/jarinfer.astubx
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: ParcelFileDescriptor
+File: results/NullAway/jar-infer/android-jarinfer-models-sdk29/src/main/resources/jarinfer.astubx
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: readVectorFromParcel
+File: results/NullAway/jar-infer/android-jarinfer-models-sdk29/src/main/resources/jarinfer.astubx
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: BlendModeColorFilter
+File: results/NullAway/jar-infer/android-jarinfer-models-sdk29/src/main/resources/jarinfer.astubx
+Line: 1
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: ISystemUpdateManager
+File: results/NullAway/jar-infer/android-jarinfer-models-sdk29/src/main/resources/jarinfer.astubx
+Line: 1
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: ParcelFileDescriptor
+File: results/NullAway/jar-infer/android-jarinfer-models-sdk29/src/main/resources/jarinfer.astubx
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: ByteArrayInputStream
+File: results/NullAway/jar-infer/android-jarinfer-models-sdk30/src/main/resources/jarinfer.astubx
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: ByteArrayInputStream
+File: results/NullAway/jar-infer/android-jarinfer-models-sdk30/src/main/resources/jarinfer.astubx
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: ParcelFileDescriptor
+File: results/NullAway/jar-infer/android-jarinfer-models-sdk30/src/main/resources/jarinfer.astubx
+Line: 1
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: ResolveHoverRunnable
+File: results/NullAway/jar-infer/android-jarinfer-models-sdk30/src/main/resources/jarinfer.astubx
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: ResolveHoverRunnable
+File: results/NullAway/jar-infer/android-jarinfer-models-sdk30/src/main/resources/jarinfer.astubx
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: readVectorFromParcel
+File: results/NullAway/jar-infer/android-jarinfer-models-sdk30/src/main/resources/jarinfer.astubx
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: ParcelFileDescriptor
+File: results/NullAway/jar-infer/android-jarinfer-models-sdk30/src/main/resources/jarinfer.astubx
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: ResolveHoverRunnable
+File: results/NullAway/jar-infer/android-jarinfer-models-sdk30/src/main/resources/jarinfer.astubx
+Line: 1
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: ResolveHoverRunnable
+File: results/NullAway/jar-infer/android-jarinfer-models-sdk30/src/main/resources/jarinfer.astubx
+Line: 1
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: ByteArrayInputStream
+File: results/NullAway/jar-infer/android-jarinfer-models-sdk30/src/main/resources/jarinfer.astubx
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: ParcelFileDescriptor
+File: results/NullAway/jar-infer/android-jarinfer-models-sdk30/src/main/resources/jarinfer.astubx
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: ByteArrayInputStream
+File: results/NullAway/jar-infer/android-jarinfer-models-sdk30/src/main/resources/jarinfer.astubx
+Line: 1
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: ParcelFileDescriptor
+File: results/NullAway/jar-infer/android-jarinfer-models-sdk30/src/main/resources/jarinfer.astubx
+Line: 1
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: BlendModeColorFilter
+File: results/NullAway/jar-infer/android-jarinfer-models-sdk30/src/main/resources/jarinfer.astubx
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: ISystemUpdateManager
+File: results/NullAway/jar-infer/android-jarinfer-models-sdk30/src/main/resources/jarinfer.astubx
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: ResolveHoverRunnable
+File: results/NullAway/jar-infer/android-jarinfer-models-sdk28/src/main/resources/jarinfer.astubx
+Line: 2
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: ParcelFileDescriptor
+File: results/NullAway/jar-infer/android-jarinfer-models-sdk28/src/main/resources/jarinfer.astubx
+Line: 1
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: ResolveHoverRunnable
+File: results/NullAway/jar-infer/android-jarinfer-models-sdk28/src/main/resources/jarinfer.astubx
+Line: 2
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: ISystemUpdateManager
+File: results/NullAway/jar-infer/android-jarinfer-models-sdk30/src/main/resources/jarinfer.astubx
+Line: 1
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: BlendModeColorFilter
+File: results/NullAway/jar-infer/android-jarinfer-models-sdk30/src/main/resources/jarinfer.astubx
+Line: 1
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: ParcelFileDescriptor
+File: results/NullAway/jar-infer/android-jarinfer-models-sdk28/src/main/resources/jarinfer.astubx
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: ResolveHoverRunnable
+File: results/NullAway/jar-infer/android-jarinfer-models-sdk28/src/main/resources/jarinfer.astubx
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: ResolveHoverRunnable
+File: results/NullAway/jar-infer/android-jarinfer-models-sdk28/src/main/resources/jarinfer.astubx
+

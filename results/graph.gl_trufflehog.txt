@@ -1,0 +1,199 @@
+Found unverified result 🐷🔑❓
+Detector Type: Signable
+Decoder Type: BASE64
+Raw result: -explode-assignable-expression-7
+File: results/graph.gl/website/yarn.lock
+Line: 114
+
+Found unverified result 🐷🔑❓
+Detector Type: Signable
+Decoder Type: BASE64
+Raw result: -explode-assignable-expression-7
+File: results/graph.gl/website/yarn.lock
+Line: 99
+
+Found unverified result 🐷🔑❓
+Detector Type: Parseur
+Decoder Type: PLAIN
+Raw result: 9da19e7bee8d12dff0513ed5b76957793bc2e8d4
+File: results/graph.gl/yarn.lock
+Line: 310
+
+Found unverified result 🐷🔑❓
+Detector Type: Parseur
+Decoder Type: PLAIN
+Raw result: 9da19e7bee8d12dff0513ed5b76957793bc2e8d4
+File: results/graph.gl/yarn.lock
+Line: 46
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: BlqhYP41+N3KyKnlgFEQ
+File: results/graph.gl/src/deckgl-layers/marker-layer/atlas-data-url.js
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: IedOjtmGpu38ET8Z8s7D
+File: results/graph.gl/src/deckgl-layers/marker-layer/atlas-data-url.js
+Line: 3
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: U4HtfgB3g+foAWI7svmV
+File: results/graph.gl/src/deckgl-layers/marker-layer/atlas-data-url.js
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: n4+NPNv7M1Dj5uMp6XFg
+File: results/graph.gl/website/yarn.lock
+Line: 6
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: +u3qmGZv9Z05Hpw89Lw+
+File: results/graph.gl/website/yarn.lock
+Line: 244
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: zvPSm5pOFkl6xuGrGnXn
+File: results/graph.gl/website/yarn.lock
+Line: 177
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: n4+NPNv7M1Dj5uMp6XFg
+File: results/graph.gl/website/yarn.lock
+Line: 245
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: +u3qmGZv9Z05Hpw89Lw+
+File: results/graph.gl/website/yarn.lock
+Line: 3
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: 7WvSACcrMYrNp+b8kDL1
+File: results/graph.gl/website/yarn.lock
+Line: 97
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: jsx-empty-expression
+File: results/graph.gl/yarn.lock
+Line: 321
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: validate-npm-package
+File: results/graph.gl/website/yarn.lock
+Line: 212
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: zvPSm5pOFkl6xuGrGnXn
+File: results/graph.gl/yarn.lock
+Line: 131
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: validate-npm-package
+File: results/graph.gl/website/yarn.lock
+Line: 214
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: KAfnAWfWsL9petQtwPh+
+File: results/graph.gl/yarn.lock
+Line: 183
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: jsx-empty-expression
+File: results/graph.gl/yarn.lock
+Line: 32
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: +nA1gStE4tJAvx6lXLs+
+File: results/graph.gl/yarn.lock
+Line: 225
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: 7WvSACcrMYrNp+b8kDL1
+File: results/graph.gl/yarn.lock
+Line: 144
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: IedOjtmGpu38ET8Z8s7D
+File: results/graph.gl/src/deckgl-layers/marker-layer/atlas-data-url.js
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: BlqhYP41+N3KyKnlgFEQ
+File: results/graph.gl/src/deckgl-layers/marker-layer/atlas-data-url.js
+
+Found unverified result 🐷🔑❓
+Detector Type: Parseur
+Decoder Type: PLAIN
+Raw result: 9da19e7bee8d12dff0513ed5b76957793bc2e8d4
+File: results/graph.gl/website/yarn.lock
+Line: 229
+
+Found unverified result 🐷🔑❓
+Detector Type: Parseur
+Decoder Type: PLAIN
+Raw result: 80204a50d4dbb779bfdc6ebe2778d90e4bce320a
+File: results/graph.gl/website/yarn.lock
+Line: 222
+
+Found unverified result 🐷🔑❓
+Detector Type: Signable
+Decoder Type: BASE64
+Raw result: -explode-assignable-expression-7
+File: results/graph.gl/yarn.lock
+Line: 184
+
+Found unverified result 🐷🔑❓
+Detector Type: Signable
+Decoder Type: BASE64
+Raw result: -explode-assignable-expression-7
+File: results/graph.gl/yarn.lock
+Line: 184
+
+Found unverified result 🐷🔑❓
+Detector Type: Signable
+Decoder Type: BASE64
+Raw result: -explode-assignable-expression-7
+File: results/graph.gl/yarn.lock
+Line: 171
+
+Found unverified result 🐷🔑❓
+Detector Type: Signable
+Decoder Type: BASE64
+Raw result: -explode-assignable-expression-7
+File: results/graph.gl/yarn.lock
+Line: 171
+

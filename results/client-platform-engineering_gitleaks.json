@@ -1,0 +1,22 @@
+[
+ {
+  "Description": "Generic API Key",
+  "StartLine": 436,
+  "EndLine": 436,
+  "StartColumn": 92,
+  "EndColumn": 142,
+  "Match": "key_id = 'e637d656f9f088ddca3b3b55c4fe698d8c97a552'",
+  "Secret": "e637d656f9f088ddca3b3b55c4fe698d8c97a552",
+  "File": "chef/cookbooks/cpe_osquery/files/packs/osx-attacks.conf",
+  "SymlinkFile": "",
+  "Commit": "679ea51b64dd7e73965b19b918a2f25ac7909d4f",
+  "Entropy": 3.7561984,
+  "Author": "Erik Gomez",
+  "Email": "erikg@uber.com",
+  "Date": "2024-12-07T17:07:08Z",
+  "Message": "Update README.md",
+  "Tags": [],
+  "RuleID": "generic-api-key",
+  "Fingerprint": "679ea51b64dd7e73965b19b918a2f25ac7909d4f:chef/cookbooks/cpe_osquery/files/packs/osx-attacks.conf:generic-api-key:436"
+ }
+]

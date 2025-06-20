@@ -1,0 +1,14 @@
+Found unverified result 🐷🔑❓
+Detector Type: URI
+Decoder Type: PLAIN
+Raw result: http://public:private@localhost
+File: results/logtron/test/sentry.js
+Line: 30
+
+Found unverified result 🐷🔑❓
+Detector Type: URI
+Decoder Type: PLAIN
+Raw result: http://public:private@localhost
+File: results/logtron/test/sentry.js
+Line: 21
+

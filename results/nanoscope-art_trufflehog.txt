@@ -1,0 +1,653 @@
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: -checkcast-tests538-
+File: results/nanoscope-art/.git/index
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: DebugInfoEntryWriter
+File: results/nanoscope-art/compiler/debug/dwarf/debug_info_entry_writer.h
+Line: 44
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: WriteTypeDeclaration
+File: results/nanoscope-art/compiler/debug/elf_debug_info_writer.h
+Line: 11
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: WriteTypeDeclaration
+File: results/nanoscope-art/compiler/debug/elf_debug_info_writer.h
+Line: 24
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: DebugInfoEntryWriter
+File: results/nanoscope-art/compiler/debug/dwarf/debug_info_entry_writer.h
+Line: 32
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: -checkcast-tests538-
+File: results/nanoscope-art/.git/index
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: GetMemoryUsageString
+File: results/nanoscope-art/compiler/driver/compiler_driver.cc
+Line: 49
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: AsFpuRegisterPairLow
+File: results/nanoscope-art/compiler/optimizing/code_generator_arm.cc
+Line: 60
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: AsFpuRegisterPairLow
+File: results/nanoscope-art/compiler/optimizing/code_generator_arm.cc
+Line: 153
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: AsFpuRegisterPairLow
+File: results/nanoscope-art/compiler/optimizing/code_generator_arm.cc
+Line: 319
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: AsFpuRegisterPairLow
+File: results/nanoscope-art/compiler/optimizing/code_generator_arm.cc
+Line: 122
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: AsFpuRegisterPairLow
+File: results/nanoscope-art/compiler/optimizing/code_generator_arm.cc
+Line: 156
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: AsFpuRegisterPairLow
+File: results/nanoscope-art/compiler/optimizing/code_generator_arm.cc
+Line: 121
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: AsFpuRegisterPairLow
+File: results/nanoscope-art/compiler/optimizing/code_generator_arm.cc
+Line: 316
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: TestCodeGeneratorARM
+File: results/nanoscope-art/compiler/optimizing/codegen_test.cc
+Line: 63
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: TestCodeGeneratorARM
+File: results/nanoscope-art/compiler/optimizing/codegen_test.cc
+Line: 51
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: DecodeDebugLocalInfo
+File: results/nanoscope-art/dexdump/dexdump.cc
+Line: 34
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: DecodeDebugLocalInfo
+File: results/nanoscope-art/dexdump/dexdump.cc
+Line: 306
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: HOST_OUT_EXECUTABLES
+File: results/nanoscope-art/oatdump/Android.mk
+Line: 31
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: HOST_OUT_EXECUTABLES
+File: results/nanoscope-art/oatdump/Android.mk
+Line: 19
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: kRuntimeShutdownLock
+File: results/nanoscope-art/runtime/base/mutex.cc
+Line: 120
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: deoptimization_lock_
+File: results/nanoscope-art/runtime/base/mutex.h
+Line: 43
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: ScopedArenaAllocator
+File: results/nanoscope-art/runtime/base/scoped_arena_allocator.cc
+Line: 69
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: ScopedArenaAllocator
+File: results/nanoscope-art/runtime/base/scoped_arena_allocator.cc
+Line: 57
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: deoptimization_lock_
+File: results/nanoscope-art/runtime/base/mutex.h
+Line: 296
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: default_translations
+File: results/nanoscope-art/runtime/class_linker.cc
+Line: 175
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: updating_references_
+File: results/nanoscope-art/runtime/gc/collector/mark_compact.cc
+Line: 46
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: updating_references_
+File: results/nanoscope-art/runtime/gc/collector/mark_compact.h
+Line: 212
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: updating_references_
+File: results/nanoscope-art/runtime/gc/collector/mark_compact.h
+Line: 209
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: updating_references_
+File: results/nanoscope-art/runtime/gc/collector/mark_compact.h
+Line: 224
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: updating_references_
+File: results/nanoscope-art/runtime/gc/collector/mark_compact.h
+Line: 221
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: ClearedReferenceTask
+File: results/nanoscope-art/runtime/gc/reference_processor.cc
+Line: 220
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: ClearedReferenceTask
+File: results/nanoscope-art/runtime/gc/reference_processor.cc
+Line: 208
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: ForwardObjectAdapter
+File: results/nanoscope-art/runtime/gc/space/image_space.cc
+Line: 90
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: DexCacheArraysLayout
+File: results/nanoscope-art/compiler/optimizing/dex_cache_array_fixups_arm.cc
+Line: 42
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: DexCacheArraysLayout
+File: results/nanoscope-art/compiler/optimizing/dex_cache_array_fixups_arm.cc
+Line: 45
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: DexCacheArraysLayout
+File: results/nanoscope-art/compiler/optimizing/dex_cache_array_fixups_arm.cc
+Line: 45
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: DexCacheArraysLayout
+File: results/nanoscope-art/compiler/optimizing/dex_cache_array_fixups_arm.cc
+Line: 42
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: currentHandlersTable
+File: results/nanoscope-art/runtime/interpreter/interpreter_goto_table_impl.cc
+Line: 25
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: DexCacheArraysLayout
+File: results/nanoscope-art/compiler/optimizing/dex_cache_array_fixups_arm.cc
+Line: 54
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: DexCacheArraysLayout
+File: results/nanoscope-art/compiler/optimizing/dex_cache_array_fixups_arm.cc
+Line: 54
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: currentHandlersTable
+File: results/nanoscope-art/runtime/interpreter/interpreter_goto_table_impl.cc
+Line: 37
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: SetMterpCurrentIBase
+File: results/nanoscope-art/runtime/interpreter/mterp/mterp_stub.cc
+Line: 33
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: DexCacheArraysLayout
+File: results/nanoscope-art/compiler/optimizing/dex_cache_array_fixups_arm.cc
+Line: 57
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: DexCacheArraysLayout
+File: results/nanoscope-art/compiler/optimizing/dex_cache_array_fixups_arm.cc
+Line: 57
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: SetMterpCurrentIBase
+File: results/nanoscope-art/runtime/interpreter/mterp/mterp_stub.cc
+Line: 34
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: SetMterpCurrentIBase
+File: results/nanoscope-art/runtime/interpreter/mterp/mterp_stub.cc
+Line: 22
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: SetMterpCurrentIBase
+File: results/nanoscope-art/runtime/interpreter/mterp/mterp_stub.cc
+Line: 21
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: 485-checker-dce-loop
+File: results/nanoscope-art/.git/index
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: 485-checker-dce-loop
+File: results/nanoscope-art/.git/index
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: 485-checker-dce-loop
+File: results/nanoscope-art/.git/index
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: default_translations
+File: results/nanoscope-art/runtime/class_linker.cc
+Line: 7
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: default_translations
+File: results/nanoscope-art/runtime/class_linker.cc
+Line: 7
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: last_update_time_ns_
+File: results/nanoscope-art/runtime/jit/jit_code_cache.cc
+Line: 84
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: last_update_time_ns_
+File: results/nanoscope-art/runtime/jit/jit_code_cache.cc
+Line: 85
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: last_update_time_ns_
+File: results/nanoscope-art/runtime/jit/jit_code_cache.cc
+Line: 342
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: ForwardObjectAdapter
+File: results/nanoscope-art/runtime/gc/space/image_space.cc
+Line: 88
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: last_update_time_ns_
+File: results/nanoscope-art/runtime/jit/jit_code_cache.cc
+Line: 352
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: ForwardObjectAdapter
+File: results/nanoscope-art/runtime/gc/space/image_space.cc
+Line: 88
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: RemoveDominatedBlock
+File: results/nanoscope-art/compiler/optimizing/nodes.cc
+Line: 145
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: DeleteDeadEmptyBlock
+File: results/nanoscope-art/compiler/optimizing/nodes.cc
+Line: 149
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: DeleteDeadEmptyBlock
+File: results/nanoscope-art/compiler/optimizing/nodes.cc
+Line: 149
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: GetMethodTracingMode
+File: results/nanoscope-art/runtime/native/dalvik_system_ZygoteHooks.cc
+Line: 136
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: GetMethodTracingMode
+File: results/nanoscope-art/runtime/native/dalvik_system_ZygoteHooks.cc
+Line: 148
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: JNI_ENTRY_POINT_INFO
+File: results/nanoscope-art/runtime/thread.cc
+Line: 14
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: JNI_ENTRY_POINT_INFO
+File: results/nanoscope-art/runtime/thread.cc
+Line: 271
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: JNI_ENTRY_POINT_INFO
+File: results/nanoscope-art/runtime/thread.cc
+Line: 275
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: FrameIdToShadowFrame
+File: results/nanoscope-art/runtime/thread.cc
+Line: 3
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: FrameIdToShadowFrame
+File: results/nanoscope-art/runtime/thread.cc
+Line: 3
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: FrameIdToShadowFrame
+File: results/nanoscope-art/runtime/thread.cc
+Line: 232
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: FrameIdToShadowFrame
+File: results/nanoscope-art/runtime/thread.cc
+Line: 232
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: FrameIdToShadowFrame
+File: results/nanoscope-art/runtime/thread.cc
+Line: 233
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: FrameIdToShadowFrame
+File: results/nanoscope-art/runtime/thread.cc
+Line: 233
+
+Found unverified result 🐷🔑❓
+Detector Type: Signable
+Decoder Type: PLAIN
+Raw result: testShallowGetCallingClassLoader
+File: results/nanoscope-art/test/004-JniTest/src/Main.java
+Line: 22
+
+Found unverified result 🐷🔑❓
+Detector Type: Signable
+Decoder Type: PLAIN
+Raw result: testShallowGetCallingClassLoader
+File: results/nanoscope-art/test/004-JniTest/jni_test.cc
+Line: 278
+
+Found unverified result 🐷🔑❓
+Detector Type: Signable
+Decoder Type: PLAIN
+Raw result: testShallowGetCallingClassLoader
+File: results/nanoscope-art/test/004-JniTest/jni_test.cc
+Line: 266
+
+Found unverified result 🐷🔑❓
+Detector Type: Signable
+Decoder Type: PLAIN
+Raw result: testShallowGetCallingClassLoader
+File: results/nanoscope-art/test/004-JniTest/src/Main.java
+Line: 34
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: noncanonical_tmp_dir
+File: results/nanoscope-art/test/run-test
+Line: 251
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: EXPECT_OFFSET_DIFFNP
+File: results/nanoscope-art/runtime/entrypoints_order_test.cc
+Line: 2
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: EXPECT_OFFSET_DIFFNP
+File: results/nanoscope-art/runtime/entrypoints_order_test.cc
+Line: 2
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: EXPECT_OFFSET_DIFFNP
+File: results/nanoscope-art/runtime/entrypoints_order_test.cc
+Line: 2
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: EXPECT_OFFSET_DIFFNP
+File: results/nanoscope-art/runtime/entrypoints_order_test.cc
+Line: 2
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: EXPECT_OFFSET_DIFFNP
+File: results/nanoscope-art/runtime/entrypoints_order_test.cc
+Line: 2
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: EXPECT_OFFSET_DIFFNP
+File: results/nanoscope-art/runtime/entrypoints_order_test.cc
+Line: 2
+
+Found unverified result 🐷🔑❓
+Detector Type: EtsyApiKey
+Decoder Type: PLAIN
+Raw result: getDefaultFractionDigits
+File: results/nanoscope-art/test/092-locale/src/Main.java
+Line: 111
+
+Found unverified result 🐷🔑❓
+Detector Type: EtsyApiKey
+Decoder Type: PLAIN
+Raw result: getDefaultFractionDigits
+File: results/nanoscope-art/test/092-locale/src/Main.java
+Line: 111
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: foreignDexProfileDir
+File: results/nanoscope-art/test/577-profile-foreign-dex/src/Main.java
+Line: 24
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: foreignDexProfileDir
+File: results/nanoscope-art/test/577-profile-foreign-dex/src/Main.java
+Line: 24
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: foreignDexProfileDir
+File: results/nanoscope-art/test/577-profile-foreign-dex/src/Main.java
+Line: 24
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: foreignDexProfileDir
+File: results/nanoscope-art/test/577-profile-foreign-dex/src/Main.java
+Line: 36
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: foreignDexProfileDir
+File: results/nanoscope-art/test/577-profile-foreign-dex/src/Main.java
+Line: 36
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: foreignDexProfileDir
+File: results/nanoscope-art/test/577-profile-foreign-dex/src/Main.java
+Line: 36
+
+Found unverified result 🐷🔑❓
+Detector Type: EtsyApiKey
+Decoder Type: PLAIN
+Raw result: getDefaultFractionDigits
+File: results/nanoscope-art/test/092-locale/src/Main.java
+Line: 99
+
+Found unverified result 🐷🔑❓
+Detector Type: EtsyApiKey
+Decoder Type: PLAIN
+Raw result: getDefaultFractionDigits
+File: results/nanoscope-art/test/092-locale/src/Main.java
+Line: 99
+

@@ -1,0 +1,22 @@
+[
+ {
+  "Description": "Generic API Key",
+  "StartLine": 126,
+  "EndLine": 126,
+  "StartColumn": 14,
+  "EndColumn": 63,
+  "Match": "client_id\": \"278BE778-DCAE-4F7C-9713-89C338F7331C\"",
+  "Secret": "278BE778-DCAE-4F7C-9713-89C338F7331C",
+  "File": "source/includes/_eu.md",
+  "SymlinkFile": "",
+  "Commit": "449654f5f497343e680c9aa9a44362f24a8d6f7b",
+  "Entropy": 3.527719,
+  "Author": "Andreas Holley",
+  "Email": "andreasholley@monzo.com",
+  "Date": "2025-06-18T14:04:34Z",
+  "Message": "Merge pull request #202 from monzo/andreasholley_eu_onboarding_docs\n\nSplit Developer and Open Banking docs, add EU Onboarding Docs",
+  "Tags": [],
+  "RuleID": "generic-api-key",
+  "Fingerprint": "449654f5f497343e680c9aa9a44362f24a8d6f7b:source/includes/_eu.md:generic-api-key:126"
+ }
+]

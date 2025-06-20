@@ -1,0 +1,30 @@
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: cacheLineNumberTable
+File: results/docker-kafka/kafkaproxy/kafka-0.7.2.jar
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: currentTopicRegistry
+File: results/docker-kafka/kafkaproxy/kafka-0.7.2.jar
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: partitionInfosLkafka
+File: results/docker-kafka/kafkaproxy/kafka-0.7.2.jar
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: VoldDatanewData5Lorg
+File: results/docker-kafka/kafkaproxy/zkclient-0.1.jar
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: currentTopicRegistry
+File: results/docker-kafka/kafkaproxy/kafka-0.7.2.jar
+

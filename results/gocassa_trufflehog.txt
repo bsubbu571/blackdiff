@@ -1,0 +1,35 @@
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: allowClusterSentinel
+File: results/gocassa/statement.go
+Line: 179
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: PLAIN
+Raw result: allowClusterSentinel
+File: results/gocassa/statement.go
+Line: 47
+
+Found unverified result 🐷🔑❓
+Detector Type: TravisCI
+Decoder Type: PLAIN
+Raw result: MaxWaitSchemaAgreement
+File: results/gocassa/query_test.go
+Line: 36
+
+Found unverified result 🐷🔑❓
+Detector Type: PagerDutyApiKey
+Decoder Type: BASE64
+Raw result: allowClusterSentinel
+File: results/gocassa/statement.go
+Line: 182
+
+Found unverified result 🐷🔑❓
+Detector Type: TravisCI
+Decoder Type: PLAIN
+Raw result: MaxWaitSchemaAgreement
+File: results/gocassa/query_test.go
+Line: 2
+
